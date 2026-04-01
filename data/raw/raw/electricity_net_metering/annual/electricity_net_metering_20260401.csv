@@ -1,0 +1,522 @@
+period,state,stateName,technology,sector,sectorName,capacity,customers,capacity-units,customers-units
+2024,AK,Alaska,All Technologies,COM,commercial,2.646,242,megawatts,number of customers
+2024,AK,Alaska,All Technologies,IND,industrial,.121,9,megawatts,number of customers
+2024,AK,Alaska,All Technologies,RES,residential,14.421,2771,megawatts,number of customers
+2024,AK,Alaska,All Technologies,TOT,all sectors,17.188,3022,megawatts,number of customers
+2024,AK,Alaska,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,AL,Alabama,All Technologies,COM,commercial,.522,6,megawatts,number of customers
+2024,AL,Alabama,All Technologies,IND,industrial,0,0,megawatts,number of customers
+2024,AL,Alabama,All Technologies,RES,residential,.871,77,megawatts,number of customers
+2024,AL,Alabama,All Technologies,TOT,all sectors,1.393,83,megawatts,number of customers
+2024,AL,Alabama,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,AR,Arkansas,All Technologies,COM,commercial,132.094,1006,megawatts,number of customers
+2024,AR,Arkansas,All Technologies,IND,industrial,47.86,72,megawatts,number of customers
+2024,AR,Arkansas,All Technologies,RES,residential,171.861,19659,megawatts,number of customers
+2024,AR,Arkansas,All Technologies,TOT,all sectors,351.815,20737,megawatts,number of customers
+2024,AR,Arkansas,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,AZ,Arizona,All Technologies,COM,commercial,656.043,5162,megawatts,number of customers
+2024,AZ,Arizona,All Technologies,IND,industrial,10.48,9,megawatts,number of customers
+2024,AZ,Arizona,All Technologies,RES,residential,2278.233,317286,megawatts,number of customers
+2024,AZ,Arizona,All Technologies,TOT,all sectors,2944.755,322457,megawatts,number of customers
+2024,AZ,Arizona,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,CA,California,All Technologies,COM,commercial,3960.047,44802,megawatts,number of customers
+2024,CA,California,All Technologies,IND,industrial,2090.01,6995,megawatts,number of customers
+2024,CA,California,All Technologies,RES,residential,12772.375,2100679,megawatts,number of customers
+2024,CA,California,All Technologies,TOT,all sectors,18822.433,2152476,megawatts,number of customers
+2024,CA,California,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,CO,Colorado,All Technologies,COM,commercial,232.744,5673,megawatts,number of customers
+2024,CO,Colorado,All Technologies,IND,industrial,37.036,147,megawatts,number of customers
+2024,CO,Colorado,All Technologies,RES,residential,940.857,182390,megawatts,number of customers
+2024,CO,Colorado,All Technologies,TOT,all sectors,1210.636,188210,megawatts,number of customers
+2024,CO,Colorado,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,CT,Connecticut,All Technologies,COM,commercial,415.31,3576,megawatts,number of customers
+2024,CT,Connecticut,All Technologies,IND,industrial,50.718,151,megawatts,number of customers
+2024,CT,Connecticut,All Technologies,RES,residential,800.792,103856,megawatts,number of customers
+2024,CT,Connecticut,All Technologies,TOT,all sectors,1266.82,107583,megawatts,number of customers
+2024,CT,Connecticut,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,DC,District of Columbia,All Technologies,COM,commercial,61.896,1016,megawatts,number of customers
+2024,DC,District of Columbia,All Technologies,IND,industrial,0,0,megawatts,number of customers
+2024,DC,District of Columbia,All Technologies,RES,residential,117.151,28371,megawatts,number of customers
+2024,DC,District of Columbia,All Technologies,TOT,all sectors,179.047,29387,megawatts,number of customers
+2024,DC,District of Columbia,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,DE,Delaware,All Technologies,COM,commercial,39.599,756,megawatts,number of customers
+2024,DE,Delaware,All Technologies,IND,industrial,10.133,27,megawatts,number of customers
+2024,DE,Delaware,All Technologies,RES,residential,108.649,14174,megawatts,number of customers
+2024,DE,Delaware,All Technologies,TOT,all sectors,158.382,14957,megawatts,number of customers
+2024,DE,Delaware,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,FL,Florida,All Technologies,COM,commercial,191.739,4025,megawatts,number of customers
+2024,FL,Florida,All Technologies,IND,industrial,44.695,787,megawatts,number of customers
+2024,FL,Florida,All Technologies,RES,residential,2585.88,290580,megawatts,number of customers
+2024,FL,Florida,All Technologies,TOT,all sectors,2822.314,295392,megawatts,number of customers
+2024,FL,Florida,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,GA,Georgia,All Technologies,COM,commercial,44.261,810,megawatts,number of customers
+2024,GA,Georgia,All Technologies,IND,industrial,7.463,64,megawatts,number of customers
+2024,GA,Georgia,All Technologies,RES,residential,143.133,22579,megawatts,number of customers
+2024,GA,Georgia,All Technologies,TOT,all sectors,194.857,23453,megawatts,number of customers
+2024,GA,Georgia,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,HI,Hawaii,All Technologies,COM,commercial,131.587,4077,megawatts,number of customers
+2024,HI,Hawaii,All Technologies,IND,industrial,1.647,35,megawatts,number of customers
+2024,HI,Hawaii,All Technologies,RES,residential,531.816,98447,megawatts,number of customers
+2024,HI,Hawaii,All Technologies,TOT,all sectors,665.05,102559,megawatts,number of customers
+2024,HI,Hawaii,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,IA,Iowa,All Technologies,COM,commercial,155.328,4170,megawatts,number of customers
+2024,IA,Iowa,All Technologies,IND,industrial,14.407,64,megawatts,number of customers
+2024,IA,Iowa,All Technologies,RES,residential,140.022,18554,megawatts,number of customers
+2024,IA,Iowa,All Technologies,TOT,all sectors,309.757,22788,megawatts,number of customers
+2024,IA,Iowa,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,ID,Idaho,All Technologies,COM,commercial,10.383,461,megawatts,number of customers
+2024,ID,Idaho,All Technologies,IND,industrial,18.379,244,megawatts,number of customers
+2024,ID,Idaho,All Technologies,RES,residential,149.293,23062,megawatts,number of customers
+2024,ID,Idaho,All Technologies,TOT,all sectors,178.053,23767,megawatts,number of customers
+2024,ID,Idaho,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,IL,Illinois,All Technologies,COM,commercial,677.827,14155,megawatts,number of customers
+2024,IL,Illinois,All Technologies,IND,industrial,6.926,8,megawatts,number of customers
+2024,IL,Illinois,All Technologies,RES,residential,945.895,136536,megawatts,number of customers
+2024,IL,Illinois,All Technologies,TOT,all sectors,1630.649,150699,megawatts,number of customers
+2024,IL,Illinois,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,IN,Indiana,All Technologies,COM,commercial,146.636,1231,megawatts,number of customers
+2024,IN,Indiana,All Technologies,IND,industrial,15.06,44,megawatts,number of customers
+2024,IN,Indiana,All Technologies,RES,residential,96.87,11166,megawatts,number of customers
+2024,IN,Indiana,All Technologies,TOT,all sectors,258.566,12441,megawatts,number of customers
+2024,IN,Indiana,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,KS,Kansas,All Technologies,COM,commercial,19.076,462,megawatts,number of customers
+2024,KS,Kansas,All Technologies,IND,industrial,.684,14,megawatts,number of customers
+2024,KS,Kansas,All Technologies,RES,residential,68.794,9665,megawatts,number of customers
+2024,KS,Kansas,All Technologies,TOT,all sectors,88.554,10141,megawatts,number of customers
+2024,KS,Kansas,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,KY,Kentucky,All Technologies,COM,commercial,12.689,579,megawatts,number of customers
+2024,KY,Kentucky,All Technologies,IND,industrial,.253,10,megawatts,number of customers
+2024,KY,Kentucky,All Technologies,RES,residential,77.81,10137,megawatts,number of customers
+2024,KY,Kentucky,All Technologies,TOT,all sectors,90.752,10726,megawatts,number of customers
+2024,KY,Kentucky,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,LA,Louisiana,All Technologies,COM,commercial,12.095,1019,megawatts,number of customers
+2024,LA,Louisiana,All Technologies,IND,industrial,.098,8,megawatts,number of customers
+2024,LA,Louisiana,All Technologies,RES,residential,187.857,34424,megawatts,number of customers
+2024,LA,Louisiana,All Technologies,TOT,all sectors,200.049,35451,megawatts,number of customers
+2024,LA,Louisiana,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,MA,Massachusetts,All Technologies,COM,commercial,1687.043,6879,megawatts,number of customers
+2024,MA,Massachusetts,All Technologies,IND,industrial,40.841,128,megawatts,number of customers
+2024,MA,Massachusetts,All Technologies,RES,residential,1305.841,189826,megawatts,number of customers
+2024,MA,Massachusetts,All Technologies,TOT,all sectors,3033.725,196833,megawatts,number of customers
+2024,MA,Massachusetts,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,MD,Maryland,All Technologies,COM,commercial,462.039,4788,megawatts,number of customers
+2024,MD,Maryland,All Technologies,IND,industrial,28.317,26,megawatts,number of customers
+2024,MD,Maryland,All Technologies,RES,residential,907.315,117422,megawatts,number of customers
+2024,MD,Maryland,All Technologies,TOT,all sectors,1397.671,122236,megawatts,number of customers
+2024,MD,Maryland,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,ME,Maine,All Technologies,COM,commercial,1611.548,66721,megawatts,number of customers
+2024,ME,Maine,All Technologies,IND,industrial,2.546,3,megawatts,number of customers
+2024,ME,Maine,All Technologies,RES,residential,123.144,15328,megawatts,number of customers
+2024,ME,Maine,All Technologies,TOT,all sectors,1737.238,82052,megawatts,number of customers
+2024,ME,Maine,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,MI,Michigan,All Technologies,COM,commercial,68.633,1644,megawatts,number of customers
+2024,MI,Michigan,All Technologies,IND,industrial,2.625,51,megawatts,number of customers
+2024,MI,Michigan,All Technologies,RES,residential,159.249,26544,megawatts,number of customers
+2024,MI,Michigan,All Technologies,TOT,all sectors,230.508,28239,megawatts,number of customers
+2024,MI,Michigan,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,MN,Minnesota,All Technologies,COM,commercial,88.631,2258,megawatts,number of customers
+2024,MN,Minnesota,All Technologies,IND,industrial,17.207,245,megawatts,number of customers
+2024,MN,Minnesota,All Technologies,RES,residential,196.734,23858,megawatts,number of customers
+2024,MN,Minnesota,All Technologies,TOT,all sectors,302.572,26361,megawatts,number of customers
+2024,MN,Minnesota,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,MO,Missouri,All Technologies,COM,commercial,127.56,4400,megawatts,number of customers
+2024,MO,Missouri,All Technologies,IND,industrial,7.934,210,megawatts,number of customers
+2024,MO,Missouri,All Technologies,RES,residential,277.161,30816,megawatts,number of customers
+2024,MO,Missouri,All Technologies,TOT,all sectors,412.654,35426,megawatts,number of customers
+2024,MO,Missouri,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,MS,Mississippi,All Technologies,COM,commercial,4.218,99,megawatts,number of customers
+2024,MS,Mississippi,All Technologies,IND,industrial,.415,10,megawatts,number of customers
+2024,MS,Mississippi,All Technologies,RES,residential,9.856,1790,megawatts,number of customers
+2024,MS,Mississippi,All Technologies,TOT,all sectors,14.487,1899,megawatts,number of customers
+2024,MS,Mississippi,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,MT,Montana,All Technologies,COM,commercial,13.367,825,megawatts,number of customers
+2024,MT,Montana,All Technologies,IND,industrial,0,0,megawatts,number of customers
+2024,MT,Montana,All Technologies,RES,residential,67.687,9735,megawatts,number of customers
+2024,MT,Montana,All Technologies,TOT,all sectors,81.054,10560,megawatts,number of customers
+2024,MT,Montana,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,NC,North Carolina,All Technologies,COM,commercial,85.177,1889,megawatts,number of customers
+2024,NC,North Carolina,All Technologies,IND,industrial,12.136,57,megawatts,number of customers
+2024,NC,North Carolina,All Technologies,RES,residential,425.699,58743,megawatts,number of customers
+2024,NC,North Carolina,All Technologies,TOT,all sectors,523.012,60689,megawatts,number of customers
+2024,NC,North Carolina,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,ND,North Dakota,All Technologies,COM,commercial,.28,9,megawatts,number of customers
+2024,ND,North Dakota,All Technologies,IND,industrial,.06,2,megawatts,number of customers
+2024,ND,North Dakota,All Technologies,RES,residential,1.323,250,megawatts,number of customers
+2024,ND,North Dakota,All Technologies,TOT,all sectors,1.663,261,megawatts,number of customers
+2024,ND,North Dakota,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,NE,Nebraska,All Technologies,COM,commercial,10.684,329,megawatts,number of customers
+2024,NE,Nebraska,All Technologies,IND,industrial,.921,51,megawatts,number of customers
+2024,NE,Nebraska,All Technologies,RES,residential,27.372,3697,megawatts,number of customers
+2024,NE,Nebraska,All Technologies,TOT,all sectors,38.976,4077,megawatts,number of customers
+2024,NE,Nebraska,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,NH,New Hampshire,All Technologies,COM,commercial,116.694,1289,megawatts,number of customers
+2024,NH,New Hampshire,All Technologies,IND,industrial,14.702,58,megawatts,number of customers
+2024,NH,New Hampshire,All Technologies,RES,residential,181.93,22585,megawatts,number of customers
+2024,NH,New Hampshire,All Technologies,TOT,all sectors,313.326,23932,megawatts,number of customers
+2024,NH,New Hampshire,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,NJ,New Jersey,All Technologies,COM,commercial,1355.218,8885,megawatts,number of customers
+2024,NJ,New Jersey,All Technologies,IND,industrial,150.662,317,megawatts,number of customers
+2024,NJ,New Jersey,All Technologies,RES,residential,1383.125,201596,megawatts,number of customers
+2024,NJ,New Jersey,All Technologies,TOT,all sectors,2889.005,210798,megawatts,number of customers
+2024,NJ,New Jersey,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,NM,New Mexico,All Technologies,COM,commercial,102.723,1834,megawatts,number of customers
+2024,NM,New Mexico,All Technologies,IND,industrial,.407,6,megawatts,number of customers
+2024,NM,New Mexico,All Technologies,RES,residential,333.428,62069,megawatts,number of customers
+2024,NM,New Mexico,All Technologies,TOT,all sectors,436.558,63909,megawatts,number of customers
+2024,NM,New Mexico,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,NV,Nevada,All Technologies,COM,commercial,77.862,1158,megawatts,number of customers
+2024,NV,Nevada,All Technologies,IND,industrial,34.789,126,megawatts,number of customers
+2024,NV,Nevada,All Technologies,RES,residential,1021.214,134326,megawatts,number of customers
+2024,NV,Nevada,All Technologies,TOT,all sectors,1133.865,135610,megawatts,number of customers
+2024,NV,Nevada,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,NY,New York,All Technologies,COM,commercial,3633.244,12339,megawatts,number of customers
+2024,NY,New York,All Technologies,IND,industrial,28.092,72,megawatts,number of customers
+2024,NY,New York,All Technologies,RES,residential,1579.913,227703,megawatts,number of customers
+2024,NY,New York,All Technologies,TOT,all sectors,5241.249,240114,megawatts,number of customers
+2024,NY,New York,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,OH,Ohio,All Technologies,COM,commercial,190.663,1486,megawatts,number of customers
+2024,OH,Ohio,All Technologies,IND,industrial,78.486,114,megawatts,number of customers
+2024,OH,Ohio,All Technologies,RES,residential,206.37,27793,megawatts,number of customers
+2024,OH,Ohio,All Technologies,TOT,all sectors,475.518,29393,megawatts,number of customers
+2024,OH,Ohio,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,OK,Oklahoma,All Technologies,COM,commercial,33.147,2176,megawatts,number of customers
+2024,OK,Oklahoma,All Technologies,IND,industrial,3.072,39,megawatts,number of customers
+2024,OK,Oklahoma,All Technologies,RES,residential,135.053,19894,megawatts,number of customers
+2024,OK,Oklahoma,All Technologies,TOT,all sectors,171.273,22109,megawatts,number of customers
+2024,OK,Oklahoma,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,OR,Oregon,All Technologies,COM,commercial,103.125,2703,megawatts,number of customers
+2024,OR,Oregon,All Technologies,IND,industrial,20.594,283,megawatts,number of customers
+2024,OR,Oregon,All Technologies,RES,residential,334.278,52939,megawatts,number of customers
+2024,OR,Oregon,All Technologies,TOT,all sectors,457.998,55925,megawatts,number of customers
+2024,OR,Oregon,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,PA,Pennsylvania,All Technologies,COM,commercial,337.686,3020,megawatts,number of customers
+2024,PA,Pennsylvania,All Technologies,IND,industrial,105.215,214,megawatts,number of customers
+2024,PA,Pennsylvania,All Technologies,RES,residential,657.833,81937,megawatts,number of customers
+2024,PA,Pennsylvania,All Technologies,TOT,all sectors,1100.734,85171,megawatts,number of customers
+2024,PA,Pennsylvania,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,RI,Rhode Island,All Technologies,COM,commercial,477.283,618,megawatts,number of customers
+2024,RI,Rhode Island,All Technologies,IND,industrial,5.716,36,megawatts,number of customers
+2024,RI,Rhode Island,All Technologies,RES,residential,106.015,17335,megawatts,number of customers
+2024,RI,Rhode Island,All Technologies,TOT,all sectors,589.014,17989,megawatts,number of customers
+2024,RI,Rhode Island,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,SC,South Carolina,All Technologies,COM,commercial,51.275,856,megawatts,number of customers
+2024,SC,South Carolina,All Technologies,IND,industrial,20.666,53,megawatts,number of customers
+2024,SC,South Carolina,All Technologies,RES,residential,303.228,40305,megawatts,number of customers
+2024,SC,South Carolina,All Technologies,TOT,all sectors,375.169,41214,megawatts,number of customers
+2024,SC,South Carolina,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,SD,South Dakota,All Technologies,COM,commercial,1.063,47,megawatts,number of customers
+2024,SD,South Dakota,All Technologies,IND,industrial,0,0,megawatts,number of customers
+2024,SD,South Dakota,All Technologies,RES,residential,3.721,489,megawatts,number of customers
+2024,SD,South Dakota,All Technologies,TOT,all sectors,4.785,536,megawatts,number of customers
+2024,SD,South Dakota,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,TN,Tennessee,All Technologies,COM,commercial,.425,12,megawatts,number of customers
+2024,TN,Tennessee,All Technologies,IND,industrial,0,0,megawatts,number of customers
+2024,TN,Tennessee,All Technologies,RES,residential,.601,87,megawatts,number of customers
+2024,TN,Tennessee,All Technologies,TOT,all sectors,1.026,99,megawatts,number of customers
+2024,TN,Tennessee,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,TX,Texas,All Technologies,COM,commercial,147.498,1859,megawatts,number of customers
+2024,TX,Texas,All Technologies,IND,industrial,2.426,47,megawatts,number of customers
+2024,TX,Texas,All Technologies,RES,residential,1002.145,137209,megawatts,number of customers
+2024,TX,Texas,All Technologies,TOT,all sectors,1152.068,139115,megawatts,number of customers
+2024,TX,Texas,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,US,United States,All Technologies,COM,commercial,18243.845,231376,megawatts,number of customers
+2024,US,United States,All Technologies,IND,industrial,2962.1,11152,megawatts,number of customers
+2024,US,United States,All Technologies,RES,residential,34602.819,5176025,megawatts,number of customers
+2024,US,United States,All Technologies,TOT,all sectors,55808.76,5418553,megawatts,number of customers
+2024,US,United States,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,UT,Utah,All Technologies,COM,commercial,91.782,1736,megawatts,number of customers
+2024,UT,Utah,All Technologies,IND,industrial,10.073,118,megawatts,number of customers
+2024,UT,Utah,All Technologies,RES,residential,481.581,81212,megawatts,number of customers
+2024,UT,Utah,All Technologies,TOT,all sectors,583.437,83066,megawatts,number of customers
+2024,UT,Utah,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,VA,Virginia,All Technologies,COM,commercial,211.471,1803,megawatts,number of customers
+2024,VA,Virginia,All Technologies,IND,industrial,4.079,37,megawatts,number of customers
+2024,VA,Virginia,All Technologies,RES,residential,513.987,69622,megawatts,number of customers
+2024,VA,Virginia,All Technologies,TOT,all sectors,729.538,71462,megawatts,number of customers
+2024,VA,Virginia,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,VT,Vermont,All Technologies,COM,commercial,72.5,770,megawatts,number of customers
+2024,VT,Vermont,All Technologies,IND,industrial,.235,5,megawatts,number of customers
+2024,VT,Vermont,All Technologies,RES,residential,103.8,9466,megawatts,number of customers
+2024,VT,Vermont,All Technologies,TOT,all sectors,176.535,10241,megawatts,number of customers
+2024,VT,Vermont,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,WA,Washington,All Technologies,COM,commercial,64.803,3100,megawatts,number of customers
+2024,WA,Washington,All Technologies,IND,industrial,1.661,36,megawatts,number of customers
+2024,WA,Washington,All Technologies,RES,residential,430.722,61047,megawatts,number of customers
+2024,WA,Washington,All Technologies,TOT,all sectors,497.184,64183,megawatts,number of customers
+2024,WA,Washington,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,WI,Wisconsin,All Technologies,COM,commercial,100.867,2146,megawatts,number of customers
+2024,WI,Wisconsin,All Technologies,IND,industrial,10.077,87,megawatts,number of customers
+2024,WI,Wisconsin,All Technologies,RES,residential,138.182,19222,megawatts,number of customers
+2024,WI,Wisconsin,All Technologies,TOT,all sectors,249.126,21455,megawatts,number of customers
+2024,WI,Wisconsin,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,WV,West Virginia,All Technologies,COM,commercial,10.416,296,megawatts,number of customers
+2024,WV,West Virginia,All Technologies,IND,industrial,1.788,11,megawatts,number of customers
+2024,WV,West Virginia,All Technologies,RES,residential,32.637,3648,megawatts,number of customers
+2024,WV,West Virginia,All Technologies,TOT,all sectors,44.841,3955,megawatts,number of customers
+2024,WV,West Virginia,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,WY,Wyoming,All Technologies,COM,commercial,2.398,174,megawatts,number of customers
+2024,WY,Wyoming,All Technologies,IND,industrial,.388,22,megawatts,number of customers
+2024,WY,Wyoming,All Technologies,RES,residential,19.095,3119,megawatts,number of customers
+2024,WY,Wyoming,All Technologies,TOT,all sectors,21.881,3315,megawatts,number of customers
+2024,WY,Wyoming,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+period,state,stateName,technology,sector,sectorName,capacity,customers,capacity-units,customers-units
+2024,AK,Alaska,All Technologies,COM,commercial,2.646,242,megawatts,number of customers
+2024,AK,Alaska,All Technologies,IND,industrial,.121,9,megawatts,number of customers
+2024,AK,Alaska,All Technologies,RES,residential,14.421,2771,megawatts,number of customers
+2024,AK,Alaska,All Technologies,TOT,all sectors,17.188,3022,megawatts,number of customers
+2024,AK,Alaska,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,AL,Alabama,All Technologies,COM,commercial,.522,6,megawatts,number of customers
+2024,AL,Alabama,All Technologies,IND,industrial,0,0,megawatts,number of customers
+2024,AL,Alabama,All Technologies,RES,residential,.871,77,megawatts,number of customers
+2024,AL,Alabama,All Technologies,TOT,all sectors,1.393,83,megawatts,number of customers
+2024,AL,Alabama,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,AR,Arkansas,All Technologies,COM,commercial,132.094,1006,megawatts,number of customers
+2024,AR,Arkansas,All Technologies,IND,industrial,47.86,72,megawatts,number of customers
+2024,AR,Arkansas,All Technologies,RES,residential,171.861,19659,megawatts,number of customers
+2024,AR,Arkansas,All Technologies,TOT,all sectors,351.815,20737,megawatts,number of customers
+2024,AR,Arkansas,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,AZ,Arizona,All Technologies,COM,commercial,656.043,5162,megawatts,number of customers
+2024,AZ,Arizona,All Technologies,IND,industrial,10.48,9,megawatts,number of customers
+2024,AZ,Arizona,All Technologies,RES,residential,2278.233,317286,megawatts,number of customers
+2024,AZ,Arizona,All Technologies,TOT,all sectors,2944.755,322457,megawatts,number of customers
+2024,AZ,Arizona,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,CA,California,All Technologies,COM,commercial,3960.047,44802,megawatts,number of customers
+2024,CA,California,All Technologies,IND,industrial,2090.01,6995,megawatts,number of customers
+2024,CA,California,All Technologies,RES,residential,12772.375,2100679,megawatts,number of customers
+2024,CA,California,All Technologies,TOT,all sectors,18822.433,2152476,megawatts,number of customers
+2024,CA,California,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,CO,Colorado,All Technologies,COM,commercial,232.744,5673,megawatts,number of customers
+2024,CO,Colorado,All Technologies,IND,industrial,37.036,147,megawatts,number of customers
+2024,CO,Colorado,All Technologies,RES,residential,940.857,182390,megawatts,number of customers
+2024,CO,Colorado,All Technologies,TOT,all sectors,1210.636,188210,megawatts,number of customers
+2024,CO,Colorado,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,CT,Connecticut,All Technologies,COM,commercial,415.31,3576,megawatts,number of customers
+2024,CT,Connecticut,All Technologies,IND,industrial,50.718,151,megawatts,number of customers
+2024,CT,Connecticut,All Technologies,RES,residential,800.792,103856,megawatts,number of customers
+2024,CT,Connecticut,All Technologies,TOT,all sectors,1266.82,107583,megawatts,number of customers
+2024,CT,Connecticut,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,DC,District of Columbia,All Technologies,COM,commercial,61.896,1016,megawatts,number of customers
+2024,DC,District of Columbia,All Technologies,IND,industrial,0,0,megawatts,number of customers
+2024,DC,District of Columbia,All Technologies,RES,residential,117.151,28371,megawatts,number of customers
+2024,DC,District of Columbia,All Technologies,TOT,all sectors,179.047,29387,megawatts,number of customers
+2024,DC,District of Columbia,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,DE,Delaware,All Technologies,COM,commercial,39.599,756,megawatts,number of customers
+2024,DE,Delaware,All Technologies,IND,industrial,10.133,27,megawatts,number of customers
+2024,DE,Delaware,All Technologies,RES,residential,108.649,14174,megawatts,number of customers
+2024,DE,Delaware,All Technologies,TOT,all sectors,158.382,14957,megawatts,number of customers
+2024,DE,Delaware,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,FL,Florida,All Technologies,COM,commercial,191.739,4025,megawatts,number of customers
+2024,FL,Florida,All Technologies,IND,industrial,44.695,787,megawatts,number of customers
+2024,FL,Florida,All Technologies,RES,residential,2585.88,290580,megawatts,number of customers
+2024,FL,Florida,All Technologies,TOT,all sectors,2822.314,295392,megawatts,number of customers
+2024,FL,Florida,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,GA,Georgia,All Technologies,COM,commercial,44.261,810,megawatts,number of customers
+2024,GA,Georgia,All Technologies,IND,industrial,7.463,64,megawatts,number of customers
+2024,GA,Georgia,All Technologies,RES,residential,143.133,22579,megawatts,number of customers
+2024,GA,Georgia,All Technologies,TOT,all sectors,194.857,23453,megawatts,number of customers
+2024,GA,Georgia,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,HI,Hawaii,All Technologies,COM,commercial,131.587,4077,megawatts,number of customers
+2024,HI,Hawaii,All Technologies,IND,industrial,1.647,35,megawatts,number of customers
+2024,HI,Hawaii,All Technologies,RES,residential,531.816,98447,megawatts,number of customers
+2024,HI,Hawaii,All Technologies,TOT,all sectors,665.05,102559,megawatts,number of customers
+2024,HI,Hawaii,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,IA,Iowa,All Technologies,COM,commercial,155.328,4170,megawatts,number of customers
+2024,IA,Iowa,All Technologies,IND,industrial,14.407,64,megawatts,number of customers
+2024,IA,Iowa,All Technologies,RES,residential,140.022,18554,megawatts,number of customers
+2024,IA,Iowa,All Technologies,TOT,all sectors,309.757,22788,megawatts,number of customers
+2024,IA,Iowa,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,ID,Idaho,All Technologies,COM,commercial,10.383,461,megawatts,number of customers
+2024,ID,Idaho,All Technologies,IND,industrial,18.379,244,megawatts,number of customers
+2024,ID,Idaho,All Technologies,RES,residential,149.293,23062,megawatts,number of customers
+2024,ID,Idaho,All Technologies,TOT,all sectors,178.053,23767,megawatts,number of customers
+2024,ID,Idaho,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,IL,Illinois,All Technologies,COM,commercial,677.827,14155,megawatts,number of customers
+2024,IL,Illinois,All Technologies,IND,industrial,6.926,8,megawatts,number of customers
+2024,IL,Illinois,All Technologies,RES,residential,945.895,136536,megawatts,number of customers
+2024,IL,Illinois,All Technologies,TOT,all sectors,1630.649,150699,megawatts,number of customers
+2024,IL,Illinois,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,IN,Indiana,All Technologies,COM,commercial,146.636,1231,megawatts,number of customers
+2024,IN,Indiana,All Technologies,IND,industrial,15.06,44,megawatts,number of customers
+2024,IN,Indiana,All Technologies,RES,residential,96.87,11166,megawatts,number of customers
+2024,IN,Indiana,All Technologies,TOT,all sectors,258.566,12441,megawatts,number of customers
+2024,IN,Indiana,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,KS,Kansas,All Technologies,COM,commercial,19.076,462,megawatts,number of customers
+2024,KS,Kansas,All Technologies,IND,industrial,.684,14,megawatts,number of customers
+2024,KS,Kansas,All Technologies,RES,residential,68.794,9665,megawatts,number of customers
+2024,KS,Kansas,All Technologies,TOT,all sectors,88.554,10141,megawatts,number of customers
+2024,KS,Kansas,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,KY,Kentucky,All Technologies,COM,commercial,12.689,579,megawatts,number of customers
+2024,KY,Kentucky,All Technologies,IND,industrial,.253,10,megawatts,number of customers
+2024,KY,Kentucky,All Technologies,RES,residential,77.81,10137,megawatts,number of customers
+2024,KY,Kentucky,All Technologies,TOT,all sectors,90.752,10726,megawatts,number of customers
+2024,KY,Kentucky,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,LA,Louisiana,All Technologies,COM,commercial,12.095,1019,megawatts,number of customers
+2024,LA,Louisiana,All Technologies,IND,industrial,.098,8,megawatts,number of customers
+2024,LA,Louisiana,All Technologies,RES,residential,187.857,34424,megawatts,number of customers
+2024,LA,Louisiana,All Technologies,TOT,all sectors,200.049,35451,megawatts,number of customers
+2024,LA,Louisiana,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,MA,Massachusetts,All Technologies,COM,commercial,1687.043,6879,megawatts,number of customers
+2024,MA,Massachusetts,All Technologies,IND,industrial,40.841,128,megawatts,number of customers
+2024,MA,Massachusetts,All Technologies,RES,residential,1305.841,189826,megawatts,number of customers
+2024,MA,Massachusetts,All Technologies,TOT,all sectors,3033.725,196833,megawatts,number of customers
+2024,MA,Massachusetts,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,MD,Maryland,All Technologies,COM,commercial,462.039,4788,megawatts,number of customers
+2024,MD,Maryland,All Technologies,IND,industrial,28.317,26,megawatts,number of customers
+2024,MD,Maryland,All Technologies,RES,residential,907.315,117422,megawatts,number of customers
+2024,MD,Maryland,All Technologies,TOT,all sectors,1397.671,122236,megawatts,number of customers
+2024,MD,Maryland,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,ME,Maine,All Technologies,COM,commercial,1611.548,66721,megawatts,number of customers
+2024,ME,Maine,All Technologies,IND,industrial,2.546,3,megawatts,number of customers
+2024,ME,Maine,All Technologies,RES,residential,123.144,15328,megawatts,number of customers
+2024,ME,Maine,All Technologies,TOT,all sectors,1737.238,82052,megawatts,number of customers
+2024,ME,Maine,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,MI,Michigan,All Technologies,COM,commercial,68.633,1644,megawatts,number of customers
+2024,MI,Michigan,All Technologies,IND,industrial,2.625,51,megawatts,number of customers
+2024,MI,Michigan,All Technologies,RES,residential,159.249,26544,megawatts,number of customers
+2024,MI,Michigan,All Technologies,TOT,all sectors,230.508,28239,megawatts,number of customers
+2024,MI,Michigan,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,MN,Minnesota,All Technologies,COM,commercial,88.631,2258,megawatts,number of customers
+2024,MN,Minnesota,All Technologies,IND,industrial,17.207,245,megawatts,number of customers
+2024,MN,Minnesota,All Technologies,RES,residential,196.734,23858,megawatts,number of customers
+2024,MN,Minnesota,All Technologies,TOT,all sectors,302.572,26361,megawatts,number of customers
+2024,MN,Minnesota,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,MO,Missouri,All Technologies,COM,commercial,127.56,4400,megawatts,number of customers
+2024,MO,Missouri,All Technologies,IND,industrial,7.934,210,megawatts,number of customers
+2024,MO,Missouri,All Technologies,RES,residential,277.161,30816,megawatts,number of customers
+2024,MO,Missouri,All Technologies,TOT,all sectors,412.654,35426,megawatts,number of customers
+2024,MO,Missouri,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,MS,Mississippi,All Technologies,COM,commercial,4.218,99,megawatts,number of customers
+2024,MS,Mississippi,All Technologies,IND,industrial,.415,10,megawatts,number of customers
+2024,MS,Mississippi,All Technologies,RES,residential,9.856,1790,megawatts,number of customers
+2024,MS,Mississippi,All Technologies,TOT,all sectors,14.487,1899,megawatts,number of customers
+2024,MS,Mississippi,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,MT,Montana,All Technologies,COM,commercial,13.367,825,megawatts,number of customers
+2024,MT,Montana,All Technologies,IND,industrial,0,0,megawatts,number of customers
+2024,MT,Montana,All Technologies,RES,residential,67.687,9735,megawatts,number of customers
+2024,MT,Montana,All Technologies,TOT,all sectors,81.054,10560,megawatts,number of customers
+2024,MT,Montana,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,NC,North Carolina,All Technologies,COM,commercial,85.177,1889,megawatts,number of customers
+2024,NC,North Carolina,All Technologies,IND,industrial,12.136,57,megawatts,number of customers
+2024,NC,North Carolina,All Technologies,RES,residential,425.699,58743,megawatts,number of customers
+2024,NC,North Carolina,All Technologies,TOT,all sectors,523.012,60689,megawatts,number of customers
+2024,NC,North Carolina,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,ND,North Dakota,All Technologies,COM,commercial,.28,9,megawatts,number of customers
+2024,ND,North Dakota,All Technologies,IND,industrial,.06,2,megawatts,number of customers
+2024,ND,North Dakota,All Technologies,RES,residential,1.323,250,megawatts,number of customers
+2024,ND,North Dakota,All Technologies,TOT,all sectors,1.663,261,megawatts,number of customers
+2024,ND,North Dakota,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,NE,Nebraska,All Technologies,COM,commercial,10.684,329,megawatts,number of customers
+2024,NE,Nebraska,All Technologies,IND,industrial,.921,51,megawatts,number of customers
+2024,NE,Nebraska,All Technologies,RES,residential,27.372,3697,megawatts,number of customers
+2024,NE,Nebraska,All Technologies,TOT,all sectors,38.976,4077,megawatts,number of customers
+2024,NE,Nebraska,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,NH,New Hampshire,All Technologies,COM,commercial,116.694,1289,megawatts,number of customers
+2024,NH,New Hampshire,All Technologies,IND,industrial,14.702,58,megawatts,number of customers
+2024,NH,New Hampshire,All Technologies,RES,residential,181.93,22585,megawatts,number of customers
+2024,NH,New Hampshire,All Technologies,TOT,all sectors,313.326,23932,megawatts,number of customers
+2024,NH,New Hampshire,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,NJ,New Jersey,All Technologies,COM,commercial,1355.218,8885,megawatts,number of customers
+2024,NJ,New Jersey,All Technologies,IND,industrial,150.662,317,megawatts,number of customers
+2024,NJ,New Jersey,All Technologies,RES,residential,1383.125,201596,megawatts,number of customers
+2024,NJ,New Jersey,All Technologies,TOT,all sectors,2889.005,210798,megawatts,number of customers
+2024,NJ,New Jersey,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,NM,New Mexico,All Technologies,COM,commercial,102.723,1834,megawatts,number of customers
+2024,NM,New Mexico,All Technologies,IND,industrial,.407,6,megawatts,number of customers
+2024,NM,New Mexico,All Technologies,RES,residential,333.428,62069,megawatts,number of customers
+2024,NM,New Mexico,All Technologies,TOT,all sectors,436.558,63909,megawatts,number of customers
+2024,NM,New Mexico,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,NV,Nevada,All Technologies,COM,commercial,77.862,1158,megawatts,number of customers
+2024,NV,Nevada,All Technologies,IND,industrial,34.789,126,megawatts,number of customers
+2024,NV,Nevada,All Technologies,RES,residential,1021.214,134326,megawatts,number of customers
+2024,NV,Nevada,All Technologies,TOT,all sectors,1133.865,135610,megawatts,number of customers
+2024,NV,Nevada,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,NY,New York,All Technologies,COM,commercial,3633.244,12339,megawatts,number of customers
+2024,NY,New York,All Technologies,IND,industrial,28.092,72,megawatts,number of customers
+2024,NY,New York,All Technologies,RES,residential,1579.913,227703,megawatts,number of customers
+2024,NY,New York,All Technologies,TOT,all sectors,5241.249,240114,megawatts,number of customers
+2024,NY,New York,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,OH,Ohio,All Technologies,COM,commercial,190.663,1486,megawatts,number of customers
+2024,OH,Ohio,All Technologies,IND,industrial,78.486,114,megawatts,number of customers
+2024,OH,Ohio,All Technologies,RES,residential,206.37,27793,megawatts,number of customers
+2024,OH,Ohio,All Technologies,TOT,all sectors,475.518,29393,megawatts,number of customers
+2024,OH,Ohio,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,OK,Oklahoma,All Technologies,COM,commercial,33.147,2176,megawatts,number of customers
+2024,OK,Oklahoma,All Technologies,IND,industrial,3.072,39,megawatts,number of customers
+2024,OK,Oklahoma,All Technologies,RES,residential,135.053,19894,megawatts,number of customers
+2024,OK,Oklahoma,All Technologies,TOT,all sectors,171.273,22109,megawatts,number of customers
+2024,OK,Oklahoma,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,OR,Oregon,All Technologies,COM,commercial,103.125,2703,megawatts,number of customers
+2024,OR,Oregon,All Technologies,IND,industrial,20.594,283,megawatts,number of customers
+2024,OR,Oregon,All Technologies,RES,residential,334.278,52939,megawatts,number of customers
+2024,OR,Oregon,All Technologies,TOT,all sectors,457.998,55925,megawatts,number of customers
+2024,OR,Oregon,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,PA,Pennsylvania,All Technologies,COM,commercial,337.686,3020,megawatts,number of customers
+2024,PA,Pennsylvania,All Technologies,IND,industrial,105.215,214,megawatts,number of customers
+2024,PA,Pennsylvania,All Technologies,RES,residential,657.833,81937,megawatts,number of customers
+2024,PA,Pennsylvania,All Technologies,TOT,all sectors,1100.734,85171,megawatts,number of customers
+2024,PA,Pennsylvania,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,RI,Rhode Island,All Technologies,COM,commercial,477.283,618,megawatts,number of customers
+2024,RI,Rhode Island,All Technologies,IND,industrial,5.716,36,megawatts,number of customers
+2024,RI,Rhode Island,All Technologies,RES,residential,106.015,17335,megawatts,number of customers
+2024,RI,Rhode Island,All Technologies,TOT,all sectors,589.014,17989,megawatts,number of customers
+2024,RI,Rhode Island,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,SC,South Carolina,All Technologies,COM,commercial,51.275,856,megawatts,number of customers
+2024,SC,South Carolina,All Technologies,IND,industrial,20.666,53,megawatts,number of customers
+2024,SC,South Carolina,All Technologies,RES,residential,303.228,40305,megawatts,number of customers
+2024,SC,South Carolina,All Technologies,TOT,all sectors,375.169,41214,megawatts,number of customers
+2024,SC,South Carolina,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,SD,South Dakota,All Technologies,COM,commercial,1.063,47,megawatts,number of customers
+2024,SD,South Dakota,All Technologies,IND,industrial,0,0,megawatts,number of customers
+2024,SD,South Dakota,All Technologies,RES,residential,3.721,489,megawatts,number of customers
+2024,SD,South Dakota,All Technologies,TOT,all sectors,4.785,536,megawatts,number of customers
+2024,SD,South Dakota,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,TN,Tennessee,All Technologies,COM,commercial,.425,12,megawatts,number of customers
+2024,TN,Tennessee,All Technologies,IND,industrial,0,0,megawatts,number of customers
+2024,TN,Tennessee,All Technologies,RES,residential,.601,87,megawatts,number of customers
+2024,TN,Tennessee,All Technologies,TOT,all sectors,1.026,99,megawatts,number of customers
+2024,TN,Tennessee,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,TX,Texas,All Technologies,COM,commercial,147.498,1859,megawatts,number of customers
+2024,TX,Texas,All Technologies,IND,industrial,2.426,47,megawatts,number of customers
+2024,TX,Texas,All Technologies,RES,residential,1002.145,137209,megawatts,number of customers
+2024,TX,Texas,All Technologies,TOT,all sectors,1152.068,139115,megawatts,number of customers
+2024,TX,Texas,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,US,United States,All Technologies,COM,commercial,18243.845,231376,megawatts,number of customers
+2024,US,United States,All Technologies,IND,industrial,2962.1,11152,megawatts,number of customers
+2024,US,United States,All Technologies,RES,residential,34602.819,5176025,megawatts,number of customers
+2024,US,United States,All Technologies,TOT,all sectors,55808.76,5418553,megawatts,number of customers
+2024,US,United States,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,UT,Utah,All Technologies,COM,commercial,91.782,1736,megawatts,number of customers
+2024,UT,Utah,All Technologies,IND,industrial,10.073,118,megawatts,number of customers
+2024,UT,Utah,All Technologies,RES,residential,481.581,81212,megawatts,number of customers
+2024,UT,Utah,All Technologies,TOT,all sectors,583.437,83066,megawatts,number of customers
+2024,UT,Utah,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,VA,Virginia,All Technologies,COM,commercial,211.471,1803,megawatts,number of customers
+2024,VA,Virginia,All Technologies,IND,industrial,4.079,37,megawatts,number of customers
+2024,VA,Virginia,All Technologies,RES,residential,513.987,69622,megawatts,number of customers
+2024,VA,Virginia,All Technologies,TOT,all sectors,729.538,71462,megawatts,number of customers
+2024,VA,Virginia,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,VT,Vermont,All Technologies,COM,commercial,72.5,770,megawatts,number of customers
+2024,VT,Vermont,All Technologies,IND,industrial,.235,5,megawatts,number of customers
+2024,VT,Vermont,All Technologies,RES,residential,103.8,9466,megawatts,number of customers
+2024,VT,Vermont,All Technologies,TOT,all sectors,176.535,10241,megawatts,number of customers
+2024,VT,Vermont,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,WA,Washington,All Technologies,COM,commercial,64.803,3100,megawatts,number of customers
+2024,WA,Washington,All Technologies,IND,industrial,1.661,36,megawatts,number of customers
+2024,WA,Washington,All Technologies,RES,residential,430.722,61047,megawatts,number of customers
+2024,WA,Washington,All Technologies,TOT,all sectors,497.184,64183,megawatts,number of customers
+2024,WA,Washington,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,WI,Wisconsin,All Technologies,COM,commercial,100.867,2146,megawatts,number of customers
+2024,WI,Wisconsin,All Technologies,IND,industrial,10.077,87,megawatts,number of customers
+2024,WI,Wisconsin,All Technologies,RES,residential,138.182,19222,megawatts,number of customers
+2024,WI,Wisconsin,All Technologies,TOT,all sectors,249.126,21455,megawatts,number of customers
+2024,WI,Wisconsin,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,WV,West Virginia,All Technologies,COM,commercial,10.416,296,megawatts,number of customers
+2024,WV,West Virginia,All Technologies,IND,industrial,1.788,11,megawatts,number of customers
+2024,WV,West Virginia,All Technologies,RES,residential,32.637,3648,megawatts,number of customers
+2024,WV,West Virginia,All Technologies,TOT,all sectors,44.841,3955,megawatts,number of customers
+2024,WV,West Virginia,All Technologies,TRN,transportation,0,0,megawatts,number of customers
+2024,WY,Wyoming,All Technologies,COM,commercial,2.398,174,megawatts,number of customers
+2024,WY,Wyoming,All Technologies,IND,industrial,.388,22,megawatts,number of customers
+2024,WY,Wyoming,All Technologies,RES,residential,19.095,3119,megawatts,number of customers
+2024,WY,Wyoming,All Technologies,TOT,all sectors,21.881,3315,megawatts,number of customers
+2024,WY,Wyoming,All Technologies,TRN,transportation,0,0,megawatts,number of customers

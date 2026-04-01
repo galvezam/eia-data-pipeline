@@ -1,0 +1,1728 @@
+period,stateID,stateDescription,average-retail-price-rank,carbon-dioxide-rank,direct-use-rank,fsp-sales-rank,generation-elect-utils-rank,net-generation-rank,nitrogen-oxide-rank,sulfer-dioxide-rank,average-retail-price-rank-units,carbon-dioxide-rank-units,direct-use-rank-units,fsp-sales-rank-units,generation-elect-utils-rank-units,net-generation-rank-units,nitrogen-oxide-rank-units,sulfer-dioxide-rank-units
+2024,AK,Alaska,6,44,43,47,38,48,23,40,rank,rank,rank,rank,rank,rank,rank,rank
+2024,AL,Alabama,23,8,6,13,4,6,18,12,rank,rank,rank,rank,rank,rank,rank,rank
+2024,AR,Arkansas,43,26,27,26,19,26,25,10,rank,rank,rank,rank,rank,rank,rank,rank
+2024,AZ,Arizona,16,16,33,10,9,12,20,33,rank,rank,rank,rank,rank,rank,rank,rank
+2024,CA,California,2,15,3,3,11,4,3,44,rank,rank,rank,rank,rank,rank,rank,rank
+2024,CO,Colorado,22,27,39,21,25,28,35,30,rank,rank,rank,rank,rank,rank,rank,rank
+2024,CT,Connecticut,3,38,24,41,45,33,43,47,rank,rank,rank,rank,rank,rank,rank,rank
+2024,DC,District of Columbia,11,50,47,51,50,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2024,DE,Delaware,15,48,29,45,47,49,49,45,rank,rank,rank,rank,rank,rank,rank,rank
+2024,FL,Florida,18,2,8,2,1,2,4,19,rank,rank,rank,rank,rank,rank,rank,rank
+2024,GA,Georgia,26,12,7,4,2,8,8,4,rank,rank,rank,rank,rank,rank,rank,rank
+2024,HI,Hawaii,1,42,36,44,39,47,27,20,rank,rank,rank,rank,rank,rank,rank,rank
+2024,ID,Idaho,44,45,32,38,35,43,45,37,rank,rank,rank,rank,rank,rank,rank,rank
+2024,IL,Illinois,21,11,10,24,40,5,24,11,rank,rank,rank,rank,rank,rank,rank,rank
+2024,IN,Indiana,27,5,4,8,17,17,6,15,rank,rank,rank,rank,rank,rank,rank,rank
+2024,KY,Kentucky,40,7,37,17,14,22,12,5,rank,rank,rank,rank,rank,rank,rank,rank
+2024,LA,Louisiana,50,13,2,9,15,16,2,16,rank,rank,rank,rank,rank,rank,rank,rank
+2024,MA,Massachusetts,5,41,26,40,43,41,40,41,rank,rank,rank,rank,rank,rank,rank,rank
+2024,MD,Maryland,13,40,38,35,41,38,42,39,rank,rank,rank,rank,rank,rank,rank,rank
+2024,ME,Maine,8,46,22,46,49,45,44,34,rank,rank,rank,rank,rank,rank,rank,rank
+2024,MI,Michigan,14,6,14,11,7,11,5,8,rank,rank,rank,rank,rank,rank,rank,rank
+2024,MN,Minnesota,20,30,18,20,23,29,29,22,rank,rank,rank,rank,rank,rank,rank,rank
+2024,MO,Missouri,31,9,40,16,16,23,9,3,rank,rank,rank,rank,rank,rank,rank,rank
+2024,MS,Mississippi,33,22,16,27,13,19,34,23,rank,rank,rank,rank,rank,rank,rank,rank
+2024,MT,Montana,37,36,50,43,36,40,36,29,rank,rank,rank,rank,rank,rank,rank,rank
+2024,NC,North Carolina,24,14,19,5,3,9,7,21,rank,rank,rank,rank,rank,rank,rank,rank
+2024,ND,North Dakota,51,24,45,37,28,34,13,7,rank,rank,rank,rank,rank,rank,rank,rank
+2024,NE,Nebraska,49,31,35,31,32,37,30,6,rank,rank,rank,rank,rank,rank,rank,rank
+2024,NH,New Hampshire,7,49,48,49,48,44,48,46,rank,rank,rank,rank,rank,rank,rank,rank
+2024,NJ,New Jersey,12,33,17,28,44,27,41,48,rank,rank,rank,rank,rank,rank,rank,rank
+2024,NV,Nevada,25,35,46,33,31,32,38,36,rank,rank,rank,rank,rank,rank,rank,rank
+2024,NY,New York,9,19,9,15,26,10,15,31,rank,rank,rank,rank,rank,rank,rank,rank
+2024,OH,Ohio,28,4,23,30,34,7,11,2,rank,rank,rank,rank,rank,rank,rank,rank
+2024,OK,Oklahoma,48,21,25,18,21,18,14,26,rank,rank,rank,rank,rank,rank,rank,rank
+2024,OR,Oregon,30,39,30,22,22,25,19,35,rank,rank,rank,rank,rank,rank,rank,rank
+2024,PA,Pennsylvania,19,3,5,25,46,3,10,13,rank,rank,rank,rank,rank,rank,rank,rank
+2024,RI,Rhode Island,4,43,44,50,51,46,47,50,rank,rank,rank,rank,rank,rank,rank,rank
+2024,SC,South Carolina,35,25,15,14,6,15,31,17,rank,rank,rank,rank,rank,rank,rank,rank
+2024,TN,Tennessee,34,23,13,7,12,20,32,18,rank,rank,rank,rank,rank,rank,rank,rank
+2024,TX,Texas,42,1,1,1,5,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2024,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2024,UT,Utah,41,29,31,32,30,39,22,32,rank,rank,rank,rank,rank,rank,rank,rank
+2024,VA,Virginia,38,20,11,6,10,13,28,25,rank,rank,rank,rank,rank,rank,rank,rank
+2024,VT,Vermont,10,51,51,48,42,50,50,49,rank,rank,rank,rank,rank,rank,rank,rank
+2024,WA,Washington,39,37,34,12,8,14,37,24,rank,rank,rank,rank,rank,rank,rank,rank
+2024,WI,Wisconsin,17,17,21,19,20,24,21,28,rank,rank,rank,rank,rank,rank,rank,rank
+2024,WV,West Virginia,32,10,28,34,24,31,16,9,rank,rank,rank,rank,rank,rank,rank,rank
+2024,WY,Wyoming,47,18,20,39,27,35,17,14,rank,rank,rank,rank,rank,rank,rank,rank
+2023,AK,Alaska,7,44,39,47,38,48,22,39,rank,rank,rank,rank,rank,rank,rank,rank
+2023,AL,Alabama,25,8,6,13,4,6,17,13,rank,rank,rank,rank,rank,rank,rank,rank
+2023,AR,Arkansas,41,20,23,27,17,25,28,9,rank,rank,rank,rank,rank,rank,rank,rank
+2023,AZ,Arizona,21,17,45,12,8,12,18,31,rank,rank,rank,rank,rank,rank,rank,rank
+2023,CA,California,2,11,3,3,10,4,2,43,rank,rank,rank,rank,rank,rank,rank,rank
+2023,CO,Colorado,22,21,40,21,24,29,31,27,rank,rank,rank,rank,rank,rank,rank,rank
+2023,CT,Connecticut,3,38,25,41,45,35,42,46,rank,rank,rank,rank,rank,rank,rank,rank
+2023,DC,District of Columbia,11,50,46,51,50,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2023,DE,Delaware,17,48,28,45,47,49,49,48,rank,rank,rank,rank,rank,rank,rank,rank
+2023,FL,Florida,15,2,8,2,1,2,4,17,rank,rank,rank,rank,rank,rank,rank,rank
+2023,GA,Georgia,26,12,7,4,2,8,8,4,rank,rank,rank,rank,rank,rank,rank,rank
+2023,HI,Hawaii,1,42,43,44,39,47,29,21,rank,rank,rank,rank,rank,rank,rank,rank
+2023,ID,Idaho,47,45,31,38,35,42,45,36,rank,rank,rank,rank,rank,rank,rank,rank
+2023,IL,Illinois,23,14,9,24,41,5,27,11,rank,rank,rank,rank,rank,rank,rank,rank
+2023,IN,Indiana,24,5,4,8,19,17,5,15,rank,rank,rank,rank,rank,rank,rank,rank
+2023,KY,Kentucky,40,6,35,17,14,24,12,7,rank,rank,rank,rank,rank,rank,rank,rank
+2023,LA,Louisiana,49,13,2,9,15,15,3,14,rank,rank,rank,rank,rank,rank,rank,rank
+2023,MA,Massachusetts,4,41,27,40,43,41,39,41,rank,rank,rank,rank,rank,rank,rank,rank
+2023,MD,Maryland,13,40,37,35,40,38,43,42,rank,rank,rank,rank,rank,rank,rank,rank
+2023,ME,Maine,8,47,22,46,49,45,44,34,rank,rank,rank,rank,rank,rank,rank,rank
+2023,MI,Michigan,14,7,12,10,6,11,6,10,rank,rank,rank,rank,rank,rank,rank,rank
+2023,MO,Missouri,30,9,36,16,16,22,9,2,rank,rank,rank,rank,rank,rank,rank,rank
+2023,MS,Mississippi,29,22,16,28,13,20,34,24,rank,rank,rank,rank,rank,rank,rank,rank
+2023,MT,Montana,28,34,50,43,36,40,36,29,rank,rank,rank,rank,rank,rank,rank,rank
+2023,NC,North Carolina,34,15,17,5,3,9,7,19,rank,rank,rank,rank,rank,rank,rank,rank
+2023,ND,North Dakota,51,23,44,37,29,34,14,8,rank,rank,rank,rank,rank,rank,rank,rank
+2023,NE,Nebraska,46,32,33,31,31,36,25,5,rank,rank,rank,rank,rank,rank,rank,rank
+2023,NH,New Hampshire,5,49,49,49,48,44,48,47,rank,rank,rank,rank,rank,rank,rank,rank
+2023,NJ,New Jersey,12,33,19,29,44,23,40,45,rank,rank,rank,rank,rank,rank,rank,rank
+2023,NV,Nevada,16,37,47,34,32,33,38,38,rank,rank,rank,rank,rank,rank,rank,rank
+2023,NY,New York,9,19,10,15,27,10,16,32,rank,rank,rank,rank,rank,rank,rank,rank
+2023,OH,Ohio,27,4,24,26,34,7,11,3,rank,rank,rank,rank,rank,rank,rank,rank
+2023,OK,Oklahoma,45,24,26,18,21,18,20,28,rank,rank,rank,rank,rank,rank,rank,rank
+2023,OR,Oregon,37,39,32,22,22,27,19,35,rank,rank,rank,rank,rank,rank,rank,rank
+2023,PA,Pennsylvania,19,3,5,25,46,3,10,12,rank,rank,rank,rank,rank,rank,rank,rank
+2023,RI,Rhode Island,6,43,41,50,51,46,47,50,rank,rank,rank,rank,rank,rank,rank,rank
+2023,SC,South Carolina,35,25,14,14,5,14,30,18,rank,rank,rank,rank,rank,rank,rank,rank
+2023,TN,Tennessee,32,26,15,7,11,19,37,22,rank,rank,rank,rank,rank,rank,rank,rank
+2023,TX,Texas,39,1,1,1,9,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2023,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2023,UT,Utah,48,30,34,32,30,39,21,33,rank,rank,rank,rank,rank,rank,rank,rank
+2023,VA,Virginia,33,28,11,6,12,16,32,25,rank,rank,rank,rank,rank,rank,rank,rank
+2023,VT,Vermont,10,51,51,48,42,50,50,49,rank,rank,rank,rank,rank,rank,rank,rank
+2023,WA,Washington,42,35,29,11,7,13,35,26,rank,rank,rank,rank,rank,rank,rank,rank
+2023,WI,Wisconsin,18,18,21,19,20,26,23,30,rank,rank,rank,rank,rank,rank,rank,rank
+2023,WV,West Virginia,38,10,30,33,26,31,15,6,rank,rank,rank,rank,rank,rank,rank,rank
+2023,WY,Wyoming,50,16,20,39,25,32,13,16,rank,rank,rank,rank,rank,rank,rank,rank
+2022,AK,Alaska,6,43,39,47,38,48,27,42,rank,rank,rank,rank,rank,rank,rank,rank
+2022,AL,Alabama,24,10,7,12,3,6,20,16,rank,rank,rank,rank,rank,rank,rank,rank
+2022,AR,Arkansas,41,19,23,27,19,24,26,11,rank,rank,rank,rank,rank,rank,rank,rank
+2022,AZ,Arizona,26,18,40,13,8,14,21,33,rank,rank,rank,rank,rank,rank,rank,rank
+2022,CA,California,2,13,3,3,15,4,2,43,rank,rank,rank,rank,rank,rank,rank,rank
+2022,CO,Colorado,22,21,41,23,23,30,29,29,rank,rank,rank,rank,rank,rank,rank,rank
+2022,CT,Connecticut,4,39,26,41,46,34,43,44,rank,rank,rank,rank,rank,rank,rank,rank
+2022,DC,District of Columbia,11,50,46,51,51,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2022,DE,Delaware,21,47,28,45,47,49,49,48,rank,rank,rank,rank,rank,rank,rank,rank
+2022,FL,Florida,15,2,8,2,1,2,5,12,rank,rank,rank,rank,rank,rank,rank,rank
+2022,GA,Georgia,17,14,6,4,5,9,11,8,rank,rank,rank,rank,rank,rank,rank,rank
+2022,HI,Hawaii,1,42,37,44,39,46,34,22,rank,rank,rank,rank,rank,rank,rank,rank
+2022,ID,Idaho,49,49,30,37,36,44,45,39,rank,rank,rank,rank,rank,rank,rank,rank
+2022,IL,Illinois,19,9,9,24,40,5,15,4,rank,rank,rank,rank,rank,rank,rank,rank
+2022,IN,Indiana,23,5,4,8,17,16,4,15,rank,rank,rank,rank,rank,rank,rank,rank
+2022,KY,Kentucky,32,8,35,17,13,22,12,6,rank,rank,rank,rank,rank,rank,rank,rank
+2022,LA,Louisiana,34,12,2,9,14,13,3,13,rank,rank,rank,rank,rank,rank,rank,rank
+2022,MA,Massachusetts,3,40,27,39,43,41,41,41,rank,rank,rank,rank,rank,rank,rank,rank
+2022,MD,Maryland,13,37,38,35,41,39,42,37,rank,rank,rank,rank,rank,rank,rank,rank
+2022,ME,Maine,9,46,17,46,49,45,44,34,rank,rank,rank,rank,rank,rank,rank,rank
+2022,MI,Michigan,14,6,11,10,9,11,6,5,rank,rank,rank,rank,rank,rank,rank,rank
+2022,MN,Minnesota,16,31,18,20,22,29,23,24,rank,rank,rank,rank,rank,rank,rank,rank
+2022,MO,Missouri,36,7,36,15,11,19,7,2,rank,rank,rank,rank,rank,rank,rank,rank
+2022,MS,Mississippi,35,23,19,28,16,23,32,28,rank,rank,rank,rank,rank,rank,rank,rank
+2022,MT,Montana,40,35,50,43,35,40,36,31,rank,rank,rank,rank,rank,rank,rank,rank
+2022,NC,North Carolina,43,15,16,5,2,8,9,18,rank,rank,rank,rank,rank,rank,rank,rank
+2022,ND,North Dakota,50,22,43,38,29,33,17,14,rank,rank,rank,rank,rank,rank,rank,rank
+2022,NE,Nebraska,47,32,33,31,31,37,25,9,rank,rank,rank,rank,rank,rank,rank,rank
+2022,NH,New Hampshire,5,48,48,48,48,42,48,47,rank,rank,rank,rank,rank,rank,rank,rank
+2022,NJ,New Jersey,12,34,20,29,44,25,40,45,rank,rank,rank,rank,rank,rank,rank,rank
+2022,NV,Nevada,27,36,47,33,32,35,39,38,rank,rank,rank,rank,rank,rank,rank,rank
+2022,NY,New York,8,20,12,16,27,10,18,30,rank,rank,rank,rank,rank,rank,rank,rank
+2022,OH,Ohio,31,4,24,22,34,7,8,3,rank,rank,rank,rank,rank,rank,rank,rank
+2022,OR,Oregon,45,41,34,26,21,27,31,36,rank,rank,rank,rank,rank,rank,rank,rank
+2022,PA,Pennsylvania,20,3,5,21,45,3,10,10,rank,rank,rank,rank,rank,rank,rank,rank
+2022,RI,Rhode Island,7,44,44,50,50,47,47,50,rank,rank,rank,rank,rank,rank,rank,rank
+2022,SC,South Carolina,30,29,10,14,6,15,33,20,rank,rank,rank,rank,rank,rank,rank,rank
+2022,TN,Tennessee,28,25,15,7,10,20,37,21,rank,rank,rank,rank,rank,rank,rank,rank
+2022,TX,Texas,37,1,1,1,7,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2022,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2022,UT,Utah,48,26,31,32,30,38,14,32,rank,rank,rank,rank,rank,rank,rank,rank
+2022,VA,Virginia,29,28,13,6,12,17,30,25,rank,rank,rank,rank,rank,rank,rank,rank
+2022,VT,Vermont,10,51,51,49,42,50,50,49,rank,rank,rank,rank,rank,rank,rank,rank
+2022,WA,Washington,46,38,29,11,4,12,35,23,rank,rank,rank,rank,rank,rank,rank,rank
+2022,WI,Wisconsin,18,17,21,18,20,28,24,27,rank,rank,rank,rank,rank,rank,rank,rank
+2022,WV,West Virginia,42,11,32,34,25,31,16,7,rank,rank,rank,rank,rank,rank,rank,rank
+2022,WY,Wyoming,51,16,22,40,24,32,13,17,rank,rank,rank,rank,rank,rank,rank,rank
+2021,AK,Alaska,2,44,39,47,38,48,26,40,rank,rank,rank,rank,rank,rank,rank,rank
+2021,AL,Alabama,25,11,6,12,3,6,21,16,rank,rank,rank,rank,rank,rank,rank,rank
+2021,AR,Arkansas,40,21,22,26,19,27,25,10,rank,rank,rank,rank,rank,rank,rank,rank
+2021,AZ,Arizona,18,18,40,13,7,13,20,33,rank,rank,rank,rank,rank,rank,rank,rank
+2021,CA,California,3,13,3,3,16,4,2,43,rank,rank,rank,rank,rank,rank,rank,rank
+2021,CO,Colorado,17,19,48,21,23,30,30,29,rank,rank,rank,rank,rank,rank,rank,rank
+2021,CT,Connecticut,6,39,25,41,45,32,43,45,rank,rank,rank,rank,rank,rank,rank,rank
+2021,DC,District of Columbia,13,50,45,51,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2021,DE,Delaware,20,47,29,45,47,49,48,47,rank,rank,rank,rank,rank,rank,rank,rank
+2021,FL,Florida,19,2,8,2,1,2,7,12,rank,rank,rank,rank,rank,rank,rank,rank
+2021,GA,Georgia,22,14,7,4,4,10,11,8,rank,rank,rank,rank,rank,rank,rank,rank
+2021,HI,Hawaii,1,42,36,44,39,47,32,22,rank,rank,rank,rank,rank,rank,rank,rank
+2021,ID,Idaho,51,45,31,37,36,44,45,37,rank,rank,rank,rank,rank,rank,rank,rank
+2021,IL,Illinois,26,8,9,24,40,5,14,5,rank,rank,rank,rank,rank,rank,rank,rank
+2021,IN,Indiana,24,4,4,7,17,16,5,15,rank,rank,rank,rank,rank,rank,rank,rank
+2021,KY,Kentucky,39,9,35,17,13,21,13,6,rank,rank,rank,rank,rank,rank,rank,rank
+2021,LA,Louisiana,44,12,2,10,14,14,4,13,rank,rank,rank,rank,rank,rank,rank,rank
+2021,MA,Massachusetts,4,41,30,39,43,41,41,42,rank,rank,rank,rank,rank,rank,rank,rank
+2021,MD,Maryland,14,37,44,35,41,37,42,35,rank,rank,rank,rank,rank,rank,rank,rank
+2021,ME,Maine,11,48,18,46,49,45,44,34,rank,rank,rank,rank,rank,rank,rank,rank
+2021,MI,Michigan,12,10,13,9,8,11,3,4,rank,rank,rank,rank,rank,rank,rank,rank
+2021,MN,Minnesota,15,30,21,19,22,29,24,25,rank,rank,rank,rank,rank,rank,rank,rank
+2021,MO,Missouri,29,6,37,15,12,20,6,2,rank,rank,rank,rank,rank,rank,rank,rank
+2021,MS,Mississippi,34,28,17,27,15,22,34,28,rank,rank,rank,rank,rank,rank,rank,rank
+2021,MT,Montana,33,36,50,43,35,40,37,31,rank,rank,rank,rank,rank,rank,rank,rank
+2021,NC,North Carolina,35,15,16,5,2,7,10,18,rank,rank,rank,rank,rank,rank,rank,rank
+2021,ND,North Dakota,46,25,43,38,29,34,17,14,rank,rank,rank,rank,rank,rank,rank,rank
+2021,NE,Nebraska,43,32,34,34,31,38,27,11,rank,rank,rank,rank,rank,rank,rank,rank
+2021,NH,New Hampshire,7,49,47,48,48,43,47,48,rank,rank,rank,rank,rank,rank,rank,rank
+2021,NJ,New Jersey,10,34,24,29,44,26,40,44,rank,rank,rank,rank,rank,rank,rank,rank
+2021,NM,New Mexico,30,33,41,36,33,39,36,39,rank,rank,rank,rank,rank,rank,rank,rank
+2021,NV,Nevada,47,35,46,31,32,36,39,41,rank,rank,rank,rank,rank,rank,rank,rank
+2021,NY,New York,9,23,15,16,28,9,18,32,rank,rank,rank,rank,rank,rank,rank,rank
+2021,OH,Ohio,32,5,23,28,34,8,8,3,rank,rank,rank,rank,rank,rank,rank,rank
+2021,OK,Oklahoma,48,24,26,20,25,18,22,24,rank,rank,rank,rank,rank,rank,rank,rank
+2021,OR,Oregon,41,40,33,25,24,28,29,38,rank,rank,rank,rank,rank,rank,rank,rank
+2021,PA,Pennsylvania,27,3,5,22,46,3,9,7,rank,rank,rank,rank,rank,rank,rank,rank
+2021,RI,Rhode Island,5,43,42,50,50,46,46,50,rank,rank,rank,rank,rank,rank,rank,rank
+2021,SC,South Carolina,28,29,12,14,6,15,33,21,rank,rank,rank,rank,rank,rank,rank,rank
+2021,TN,Tennessee,31,27,11,8,10,19,38,19,rank,rank,rank,rank,rank,rank,rank,rank
+2021,TX,Texas,37,1,1,1,9,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2021,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2021,UT,Utah,49,20,32,33,27,35,12,30,rank,rank,rank,rank,rank,rank,rank,rank
+2021,VA,Virginia,36,26,10,6,11,17,28,27,rank,rank,rank,rank,rank,rank,rank,rank
+2021,VT,Vermont,8,51,51,49,42,50,50,49,rank,rank,rank,rank,rank,rank,rank,rank
+2021,WA,Washington,45,38,27,11,5,12,35,23,rank,rank,rank,rank,rank,rank,rank,rank
+2021,WI,Wisconsin,16,17,19,18,20,25,23,26,rank,rank,rank,rank,rank,rank,rank,rank
+2021,WV,West Virginia,42,7,28,32,21,24,15,9,rank,rank,rank,rank,rank,rank,rank,rank
+2021,WY,Wyoming,50,16,20,40,26,33,16,20,rank,rank,rank,rank,rank,rank,rank,rank
+2020,AK,Alaska,2,43,39,47,38,48,23,41,rank,rank,rank,rank,rank,rank,rank,rank
+2020,AL,Alabama,26,11,7,12,3,6,21,16,rank,rank,rank,rank,rank,rank,rank,rank
+2020,AR,Arkansas,46,26,26,27,18,29,29,15,rank,rank,rank,rank,rank,rank,rank,rank
+2020,AZ,Arizona,17,17,40,13,7,12,18,29,rank,rank,rank,rank,rank,rank,rank,rank
+2020,CA,California,6,13,3,3,12,4,2,44,rank,rank,rank,rank,rank,rank,rank,rank
+2020,CO,Colorado,19,20,48,21,24,31,28,28,rank,rank,rank,rank,rank,rank,rank,rank
+2020,CT,Connecticut,3,39,27,41,45,34,42,46,rank,rank,rank,rank,rank,rank,rank,rank
+2020,DC,District of Columbia,13,50,45,51,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2020,DE,Delaware,20,45,30,45,48,49,48,48,rank,rank,rank,rank,rank,rank,rank,rank
+2020,FL,Florida,21,2,8,2,1,2,7,9,rank,rank,rank,rank,rank,rank,rank,rank
+2020,GA,Georgia,23,14,5,4,5,10,11,5,rank,rank,rank,rank,rank,rank,rank,rank
+2020,HI,Hawaii,1,42,35,44,39,46,32,22,rank,rank,rank,rank,rank,rank,rank,rank
+2020,ID,Idaho,49,47,32,37,36,42,45,37,rank,rank,rank,rank,rank,rank,rank,rank
+2020,IL,Illinois,27,10,9,24,40,5,19,4,rank,rank,rank,rank,rank,rank,rank,rank
+2020,IN,Indiana,24,5,4,7,17,17,4,10,rank,rank,rank,rank,rank,rank,rank,rank
+2020,KY,Kentucky,41,8,37,17,15,23,15,7,rank,rank,rank,rank,rank,rank,rank,rank
+2020,LA,Louisiana,51,12,2,9,14,15,5,17,rank,rank,rank,rank,rank,rank,rank,rank
+2020,MA,Massachusetts,5,41,31,39,44,41,41,43,rank,rank,rank,rank,rank,rank,rank,rank
+2020,MD,Maryland,14,38,25,35,41,38,43,38,rank,rank,rank,rank,rank,rank,rank,rank
+2020,ME,Maine,11,48,17,46,49,45,44,35,rank,rank,rank,rank,rank,rank,rank,rank
+2020,MI,Michigan,12,7,14,10,11,13,3,6,rank,rank,rank,rank,rank,rank,rank,rank
+2020,MN,Minnesota,16,30,22,19,23,28,26,24,rank,rank,rank,rank,rank,rank,rank,rank
+2020,MO,Missouri,29,6,38,15,13,20,8,3,rank,rank,rank,rank,rank,rank,rank,rank
+2020,MS,Mississippi,36,23,18,26,16,21,30,26,rank,rank,rank,rank,rank,rank,rank,rank
+2020,MT,Montana,35,37,50,43,35,40,39,33,rank,rank,rank,rank,rank,rank,rank,rank
+2020,NC,North Carolina,32,15,15,5,2,8,10,14,rank,rank,rank,rank,rank,rank,rank,rank
+2020,ND,North Dakota,42,21,43,38,28,32,13,12,rank,rank,rank,rank,rank,rank,rank,rank
+2020,NE,Nebraska,38,31,36,34,31,37,25,8,rank,rank,rank,rank,rank,rank,rank,rank
+2020,NH,New Hampshire,7,49,47,48,43,43,47,47,rank,rank,rank,rank,rank,rank,rank,rank
+2020,NJ,New Jersey,10,34,21,29,47,25,40,40,rank,rank,rank,rank,rank,rank,rank,rank
+2020,NM,New Mexico,33,33,44,36,33,39,35,39,rank,rank,rank,rank,rank,rank,rank,rank
+2020,NV,Nevada,44,35,46,31,32,35,38,42,rank,rank,rank,rank,rank,rank,rank,rank
+2020,NY,New York,9,22,16,16,26,7,17,32,rank,rank,rank,rank,rank,rank,rank,rank
+2020,OH,Ohio,31,4,23,28,34,9,6,2,rank,rank,rank,rank,rank,rank,rank,rank
+2020,OK,Oklahoma,50,24,24,20,25,18,24,30,rank,rank,rank,rank,rank,rank,rank,rank
+2020,OR,Oregon,39,40,34,25,21,22,31,34,rank,rank,rank,rank,rank,rank,rank,rank
+2020,PA,Pennsylvania,28,3,6,22,46,3,9,11,rank,rank,rank,rank,rank,rank,rank,rank
+2020,RI,Rhode Island,4,44,41,50,50,47,46,50,rank,rank,rank,rank,rank,rank,rank,rank
+2020,SC,South Carolina,25,27,12,14,6,16,36,20,rank,rank,rank,rank,rank,rank,rank,rank
+2020,SD,South Dakota,22,46,49,42,37,44,49,45,rank,rank,rank,rank,rank,rank,rank,rank
+2020,TN,Tennessee,30,28,11,8,10,19,37,19,rank,rank,rank,rank,rank,rank,rank,rank
+2020,TX,Texas,43,1,1,1,9,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2020,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2020,UT,Utah,48,25,33,33,29,36,14,31,rank,rank,rank,rank,rank,rank,rank,rank
+2020,VA,Virginia,34,19,10,6,8,14,22,27,rank,rank,rank,rank,rank,rank,rank,rank
+2020,VT,Vermont,8,51,51,49,42,50,50,49,rank,rank,rank,rank,rank,rank,rank,rank
+2020,WA,Washington,45,36,28,11,4,11,34,25,rank,rank,rank,rank,rank,rank,rank,rank
+2020,WI,Wisconsin,15,18,19,18,19,24,20,23,rank,rank,rank,rank,rank,rank,rank,rank
+2020,WV,West Virginia,40,9,29,32,22,27,16,13,rank,rank,rank,rank,rank,rank,rank,rank
+2020,WY,Wyoming,47,16,20,40,27,33,12,18,rank,rank,rank,rank,rank,rank,rank,rank
+2019,AK,Alaska,2,43,39,47,38,48,26,41,rank,rank,rank,rank,rank,rank,rank,rank
+2019,AL,Alabama,26,12,6,12,4,6,20,16,rank,rank,rank,rank,rank,rank,rank,rank
+2019,AR,Arkansas,46,20,23,26,18,24,23,9,rank,rank,rank,rank,rank,rank,rank,rank
+2019,AZ,Arizona,17,15,40,15,5,12,13,29,rank,rank,rank,rank,rank,rank,rank,rank
+2019,CA,California,7,16,3,3,9,4,2,44,rank,rank,rank,rank,rank,rank,rank,rank
+2019,CO,Colorado,21,19,49,21,24,30,28,30,rank,rank,rank,rank,rank,rank,rank,rank
+2019,CT,Connecticut,3,40,26,41,47,34,44,47,rank,rank,rank,rank,rank,rank,rank,rank
+2019,DC,District of Columbia,12,50,43,51,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2019,DE,Delaware,16,46,31,45,48,49,49,48,rank,rank,rank,rank,rank,rank,rank,rank
+2019,FL,Florida,18,2,7,2,1,2,5,12,rank,rank,rank,rank,rank,rank,rank,rank
+2019,GA,Georgia,25,11,5,4,3,9,12,8,rank,rank,rank,rank,rank,rank,rank,rank
+2019,HI,Hawaii,1,42,36,44,39,46,31,23,rank,rank,rank,rank,rank,rank,rank,rank
+2019,ID,Idaho,49,47,33,37,36,42,45,40,rank,rank,rank,rank,rank,rank,rank,rank
+2019,IL,Illinois,31,6,9,24,40,5,15,3,rank,rank,rank,rank,rank,rank,rank,rank
+2019,IN,Indiana,24,3,4,7,15,14,3,10,rank,rank,rank,rank,rank,rank,rank,rank
+2019,KY,Kentucky,42,7,37,16,14,21,11,7,rank,rank,rank,rank,rank,rank,rank,rank
+2019,LA,Louisiana,51,13,2,9,17,15,4,13,rank,rank,rank,rank,rank,rank,rank,rank
+2019,MA,Massachusetts,5,41,30,39,44,41,41,43,rank,rank,rank,rank,rank,rank,rank,rank
+2019,MD,Maryland,14,38,24,35,41,36,42,31,rank,rank,rank,rank,rank,rank,rank,rank
+2019,ME,Maine,10,49,14,46,49,45,43,35,rank,rank,rank,rank,rank,rank,rank,rank
+2019,MI,Michigan,13,9,13,10,11,11,6,5,rank,rank,rank,rank,rank,rank,rank,rank
+2019,MN,Minnesota,19,28,21,19,22,29,25,25,rank,rank,rank,rank,rank,rank,rank,rank
+2019,MO,Missouri,29,8,38,14,13,20,10,4,rank,rank,rank,rank,rank,rank,rank,rank
+2019,MS,Mississippi,34,29,18,25,16,23,33,27,rank,rank,rank,rank,rank,rank,rank,rank
+2019,MT,Montana,37,35,47,43,37,40,30,28,rank,rank,rank,rank,rank,rank,rank,rank
+2019,NC,North Carolina,33,14,16,5,2,8,8,14,rank,rank,rank,rank,rank,rank,rank,rank
+2019,ND,North Dakota,39,24,42,38,29,33,18,17,rank,rank,rank,rank,rank,rank,rank,rank
+2019,NE,Nebraska,35,31,35,34,31,38,27,11,rank,rank,rank,rank,rank,rank,rank,rank
+2019,NH,New Hampshire,6,48,48,49,43,43,46,46,rank,rank,rank,rank,rank,rank,rank,rank
+2019,NJ,New Jersey,11,34,19,30,45,22,40,42,rank,rank,rank,rank,rank,rank,rank,rank
+2019,NM,New Mexico,38,33,45,36,33,39,36,39,rank,rank,rank,rank,rank,rank,rank,rank
+2019,NV,Nevada,41,37,44,32,32,35,39,38,rank,rank,rank,rank,rank,rank,rank,rank
+2019,NY,New York,9,30,20,17,27,7,19,34,rank,rank,rank,rank,rank,rank,rank,rank
+2019,OH,Ohio,30,5,25,28,34,10,7,2,rank,rank,rank,rank,rank,rank,rank,rank
+2019,OK,Oklahoma,50,23,28,20,25,18,29,32,rank,rank,rank,rank,rank,rank,rank,rank
+2019,OR,Oregon,40,39,34,27,23,28,35,36,rank,rank,rank,rank,rank,rank,rank,rank
+2019,PA,Pennsylvania,27,4,8,23,46,3,9,6,rank,rank,rank,rank,rank,rank,rank,rank
+2019,RI,Rhode Island,4,45,41,50,50,47,47,49,rank,rank,rank,rank,rank,rank,rank,rank
+2019,SC,South Carolina,22,27,15,13,6,16,37,21,rank,rank,rank,rank,rank,rank,rank,rank
+2019,SD,South Dakota,23,44,50,42,35,44,48,45,rank,rank,rank,rank,rank,rank,rank,rank
+2019,TN,Tennessee,28,26,10,8,10,19,38,20,rank,rank,rank,rank,rank,rank,rank,rank
+2019,TX,Texas,43,1,1,1,8,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2019,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2019,UT,Utah,45,25,32,33,28,37,17,33,rank,rank,rank,rank,rank,rank,rank,rank
+2019,VA,Virginia,32,21,11,6,12,17,22,26,rank,rank,rank,rank,rank,rank,rank,rank
+2019,VT,Vermont,8,51,51,48,42,50,50,50,rank,rank,rank,rank,rank,rank,rank,rank
+2019,WA,Washington,48,36,27,11,7,13,32,22,rank,rank,rank,rank,rank,rank,rank,rank
+2019,WI,Wisconsin,15,18,17,18,19,26,24,24,rank,rank,rank,rank,rank,rank,rank,rank
+2019,WV,West Virginia,44,10,29,31,20,25,14,15,rank,rank,rank,rank,rank,rank,rank,rank
+2019,WY,Wyoming,47,17,22,40,26,32,16,19,rank,rank,rank,rank,rank,rank,rank,rank
+2018,AK,Alaska,2,43,39,47,38,48,29,42,rank,rank,rank,rank,rank,rank,rank,rank
+2018,AL,Alabama,28,11,8,11,4,6,18,15,rank,rank,rank,rank,rank,rank,rank,rank
+2018,AR,Arkansas,50,19,23,26,17,23,25,8,rank,rank,rank,rank,rank,rank,rank,rank
+2018,AZ,Arizona,15,15,41,15,6,14,13,28,rank,rank,rank,rank,rank,rank,rank,rank
+2018,CA,California,7,17,3,3,14,4,3,45,rank,rank,rank,rank,rank,rank,rank,rank
+2018,CO,Colorado,22,21,49,21,25,30,28,33,rank,rank,rank,rank,rank,rank,rank,rank
+2018,CT,Connecticut,4,40,27,41,47,36,43,47,rank,rank,rank,rank,rank,rank,rank,rank
+2018,DC,District of Columbia,12,50,46,51,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2018,DE,Delaware,18,45,31,45,48,49,48,48,rank,rank,rank,rank,rank,rank,rank,rank
+2018,FL,Florida,20,2,7,2,1,2,6,10,rank,rank,rank,rank,rank,rank,rank,rank
+2018,GA,Georgia,29,12,6,4,3,9,12,13,rank,rank,rank,rank,rank,rank,rank,rank
+2018,HI,Hawaii,1,42,36,44,40,46,33,27,rank,rank,rank,rank,rank,rank,rank,rank
+2018,IA,Iowa,37,22,13,23,21,28,21,18,rank,rank,rank,rank,rank,rank,rank,rank
+2018,ID,Idaho,46,49,32,37,36,42,45,38,rank,rank,rank,rank,rank,rank,rank,rank
+2018,IL,Illinois,30,6,9,22,39,5,16,4,rank,rank,rank,rank,rank,rank,rank,rank
+2018,IN,Indiana,26,3,4,7,9,13,2,7,rank,rank,rank,rank,rank,rank,rank,rank
+2018,KS,Kansas,16,32,47,29,30,31,30,37,rank,rank,rank,rank,rank,rank,rank,rank
+2018,KY,Kentucky,43,7,37,16,13,21,11,11,rank,rank,rank,rank,rank,rank,rank,rank
+2018,LA,Louisiana,51,13,2,10,16,15,4,12,rank,rank,rank,rank,rank,rank,rank,rank
+2018,MA,Massachusetts,3,39,29,38,44,41,42,43,rank,rank,rank,rank,rank,rank,rank,rank
+2018,MD,Maryland,13,35,26,35,41,33,39,24,rank,rank,rank,rank,rank,rank,rank,rank
+2018,ME,Maine,10,47,16,46,50,45,44,35,rank,rank,rank,rank,rank,rank,rank,rank
+2018,MI,Michigan,14,9,11,9,10,12,7,5,rank,rank,rank,rank,rank,rank,rank,rank
+2018,MN,Minnesota,19,25,22,19,22,29,23,22,rank,rank,rank,rank,rank,rank,rank,rank
+2018,MO,Missouri,25,8,38,13,11,19,9,3,rank,rank,rank,rank,rank,rank,rank,rank
+2018,MS,Mississippi,35,30,19,24,18,27,34,29,rank,rank,rank,rank,rank,rank,rank,rank
+2018,MT,Montana,40,36,48,43,35,40,31,31,rank,rank,rank,rank,rank,rank,rank,rank
+2018,NC,North Carolina,34,14,15,5,2,7,8,17,rank,rank,rank,rank,rank,rank,rank,rank
+2018,ND,North Dakota,38,24,43,39,27,34,17,16,rank,rank,rank,rank,rank,rank,rank,rank
+2018,NE,Nebraska,36,31,34,34,31,38,27,9,rank,rank,rank,rank,rank,rank,rank,rank
+2018,NH,New Hampshire,6,48,45,49,42,43,46,44,rank,rank,rank,rank,rank,rank,rank,rank
+2018,NJ,New Jersey,11,33,21,30,46,22,41,40,rank,rank,rank,rank,rank,rank,rank,rank
+2018,NM,New Mexico,33,34,42,36,33,39,32,39,rank,rank,rank,rank,rank,rank,rank,rank
+2018,NV,Nevada,42,37,44,32,32,35,40,41,rank,rank,rank,rank,rank,rank,rank,rank
+2018,NY,New York,9,29,18,17,28,8,20,32,rank,rank,rank,rank,rank,rank,rank,rank
+2018,OH,Ohio,24,4,25,27,34,10,5,2,rank,rank,rank,rank,rank,rank,rank,rank
+2018,OK,Oklahoma,48,20,24,20,24,18,26,19,rank,rank,rank,rank,rank,rank,rank,rank
+2018,OR,Oregon,39,41,33,28,23,26,38,36,rank,rank,rank,rank,rank,rank,rank,rank
+2018,PA,Pennsylvania,21,5,5,25,45,3,10,6,rank,rank,rank,rank,rank,rank,rank,rank
+2018,RI,Rhode Island,5,44,40,50,49,47,47,49,rank,rank,rank,rank,rank,rank,rank,rank
+2018,SC,South Carolina,27,27,14,14,7,16,35,25,rank,rank,rank,rank,rank,rank,rank,rank
+2018,SD,South Dakota,23,46,51,42,37,44,49,46,rank,rank,rank,rank,rank,rank,rank,rank
+2018,TN,Tennessee,31,26,12,8,12,20,37,21,rank,rank,rank,rank,rank,rank,rank,rank
+2018,TX,Texas,44,1,1,1,8,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2018,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2018,UT,Utah,45,28,30,33,29,37,19,34,rank,rank,rank,rank,rank,rank,rank,rank
+2018,VA,Virginia,32,23,10,6,15,17,22,26,rank,rank,rank,rank,rank,rank,rank,rank
+2018,VT,Vermont,8,51,50,48,43,50,50,50,rank,rank,rank,rank,rank,rank,rank,rank
+2018,WA,Washington,49,38,28,12,5,11,36,30,rank,rank,rank,rank,rank,rank,rank,rank
+2018,WI,Wisconsin,17,18,17,18,19,25,24,23,rank,rank,rank,rank,rank,rank,rank,rank
+2018,WV,West Virginia,41,10,35,31,20,24,14,14,rank,rank,rank,rank,rank,rank,rank,rank
+2018,WY,Wyoming,47,16,20,40,26,32,15,20,rank,rank,rank,rank,rank,rank,rank,rank
+2017,AK,Alaska,2,44,39,46,38,49,29,42,rank,rank,rank,rank,rank,rank,rank,rank
+2017,AL,Alabama,28,12,8,12,4,6,21,19,rank,rank,rank,rank,rank,rank,rank,rank
+2017,AR,Arkansas,48,21,23,26,18,26,20,8,rank,rank,rank,rank,rank,rank,rank,rank
+2017,AZ,Arizona,17,17,41,14,6,13,16,30,rank,rank,rank,rank,rank,rank,rank,rank
+2017,CA,California,7,15,3,3,7,4,4,44,rank,rank,rank,rank,rank,rank,rank,rank
+2017,CO,Colorado,24,20,48,21,25,30,27,29,rank,rank,rank,rank,rank,rank,rank,rank
+2017,CT,Connecticut,3,41,29,41,47,37,44,47,rank,rank,rank,rank,rank,rank,rank,rank
+2017,DC,District of Columbia,13,50,47,51,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2017,DE,Delaware,15,43,30,45,48,48,48,48,rank,rank,rank,rank,rank,rank,rank,rank
+2017,FL,Florida,19,2,5,2,1,2,3,10,rank,rank,rank,rank,rank,rank,rank,rank
+2017,GA,Georgia,27,11,6,4,3,9,12,12,rank,rank,rank,rank,rank,rank,rank,rank
+2017,HI,Hawaii,1,42,31,44,39,46,32,26,rank,rank,rank,rank,rank,rank,rank,rank
+2017,IA,Iowa,42,24,14,23,23,29,24,21,rank,rank,rank,rank,rank,rank,rank,rank
+2017,ID,Idaho,47,49,33,36,36,43,45,39,rank,rank,rank,rank,rank,rank,rank,rank
+2017,IL,Illinois,31,6,9,22,40,5,15,4,rank,rank,rank,rank,rank,rank,rank,rank
+2017,IN,Indiana,29,3,7,7,12,14,2,7,rank,rank,rank,rank,rank,rank,rank,rank
+2017,KS,Kansas,18,33,49,29,29,31,33,38,rank,rank,rank,rank,rank,rank,rank,rank
+2017,KY,Kentucky,44,9,37,16,14,23,11,9,rank,rank,rank,rank,rank,rank,rank,rank
+2017,LA,Louisiana,51,13,2,10,16,15,6,11,rank,rank,rank,rank,rank,rank,rank,rank
+2017,MA,Massachusetts,4,38,26,38,43,40,41,40,rank,rank,rank,rank,rank,rank,rank,rank
+2017,MD,Maryland,12,36,34,35,44,38,39,27,rank,rank,rank,rank,rank,rank,rank,rank
+2017,ME,Maine,11,47,16,47,50,44,43,37,rank,rank,rank,rank,rank,rank,rank,rank
+2017,MI,Michigan,14,10,12,9,11,12,7,5,rank,rank,rank,rank,rank,rank,rank,rank
+2017,MN,Minnesota,20,26,22,19,22,28,26,23,rank,rank,rank,rank,rank,rank,rank,rank
+2017,MO,Missouri,23,7,38,15,10,18,10,3,rank,rank,rank,rank,rank,rank,rank,rank
+2017,MS,Mississippi,34,30,18,24,19,27,36,32,rank,rank,rank,rank,rank,rank,rank,rank
+2017,MT,Montana,38,35,46,43,35,41,34,31,rank,rank,rank,rank,rank,rank,rank,rank
+2017,NC,North Carolina,36,14,15,5,2,7,9,16,rank,rank,rank,rank,rank,rank,rank,rank
+2017,ND,North Dakota,40,25,42,39,28,33,19,17,rank,rank,rank,rank,rank,rank,rank,rank
+2017,NE,Nebraska,35,32,36,34,31,36,30,13,rank,rank,rank,rank,rank,rank,rank,rank
+2017,NH,New Hampshire,6,48,45,49,41,42,46,45,rank,rank,rank,rank,rank,rank,rank,rank
+2017,NJ,New Jersey,10,34,20,30,45,20,40,41,rank,rank,rank,rank,rank,rank,rank,rank
+2017,NM,New Mexico,30,31,43,37,34,39,17,35,rank,rank,rank,rank,rank,rank,rank,rank
+2017,NV,Nevada,41,37,44,31,32,34,42,43,rank,rank,rank,rank,rank,rank,rank,rank
+2017,NY,New York,8,28,17,18,27,8,22,28,rank,rank,rank,rank,rank,rank,rank,rank
+2017,OH,Ohio,26,4,27,28,33,10,5,2,rank,rank,rank,rank,rank,rank,rank,rank
+2017,OK,Oklahoma,49,22,24,20,26,21,28,15,rank,rank,rank,rank,rank,rank,rank,rank
+2017,OR,Oregon,39,40,35,25,21,25,38,36,rank,rank,rank,rank,rank,rank,rank,rank
+2017,PA,Pennsylvania,21,5,4,27,46,3,8,6,rank,rank,rank,rank,rank,rank,rank,rank
+2017,RI,Rhode Island,5,45,40,50,49,47,47,49,rank,rank,rank,rank,rank,rank,rank,rank
+2017,SC,South Carolina,25,29,10,13,8,16,37,25,rank,rank,rank,rank,rank,rank,rank,rank
+2017,SD,South Dakota,22,46,51,42,37,45,49,46,rank,rank,rank,rank,rank,rank,rank,rank
+2017,TN,Tennessee,32,19,13,8,13,19,31,14,rank,rank,rank,rank,rank,rank,rank,rank
+2017,TX,Texas,45,1,1,1,9,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2017,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2017,UT,Utah,43,27,25,33,30,35,18,34,rank,rank,rank,rank,rank,rank,rank,rank
+2017,VA,Virginia,33,23,11,6,15,17,25,24,rank,rank,rank,rank,rank,rank,rank,rank
+2017,VT,Vermont,9,51,50,48,42,50,50,50,rank,rank,rank,rank,rank,rank,rank,rank
+2017,WA,Washington,50,39,28,11,5,11,35,33,rank,rank,rank,rank,rank,rank,rank,rank
+2017,WI,Wisconsin,16,18,19,17,20,24,23,22,rank,rank,rank,rank,rank,rank,rank,rank
+2017,WV,West Virginia,37,8,32,32,17,22,13,18,rank,rank,rank,rank,rank,rank,rank,rank
+2017,WY,Wyoming,46,16,21,40,24,32,14,20,rank,rank,rank,rank,rank,rank,rank,rank
+2016,AK,Alaska,2,44,39,46,38,49,30,41,rank,rank,rank,rank,rank,rank,rank,rank
+2016,AL,Alabama,28,12,8,11,5,6,19,14,rank,rank,rank,rank,rank,rank,rank,rank
+2016,AR,Arkansas,47,23,22,27,23,26,23,11,rank,rank,rank,rank,rank,rank,rank,rank
+2016,AZ,Arizona,18,16,40,15,7,13,15,31,rank,rank,rank,rank,rank,rank,rank,rank
+2016,CA,California,7,15,3,3,10,4,5,43,rank,rank,rank,rank,rank,rank,rank,rank
+2016,CO,Colorado,23,22,47,21,25,29,24,28,rank,rank,rank,rank,rank,rank,rank,rank
+2016,CT,Connecticut,3,40,29,41,47,38,44,47,rank,rank,rank,rank,rank,rank,rank,rank
+2016,DC,District of Columbia,13,50,45,51,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2016,DE,Delaware,14,43,30,45,45,47,47,48,rank,rank,rank,rank,rank,rank,rank,rank
+2016,FL,Florida,21,2,4,2,1,2,4,9,rank,rank,rank,rank,rank,rank,rank,rank
+2016,GA,Georgia,27,10,5,4,3,8,13,12,rank,rank,rank,rank,rank,rank,rank,rank
+2016,HI,Hawaii,1,42,32,44,39,46,33,29,rank,rank,rank,rank,rank,rank,rank,rank
+2016,IA,Iowa,42,25,14,25,26,30,27,21,rank,rank,rank,rank,rank,rank,rank,rank
+2016,ID,Idaho,48,49,33,36,36,43,45,39,rank,rank,rank,rank,rank,rank,rank,rank
+2016,IL,Illinois,29,7,9,23,40,5,16,4,rank,rank,rank,rank,rank,rank,rank,rank
+2016,IN,Indiana,31,3,7,7,9,15,2,7,rank,rank,rank,rank,rank,rank,rank,rank
+2016,KS,Kansas,17,31,49,29,29,31,32,38,rank,rank,rank,rank,rank,rank,rank,rank
+2016,KY,Kentucky,44,6,37,16,11,18,8,8,rank,rank,rank,rank,rank,rank,rank,rank
+2016,LA,Louisiana,51,13,2,10,16,14,6,10,rank,rank,rank,rank,rank,rank,rank,rank
+2016,MA,Massachusetts,4,38,26,38,43,40,41,40,rank,rank,rank,rank,rank,rank,rank,rank
+2016,MD,Maryland,12,35,31,35,49,36,38,24,rank,rank,rank,rank,rank,rank,rank,rank
+2016,ME,Maine,11,47,16,47,50,45,43,37,rank,rank,rank,rank,rank,rank,rank,rank
+2016,MI,Michigan,15,11,13,9,12,12,10,6,rank,rank,rank,rank,rank,rank,rank,rank
+2016,MN,Minnesota,20,27,25,19,20,28,28,25,rank,rank,rank,rank,rank,rank,rank,rank
+2016,MO,Missouri,26,9,38,14,15,21,9,5,rank,rank,rank,rank,rank,rank,rank,rank
+2016,MS,Mississippi,41,30,18,24,18,25,36,30,rank,rank,rank,rank,rank,rank,rank,rank
+2016,MT,Montana,38,36,46,43,35,41,34,32,rank,rank,rank,rank,rank,rank,rank,rank
+2016,NC,North Carolina,32,14,15,5,2,9,11,16,rank,rank,rank,rank,rank,rank,rank,rank
+2016,ND,North Dakota,37,26,41,39,30,35,17,18,rank,rank,rank,rank,rank,rank,rank,rank
+2016,NE,Nebraska,35,33,36,33,31,37,31,17,rank,rank,rank,rank,rank,rank,rank,rank
+2016,NH,New Hampshire,6,48,44,49,41,42,46,45,rank,rank,rank,rank,rank,rank,rank,rank
+2016,NJ,New Jersey,10,34,20,30,44,22,40,42,rank,rank,rank,rank,rank,rank,rank,rank
+2016,NM,New Mexico,33,32,42,37,34,39,18,36,rank,rank,rank,rank,rank,rank,rank,rank
+2016,NV,Nevada,45,37,43,31,32,33,42,44,rank,rank,rank,rank,rank,rank,rank,rank
+2016,NY,New York,8,24,17,17,27,7,21,27,rank,rank,rank,rank,rank,rank,rank,rank
+2016,OH,Ohio,22,5,27,22,33,10,7,2,rank,rank,rank,rank,rank,rank,rank,rank
+2016,OK,Oklahoma,49,20,24,20,21,20,26,13,rank,rank,rank,rank,rank,rank,rank,rank
+2016,OR,Oregon,39,41,34,28,22,27,39,35,rank,rank,rank,rank,rank,rank,rank,rank
+2016,PA,Pennsylvania,19,4,6,26,46,3,3,3,rank,rank,rank,rank,rank,rank,rank,rank
+2016,RI,Rhode Island,5,46,48,50,48,48,49,49,rank,rank,rank,rank,rank,rank,rank,rank
+2016,SC,South Carolina,25,29,12,13,6,16,35,26,rank,rank,rank,rank,rank,rank,rank,rank
+2016,SD,South Dakota,24,45,51,42,37,44,48,46,rank,rank,rank,rank,rank,rank,rank,rank
+2016,TN,Tennessee,30,19,11,8,13,19,29,15,rank,rank,rank,rank,rank,rank,rank,rank
+2016,TX,Texas,43,1,1,1,8,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2016,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2016,UT,Utah,40,28,23,34,28,34,20,33,rank,rank,rank,rank,rank,rank,rank,rank
+2016,VA,Virginia,34,21,10,6,14,17,22,23,rank,rank,rank,rank,rank,rank,rank,rank
+2016,VT,Vermont,9,51,50,48,42,50,50,50,rank,rank,rank,rank,rank,rank,rank,rank
+2016,WA,Washington,50,39,28,12,4,11,37,34,rank,rank,rank,rank,rank,rank,rank,rank
+2016,WI,Wisconsin,16,18,19,18,19,24,25,22,rank,rank,rank,rank,rank,rank,rank,rank
+2016,WV,West Virginia,36,8,35,32,17,23,12,19,rank,rank,rank,rank,rank,rank,rank,rank
+2016,WY,Wyoming,46,17,21,40,24,32,14,20,rank,rank,rank,rank,rank,rank,rank,rank
+2015,AK,Alaska,3,44,39,46,38,49,31,43,rank,rank,rank,rank,rank,rank,rank,rank
+2015,AL,Alabama,33,11,7,11,4,6,11,8,rank,rank,rank,rank,rank,rank,rank,rank
+2015,AR,Arkansas,44,29,27,26,26,29,27,18,rank,rank,rank,rank,rank,rank,rank,rank
+2015,AZ,Arizona,18,16,40,15,5,11,17,31,rank,rank,rank,rank,rank,rank,rank,rank
+2015,CA,California,7,14,3,3,14,4,6,47,rank,rank,rank,rank,rank,rank,rank,rank
+2015,CO,Colorado,22,21,46,21,23,30,22,29,rank,rank,rank,rank,rank,rank,rank,rank
+2015,CT,Connecticut,2,40,29,41,46,36,45,46,rank,rank,rank,rank,rank,rank,rank,rank
+2015,DC,District of Columbia,12,50,47,51,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2015,DE,Delaware,14,43,31,45,45,47,48,48,rank,rank,rank,rank,rank,rank,rank,rank
+2015,FL,Florida,17,2,5,2,1,2,4,11,rank,rank,rank,rank,rank,rank,rank,rank
+2015,GA,Georgia,23,12,6,4,3,8,13,13,rank,rank,rank,rank,rank,rank,rank,rank
+2015,HI,Hawaii,1,42,35,44,39,45,35,30,rank,rank,rank,rank,rank,rank,rank,rank
+2015,IA,Iowa,43,22,12,25,24,28,25,20,rank,rank,rank,rank,rank,rank,rank,rank
+2015,ID,Idaho,47,49,33,38,36,43,40,42,rank,rank,rank,rank,rank,rank,rank,rank
+2015,IL,Illinois,31,5,9,27,40,5,19,5,rank,rank,rank,rank,rank,rank,rank,rank
+2015,IN,Indiana,36,4,4,7,9,15,3,4,rank,rank,rank,rank,rank,rank,rank,rank
+2015,KS,Kansas,20,30,48,29,29,32,33,34,rank,rank,rank,rank,rank,rank,rank,rank
+2015,KY,Kentucky,45,7,37,16,11,19,8,7,rank,rank,rank,rank,rank,rank,rank,rank
+2015,LA,Louisiana,50,13,2,10,16,14,7,12,rank,rank,rank,rank,rank,rank,rank,rank
+2015,MA,Massachusetts,5,38,25,36,43,40,42,40,rank,rank,rank,rank,rank,rank,rank,rank
+2015,MD,Maryland,13,35,30,35,47,38,38,24,rank,rank,rank,rank,rank,rank,rank,rank
+2015,ME,Maine,11,46,13,48,49,44,44,36,rank,rank,rank,rank,rank,rank,rank,rank
+2015,MI,Michigan,15,9,16,9,10,12,9,6,rank,rank,rank,rank,rank,rank,rank,rank
+2015,MN,Minnesota,26,27,26,19,21,27,28,26,rank,rank,rank,rank,rank,rank,rank,rank
+2015,MO,Missouri,30,8,38,13,12,18,16,9,rank,rank,rank,rank,rank,rank,rank,rank
+2015,MS,Mississippi,27,32,18,23,18,25,37,23,rank,rank,rank,rank,rank,rank,rank,rank
+2015,MT,Montana,38,36,45,43,35,41,32,33,rank,rank,rank,rank,rank,rank,rank,rank
+2015,NC,North Carolina,32,15,15,5,2,9,12,19,rank,rank,rank,rank,rank,rank,rank,rank
+2015,ND,North Dakota,39,26,41,39,31,37,20,21,rank,rank,rank,rank,rank,rank,rank,rank
+2015,NE,Nebraska,37,31,36,34,28,34,29,16,rank,rank,rank,rank,rank,rank,rank,rank
+2015,NH,New Hampshire,6,45,43,47,41,42,47,45,rank,rank,rank,rank,rank,rank,rank,rank
+2015,NJ,New Jersey,10,34,20,30,50,22,41,44,rank,rank,rank,rank,rank,rank,rank,rank
+2015,NM,New Mexico,24,33,42,37,33,39,18,37,rank,rank,rank,rank,rank,rank,rank,rank
+2015,NV,Nevada,28,37,44,31,32,35,43,39,rank,rank,rank,rank,rank,rank,rank,rank
+2015,NY,New York,8,25,19,17,30,7,21,28,rank,rank,rank,rank,rank,rank,rank,rank
+2015,OH,Ohio,21,6,24,22,34,10,5,2,rank,rank,rank,rank,rank,rank,rank,rank
+2015,OK,Oklahoma,49,19,22,20,20,20,26,14,rank,rank,rank,rank,rank,rank,rank,rank
+2015,OR,Oregon,40,41,34,28,25,26,36,38,rank,rank,rank,rank,rank,rank,rank,rank
+2015,PA,Pennsylvania,19,3,8,24,44,3,2,3,rank,rank,rank,rank,rank,rank,rank,rank
+2015,RI,Rhode Island,4,47,49,50,48,48,49,49,rank,rank,rank,rank,rank,rank,rank,rank
+2015,SC,South Carolina,25,28,14,14,7,16,34,27,rank,rank,rank,rank,rank,rank,rank,rank
+2015,SD,South Dakota,29,48,51,42,37,46,46,41,rank,rank,rank,rank,rank,rank,rank,rank
+2015,TN,Tennessee,35,20,11,8,13,21,30,10,rank,rank,rank,rank,rank,rank,rank,rank
+2015,TX,Texas,41,1,1,1,8,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2015,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2015,UT,Utah,42,24,23,33,27,33,14,32,rank,rank,rank,rank,rank,rank,rank,rank
+2015,VA,Virginia,34,23,10,6,15,17,23,25,rank,rank,rank,rank,rank,rank,rank,rank
+2015,VT,Vermont,9,51,50,49,42,50,50,50,rank,rank,rank,rank,rank,rank,rank,rank
+2015,WA,Washington,51,39,28,12,6,13,39,35,rank,rank,rank,rank,rank,rank,rank,rank
+2015,WI,Wisconsin,16,18,17,18,19,24,24,17,rank,rank,rank,rank,rank,rank,rank,rank
+2015,WV,West Virginia,46,10,32,32,17,23,10,15,rank,rank,rank,rank,rank,rank,rank,rank
+2015,WY,Wyoming,48,17,21,40,22,31,15,22,rank,rank,rank,rank,rank,rank,rank,rank
+2014,AK,Alaska,2,44,39,46,40,50,40,43,rank,rank,rank,rank,rank,rank,rank,rank
+2014,AL,Alabama,32,10,6,11,3,6,12,8,rank,rank,rank,rank,rank,rank,rank,rank
+2014,AR,Arkansas,48,23,18,25,18,24,20,15,rank,rank,rank,rank,rank,rank,rank,rank
+2014,AZ,Arizona,19,16,40,16,8,13,17,32,rank,rank,rank,rank,rank,rank,rank,rank
+2014,CA,California,8,14,3,2,14,5,7,46,rank,rank,rank,rank,rank,rank,rank,rank
+2014,CO,Colorado,21,22,46,22,26,30,23,30,rank,rank,rank,rank,rank,rank,rank,rank
+2014,CT,Connecticut,3,40,30,41,45,38,46,47,rank,rank,rank,rank,rank,rank,rank,rank
+2014,DC,District of Columbia,12,50,48,50,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2014,DE,Delaware,14,43,31,45,46,47,48,48,rank,rank,rank,rank,rank,rank,rank,rank
+2014,FL,Florida,16,2,5,3,1,2,5,10,rank,rank,rank,rank,rank,rank,rank,rank
+2014,GA,Georgia,22,12,8,4,4,10,14,11,rank,rank,rank,rank,rank,rank,rank,rank
+2014,HI,Hawaii,1,42,35,44,39,46,37,33,rank,rank,rank,rank,rank,rank,rank,rank
+2014,IA,Iowa,44,21,13,24,27,28,25,19,rank,rank,rank,rank,rank,rank,rank,rank
+2014,ID,Idaho,47,49,34,37,37,43,36,42,rank,rank,rank,rank,rank,rank,rank,rank
+2014,IL,Illinois,30,6,9,28,36,4,16,6,rank,rank,rank,rank,rank,rank,rank,rank
+2014,IN,Indiana,35,3,4,7,6,12,3,4,rank,rank,rank,rank,rank,rank,rank,rank
+2014,KS,Kansas,20,29,47,29,29,31,29,29,rank,rank,rank,rank,rank,rank,rank,rank
+2014,KY,Kentucky,45,7,37,15,10,17,6,5,rank,rank,rank,rank,rank,rank,rank,rank
+2014,LA,Louisiana,46,15,2,10,17,15,10,14,rank,rank,rank,rank,rank,rank,rank,rank
+2014,MA,Massachusetts,6,38,26,35,43,40,42,41,rank,rank,rank,rank,rank,rank,rank,rank
+2014,MD,Maryland,13,34,29,36,47,35,34,26,rank,rank,rank,rank,rank,rank,rank,rank
+2014,ME,Maine,11,46,10,51,49,44,45,38,rank,rank,rank,rank,rank,rank,rank,rank
+2014,MI,Michigan,15,11,14,9,12,14,9,7,rank,rank,rank,rank,rank,rank,rank,rank
+2014,MN,Minnesota,28,28,25,19,22,27,28,27,rank,rank,rank,rank,rank,rank,rank,rank
+2014,MO,Missouri,34,8,38,13,11,18,8,9,rank,rank,rank,rank,rank,rank,rank,rank
+2014,MS,Mississippi,27,33,19,23,21,29,31,13,rank,rank,rank,rank,rank,rank,rank,rank
+2014,MT,Montana,40,36,45,43,35,41,35,34,rank,rank,rank,rank,rank,rank,rank,rank
+2014,NC,North Carolina,31,13,15,5,2,9,13,21,rank,rank,rank,rank,rank,rank,rank,rank
+2014,ND,North Dakota,41,30,42,39,32,36,19,23,rank,rank,rank,rank,rank,rank,rank,rank
+2014,NE,Nebraska,38,31,36,33,30,34,30,22,rank,rank,rank,rank,rank,rank,rank,rank
+2014,NH,New Hampshire,7,45,43,47,41,42,47,45,rank,rank,rank,rank,rank,rank,rank,rank
+2014,NJ,New Jersey,10,35,28,30,50,23,41,44,rank,rank,rank,rank,rank,rank,rank,rank
+2014,NM,New Mexico,26,32,41,38,34,39,21,37,rank,rank,rank,rank,rank,rank,rank,rank
+2014,NV,Nevada,24,37,44,31,33,37,39,40,rank,rank,rank,rank,rank,rank,rank,rank
+2014,NY,New York,4,25,17,17,31,7,24,28,rank,rank,rank,rank,rank,rank,rank,rank
+2014,OH,Ohio,23,5,24,21,25,8,4,1,rank,rank,rank,rank,rank,rank,rank,rank
+2014,OK,Oklahoma,43,18,22,20,19,22,22,18,rank,rank,rank,rank,rank,rank,rank,rank
+2014,OR,Oregon,39,41,33,27,24,26,43,39,rank,rank,rank,rank,rank,rank,rank,rank
+2014,PA,Pennsylvania,18,4,7,26,44,3,2,3,rank,rank,rank,rank,rank,rank,rank,rank
+2014,RI,Rhode Island,5,48,49,49,48,49,49,49,rank,rank,rank,rank,rank,rank,rank,rank
+2014,SC,South Carolina,25,27,12,14,9,16,33,25,rank,rank,rank,rank,rank,rank,rank,rank
+2014,SD,South Dakota,36,47,51,42,38,45,44,35,rank,rank,rank,rank,rank,rank,rank,rank
+2014,TN,Tennessee,29,20,11,8,13,20,32,16,rank,rank,rank,rank,rank,rank,rank,rank
+2014,TX,Texas,37,1,1,1,7,1,1,2,rank,rank,rank,rank,rank,rank,rank,rank
+2014,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2014,UT,Utah,42,24,23,34,28,33,15,31,rank,rank,rank,rank,rank,rank,rank,rank
+2014,VA,Virginia,33,26,20,6,16,21,26,20,rank,rank,rank,rank,rank,rank,rank,rank
+2014,VT,Vermont,9,51,50,48,42,48,50,50,rank,rank,rank,rank,rank,rank,rank,rank
+2014,WA,Washington,51,39,27,12,5,11,38,36,rank,rank,rank,rank,rank,rank,rank,rank
+2014,WI,Wisconsin,17,19,16,18,20,25,27,17,rank,rank,rank,rank,rank,rank,rank,rank
+2014,WV,West Virginia,50,9,32,32,15,19,11,12,rank,rank,rank,rank,rank,rank,rank,rank
+2014,WY,Wyoming,49,17,21,40,23,32,18,24,rank,rank,rank,rank,rank,rank,rank,rank
+2013,AK,Alaska,2,44,38,46,39,49,38,43,rank,rank,rank,rank,rank,rank,rank,rank
+2013,AL,Alabama,32,11,8,11,3,6,17,9,rank,rank,rank,rank,rank,rank,rank,rank
+2013,AR,Arkansas,45,23,19,26,21,25,23,16,rank,rank,rank,rank,rank,rank,rank,rank
+2013,AZ,Arizona,18,16,41,16,8,12,18,31,rank,rank,rank,rank,rank,rank,rank,rank
+2013,CA,California,7,13,3,2,14,5,7,48,rank,rank,rank,rank,rank,rank,rank,rank
+2013,CO,Colorado,19,20,45,22,25,28,21,27,rank,rank,rank,rank,rank,rank,rank,rank
+2013,CT,Connecticut,3,41,29,43,45,38,45,45,rank,rank,rank,rank,rank,rank,rank,rank
+2013,DC,District of Columbia,12,50,,50,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2013,DE,Delaware,15,43,31,45,47,47,48,47,rank,rank,rank,rank,rank,rank,rank,rank
+2013,FL,Florida,17,2,5,3,1,3,5,12,rank,rank,rank,rank,rank,rank,rank,rank
+2013,GA,Georgia,22,15,7,4,4,10,20,10,rank,rank,rank,rank,rank,rank,rank,rank
+2013,HI,Hawaii,1,42,36,44,40,45,32,33,rank,rank,rank,rank,rank,rank,rank,rank
+2013,IA,Iowa,43,21,12,25,26,27,24,14,rank,rank,rank,rank,rank,rank,rank,rank
+2013,ID,Idaho,49,49,32,37,36,43,46,42,rank,rank,rank,rank,rank,rank,rank,rank
+2013,IL,Illinois,40,6,9,28,35,4,11,6,rank,rank,rank,rank,rank,rank,rank,rank
+2013,IN,Indiana,36,5,4,7,7,13,3,4,rank,rank,rank,rank,rank,rank,rank,rank
+2013,KS,Kansas,21,27,46,29,28,32,30,30,rank,rank,rank,rank,rank,rank,rank,rank
+2013,KY,Kentucky,48,7,39,13,11,18,6,7,rank,rank,rank,rank,rank,rank,rank,rank
+2013,LA,Louisiana,44,12,2,12,17,15,9,11,rank,rank,rank,rank,rank,rank,rank,rank
+2013,MA,Massachusetts,6,38,27,35,44,40,39,40,rank,rank,rank,rank,rank,rank,rank,rank
+2013,MD,Maryland,13,34,30,36,46,37,34,26,rank,rank,rank,rank,rank,rank,rank,rank
+2013,ME,Maine,11,45,10,51,49,44,44,38,rank,rank,rank,rank,rank,rank,rank,rank
+2013,MI,Michigan,14,10,14,9,13,14,8,5,rank,rank,rank,rank,rank,rank,rank,rank
+2013,MN,Minnesota,23,29,28,19,27,31,28,28,rank,rank,rank,rank,rank,rank,rank,rank
+2013,MO,Missouri,30,8,37,14,10,17,10,8,rank,rank,rank,rank,rank,rank,rank,rank
+2013,MS,Mississippi,29,33,20,23,23,29,31,17,rank,rank,rank,rank,rank,rank,rank,rank
+2013,MT,Montana,38,35,48,42,38,41,35,36,rank,rank,rank,rank,rank,rank,rank,rank
+2013,NC,North Carolina,26,14,15,5,2,9,12,20,rank,rank,rank,rank,rank,rank,rank,rank
+2013,ND,North Dakota,41,28,42,40,32,39,22,23,rank,rank,rank,rank,rank,rank,rank,rank
+2013,NE,Nebraska,35,32,35,33,30,34,29,22,rank,rank,rank,rank,rank,rank,rank,rank
+2013,NH,New Hampshire,8,46,44,47,41,42,47,44,rank,rank,rank,rank,rank,rank,rank,rank
+2013,NJ,New Jersey,10,36,21,30,50,24,40,46,rank,rank,rank,rank,rank,rank,rank,rank
+2013,NM,New Mexico,24,31,43,38,33,36,15,34,rank,rank,rank,rank,rank,rank,rank,rank
+2013,NV,Nevada,31,37,40,31,34,35,41,41,rank,rank,rank,rank,rank,rank,rank,rank
+2013,NY,New York,4,26,18,17,31,8,25,29,rank,rank,rank,rank,rank,rank,rank,rank
+2013,OH,Ohio,27,4,26,21,12,7,4,2,rank,rank,rank,rank,rank,rank,rank,rank
+2013,OK,Oklahoma,47,19,24,20,18,22,16,19,rank,rank,rank,rank,rank,rank,rank,rank
+2013,OR,Oregon,39,40,33,27,24,26,42,35,rank,rank,rank,rank,rank,rank,rank,rank
+2013,PA,Pennsylvania,20,3,6,24,42,2,2,3,rank,rank,rank,rank,rank,rank,rank,rank
+2013,RI,Rhode Island,9,48,47,49,48,50,49,49,rank,rank,rank,rank,rank,rank,rank,rank
+2013,SC,South Carolina,25,30,16,15,9,16,36,25,rank,rank,rank,rank,rank,rank,rank,rank
+2013,SD,South Dakota,34,47,50,41,37,46,43,37,rank,rank,rank,rank,rank,rank,rank,rank
+2013,TN,Tennessee,28,22,11,8,15,19,33,18,rank,rank,rank,rank,rank,rank,rank,rank
+2013,TX,Texas,37,1,1,1,6,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2013,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2013,UT,Utah,42,24,25,34,29,33,13,32,rank,rank,rank,rank,rank,rank,rank,rank
+2013,VA,Virginia,33,25,13,6,16,20,27,21,rank,rank,rank,rank,rank,rank,rank,rank
+2013,VT,Vermont,5,51,49,48,43,48,50,50,rank,rank,rank,rank,rank,rank,rank,rank
+2013,WA,Washington,51,39,23,10,5,11,37,39,rank,rank,rank,rank,rank,rank,rank,rank
+2013,WI,Wisconsin,16,18,17,18,20,23,26,13,rank,rank,rank,rank,rank,rank,rank,rank
+2013,WV,West Virginia,46,9,34,32,22,21,14,15,rank,rank,rank,rank,rank,rank,rank,rank
+2013,WY,Wyoming,50,17,22,39,19,30,19,24,rank,rank,rank,rank,rank,rank,rank,rank
+2012,AK,Alaska,2,44,37,47,39,49,36,46,rank,rank,rank,rank,rank,rank,rank,rank
+2012,AL,Alabama,24,9,5,12,2,6,15,9,rank,rank,rank,rank,rank,rank,rank,rank
+2012,AR,Arkansas,45,23,18,26,22,24,26,16,rank,rank,rank,rank,rank,rank,rank,rank
+2012,AZ,Arizona,19,16,38,16,9,13,21,33,rank,rank,rank,rank,rank,rank,rank,rank
+2012,CA,California,9,13,3,2,12,4,5,42,rank,rank,rank,rank,rank,rank,rank,rank
+2012,CO,Colorado,20,22,47,23,26,30,22,27,rank,rank,rank,rank,rank,rank,rank,rank
+2012,CT,Connecticut,3,39,29,43,45,37,42,41,rank,rank,rank,rank,rank,rank,rank,rank
+2012,DC,District of Columbia,11,50,51,50,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2012,DE,Delaware,14,43,30,45,46,47,48,47,rank,rank,rank,rank,rank,rank,rank,rank
+2012,FL,Florida,16,2,6,3,1,3,6,12,rank,rank,rank,rank,rank,rank,rank,rank
+2012,GA,Georgia,21,14,7,4,5,9,16,8,rank,rank,rank,rank,rank,rank,rank,rank
+2012,HI,Hawaii,1,40,36,44,40,46,35,37,rank,rank,rank,rank,rank,rank,rank,rank
+2012,IA,Iowa,44,20,11,27,23,27,23,14,rank,rank,rank,rank,rank,rank,rank,rank
+2012,ID,Idaho,50,49,33,37,36,43,46,43,rank,rank,rank,rank,rank,rank,rank,rank
+2012,IL,Illinois,36,6,9,21,35,5,12,6,rank,rank,rank,rank,rank,rank,rank,rank
+2012,IN,Indiana,38,4,4,7,6,12,3,3,rank,rank,rank,rank,rank,rank,rank,rank
+2012,KS,Kansas,22,27,45,29,28,32,29,30,rank,rank,rank,rank,rank,rank,rank,rank
+2012,KY,Kentucky,47,7,39,11,10,18,9,7,rank,rank,rank,rank,rank,rank,rank,rank
+2012,LA,Louisiana,51,12,2,13,18,15,8,11,rank,rank,rank,rank,rank,rank,rank,rank
+2012,MA,Massachusetts,7,38,25,34,44,38,38,36,rank,rank,rank,rank,rank,rank,rank,rank
+2012,MD,Maryland,13,34,31,36,48,34,34,26,rank,rank,rank,rank,rank,rank,rank,rank
+2012,ME,Maine,12,46,10,51,49,44,45,40,rank,rank,rank,rank,rank,rank,rank,rank
+2012,MI,Michigan,15,10,13,9,13,14,7,5,rank,rank,rank,rank,rank,rank,rank,rank
+2012,MN,Minnesota,30,31,26,20,24,29,27,28,rank,rank,rank,rank,rank,rank,rank,rank
+2012,MO,Missouri,34,8,40,14,11,17,10,10,rank,rank,rank,rank,rank,rank,rank,rank
+2012,MS,Mississippi,32,33,19,25,25,28,32,25,rank,rank,rank,rank,rank,rank,rank,rank
+2012,MT,Montana,39,36,48,42,38,41,37,35,rank,rank,rank,rank,rank,rank,rank,rank
+2012,NC,North Carolina,25,15,16,5,3,11,14,20,rank,rank,rank,rank,rank,rank,rank,rank
+2012,ND,North Dakota,43,28,41,40,32,36,20,18,rank,rank,rank,rank,rank,rank,rank,rank
+2012,NE,Nebraska,37,32,35,32,31,40,30,22,rank,rank,rank,rank,rank,rank,rank,rank
+2012,NH,New Hampshire,6,45,43,46,41,42,47,48,rank,rank,rank,rank,rank,rank,rank,rank
+2012,NJ,New Jersey,8,35,23,30,50,23,39,45,rank,rank,rank,rank,rank,rank,rank,rank
+2012,NM,New Mexico,31,30,42,38,33,35,13,34,rank,rank,rank,rank,rank,rank,rank,rank
+2012,NV,Nevada,29,37,44,31,34,39,40,44,rank,rank,rank,rank,rank,rank,rank,rank
+2012,NY,New York,4,24,20,18,30,7,24,29,rank,rank,rank,rank,rank,rank,rank,rank
+2012,OH,Ohio,26,5,21,17,14,8,4,1,rank,rank,rank,rank,rank,rank,rank,rank
+2012,OK,Oklahoma,46,17,27,22,16,19,11,19,rank,rank,rank,rank,rank,rank,rank,rank
+2012,OR,Oregon,40,41,32,28,20,26,44,38,rank,rank,rank,rank,rank,rank,rank,rank
+2012,PA,Pennsylvania,18,3,8,24,42,2,2,4,rank,rank,rank,rank,rank,rank,rank,rank
+2012,RI,Rhode Island,10,47,46,49,47,48,49,50,rank,rank,rank,rank,rank,rank,rank,rank
+2012,SC,South Carolina,27,25,14,15,8,16,33,21,rank,rank,rank,rank,rank,rank,rank,rank
+2012,SD,South Dakota,35,48,50,41,37,45,43,39,rank,rank,rank,rank,rank,rank,rank,rank
+2012,TN,Tennessee,23,19,12,8,15,20,31,15,rank,rank,rank,rank,rank,rank,rank,rank
+2012,TX,Texas,33,1,1,1,7,1,1,2,rank,rank,rank,rank,rank,rank,rank,rank
+2012,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2012,UT,Utah,42,26,24,35,29,33,17,32,rank,rank,rank,rank,rank,rank,rank,rank
+2012,VA,Virginia,28,29,17,6,17,22,28,23,rank,rank,rank,rank,rank,rank,rank,rank
+2012,VT,Vermont,5,51,49,48,43,50,50,49,rank,rank,rank,rank,rank,rank,rank,rank
+2012,WA,Washington,49,42,28,10,4,10,41,31,rank,rank,rank,rank,rank,rank,rank,rank
+2012,WI,Wisconsin,17,21,15,19,27,25,25,13,rank,rank,rank,rank,rank,rank,rank,rank
+2012,WV,West Virginia,41,11,34,33,19,21,19,17,rank,rank,rank,rank,rank,rank,rank,rank
+2012,WY,Wyoming,48,18,22,39,21,31,18,24,rank,rank,rank,rank,rank,rank,rank,rank
+2011,AK,Alaska,3,45,37,47,40,48,37,47,rank,rank,rank,rank,rank,rank,rank,rank
+2011,AL,Alabama,23,9,6,12,2,6,13,9,rank,rank,rank,rank,rank,rank,rank,rank
+2011,AR,Arkansas,46,25,16,26,22,25,29,22,rank,rank,rank,rank,rank,rank,rank,rank
+2011,AZ,Arizona,19,15,36,18,11,14,19,31,rank,rank,rank,rank,rank,rank,rank,rank
+2011,CA,California,9,17,3,2,5,4,8,46,rank,rank,rank,rank,rank,rank,rank,rank
+2011,CO,Colorado,21,22,45,24,24,30,20,29,rank,rank,rank,rank,rank,rank,rank,rank
+2011,CT,Connecticut,2,40,34,42,45,39,45,48,rank,rank,rank,rank,rank,rank,rank,rank
+2011,DC,District of Columbia,11,50,51,50,46,51,51,49,rank,rank,rank,rank,rank,rank,rank,rank
+2011,DE,Delaware,14,46,35,46,47,50,47,42,rank,rank,rank,rank,rank,rank,rank,rank
+2011,FL,Florida,15,3,5,3,1,3,6,14,rank,rank,rank,rank,rank,rank,rank,rank
+2011,GA,Georgia,20,11,7,4,4,9,11,5,rank,rank,rank,rank,rank,rank,rank,rank
+2011,HI,Hawaii,1,41,33,44,39,46,35,37,rank,rank,rank,rank,rank,rank,rank,rank
+2011,IA,Iowa,44,21,11,28,25,27,24,15,rank,rank,rank,rank,rank,rank,rank,rank
+2011,ID,Idaho,51,49,29,37,35,43,48,45,rank,rank,rank,rank,rank,rank,rank,rank
+2011,IL,Illinois,26,6,8,19,36,5,12,8,rank,rank,rank,rank,rank,rank,rank,rank
+2011,IN,Indiana,39,5,4,7,6,10,4,3,rank,rank,rank,rank,rank,rank,rank,rank
+2011,KS,Kansas,28,26,49,30,27,32,30,30,rank,rank,rank,rank,rank,rank,rank,rank
+2011,KY,Kentucky,47,7,39,11,10,17,5,7,rank,rank,rank,rank,rank,rank,rank,rank
+2011,LA,Louisiana,43,14,2,14,18,15,9,13,rank,rank,rank,rank,rank,rank,rank,rank
+2011,MA,Massachusetts,7,37,30,34,44,36,39,34,rank,rank,rank,rank,rank,rank,rank,rank
+2011,MD,Maryland,13,33,26,32,49,33,34,27,rank,rank,rank,rank,rank,rank,rank,rank
+2011,ME,Maine,12,44,9,51,50,44,44,40,rank,rank,rank,rank,rank,rank,rank,rank
+2011,MI,Michigan,17,12,17,9,13,13,7,6,rank,rank,rank,rank,rank,rank,rank,rank
+2011,MN,Minnesota,34,29,24,21,23,28,27,25,rank,rank,rank,rank,rank,rank,rank,rank
+2011,MO,Missouri,35,8,40,15,12,18,15,10,rank,rank,rank,rank,rank,rank,rank,rank
+2011,MS,Mississippi,31,34,19,25,28,29,33,28,rank,rank,rank,rank,rank,rank,rank,rank
+2011,MT,Montana,36,35,47,43,38,41,36,35,rank,rank,rank,rank,rank,rank,rank,rank
+2011,NC,North Carolina,33,13,14,5,3,11,21,17,rank,rank,rank,rank,rank,rank,rank,rank
+2011,ND,North Dakota,45,31,41,40,33,38,22,21,rank,rank,rank,rank,rank,rank,rank,rank
+2011,NE,Nebraska,41,32,38,35,31,37,28,24,rank,rank,rank,rank,rank,rank,rank,rank
+2011,NH,New Hampshire,5,43,44,45,41,42,46,33,rank,rank,rank,rank,rank,rank,rank,rank
+2011,NJ,New Jersey,6,36,23,29,51,23,40,43,rank,rank,rank,rank,rank,rank,rank,rank
+2011,NM,New Mexico,32,30,42,38,32,35,17,38,rank,rank,rank,rank,rank,rank,rank,rank
+2011,NV,Nevada,27,38,43,31,34,40,41,44,rank,rank,rank,rank,rank,rank,rank,rank
+2011,NY,New York,4,24,20,17,30,7,26,26,rank,rank,rank,rank,rank,rank,rank,rank
+2011,OH,Ohio,24,4,21,13,14,8,3,1,rank,rank,rank,rank,rank,rank,rank,rank
+2011,OK,Oklahoma,42,16,27,23,16,21,10,18,rank,rank,rank,rank,rank,rank,rank,rank
+2011,OR,Oregon,38,42,31,27,20,26,43,39,rank,rank,rank,rank,rank,rank,rank,rank
+2011,PA,Pennsylvania,16,2,10,22,42,2,2,4,rank,rank,rank,rank,rank,rank,rank,rank
+2011,RI,Rhode Island,10,47,46,49,48,47,49,51,rank,rank,rank,rank,rank,rank,rank,rank
+2011,SC,South Carolina,30,23,13,16,9,16,31,19,rank,rank,rank,rank,rank,rank,rank,rank
+2011,SD,South Dakota,37,48,50,41,37,45,42,41,rank,rank,rank,rank,rank,rank,rank,rank
+2011,TN,Tennessee,22,19,12,8,15,19,32,11,rank,rank,rank,rank,rank,rank,rank,rank
+2011,TX,Texas,25,1,1,1,8,1,1,2,rank,rank,rank,rank,rank,rank,rank,rank
+2011,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2011,UT,Utah,48,27,28,36,29,34,16,32,rank,rank,rank,rank,rank,rank,rank,rank
+2011,VA,Virginia,29,28,18,6,19,22,25,20,rank,rank,rank,rank,rank,rank,rank,rank
+2011,VT,Vermont,8,51,48,48,43,49,50,50,rank,rank,rank,rank,rank,rank,rank,rank
+2011,WA,Washington,49,39,25,10,7,12,38,36,rank,rank,rank,rank,rank,rank,rank,rank
+2011,WI,Wisconsin,18,18,15,20,21,24,23,12,rank,rank,rank,rank,rank,rank,rank,rank
+2011,WV,West Virginia,40,10,32,33,17,20,18,16,rank,rank,rank,rank,rank,rank,rank,rank
+2011,WY,Wyoming,50,20,22,39,26,31,14,23,rank,rank,rank,rank,rank,rank,rank,rank
+2010,AK,Alaska,5,46,37,47,40,48,39,46,rank,rank,rank,rank,rank,rank,rank,rank
+2010,AL,Alabama,25,9,5,13,2,6,14,10,rank,rank,rank,rank,rank,rank,rank,rank
+2010,AR,Arkansas,45,28,17,27,20,25,29,22,rank,rank,rank,rank,rank,rank,rank,rank
+2010,AZ,Arizona,20,15,36,20,11,12,17,33,rank,rank,rank,rank,rank,rank,rank,rank
+2010,CA,California,11,16,3,2,8,4,9,47,rank,rank,rank,rank,rank,rank,rank,rank
+2010,CO,Colorado,22,24,46,24,28,30,20,29,rank,rank,rank,rank,rank,rank,rank,rank
+2010,CT,Connecticut,2,41,29,40,45,40,45,48,rank,rank,rank,rank,rank,rank,rank,rank
+2010,DC,District of Columbia,9,50,50,50,,51,51,49,rank,rank,rank,rank,rank,rank,rank,rank
+2010,DE,Delaware,14,45,48,46,46,50,47,41,rank,rank,rank,rank,rank,rank,rank,rank
+2010,FL,Florida,15,2,6,3,1,3,5,11,rank,rank,rank,rank,rank,rank,rank,rank
+2010,GA,Georgia,26,8,7,4,4,8,10,5,rank,rank,rank,rank,rank,rank,rank,rank
+2010,HI,Hawaii,1,42,33,44,38,45,36,36,rank,rank,rank,rank,rank,rank,rank,rank
+2010,IA,Iowa,40,20,13,28,21,26,22,18,rank,rank,rank,rank,rank,rank,rank,rank
+2010,ID,Idaho,50,49,31,37,37,44,48,45,rank,rank,rank,rank,rank,rank,rank,rank
+2010,IL,Illinois,24,6,8,19,35,5,8,9,rank,rank,rank,rank,rank,rank,rank,rank
+2010,IN,Indiana,39,5,4,8,5,11,4,4,rank,rank,rank,rank,rank,rank,rank,rank
+2010,KS,Kansas,34,26,51,30,24,32,26,30,rank,rank,rank,rank,rank,rank,rank,rank
+2010,KY,Kentucky,48,7,34,12,7,17,7,7,rank,rank,rank,rank,rank,rank,rank,rank
+2010,LA,Louisiana,37,14,2,16,19,16,11,15,rank,rank,rank,rank,rank,rank,rank,rank
+2010,MA,Massachusetts,7,36,30,34,43,34,38,31,rank,rank,rank,rank,rank,rank,rank,rank
+2010,MD,Maryland,13,33,27,31,48,33,34,28,rank,rank,rank,rank,rank,rank,rank,rank
+2010,ME,Maine,12,44,9,51,49,43,44,42,rank,rank,rank,rank,rank,rank,rank,rank
+2010,MI,Michigan,17,11,18,11,13,13,6,6,rank,rank,rank,rank,rank,rank,rank,rank
+2010,MN,Minnesota,32,29,24,22,23,29,27,27,rank,rank,rank,rank,rank,rank,rank,rank
+2010,MO,Missouri,38,10,38,15,12,18,18,8,rank,rank,rank,rank,rank,rank,rank,rank
+2010,MS,Mississippi,30,32,19,26,27,28,32,26,rank,rank,rank,rank,rank,rank,rank,rank
+2010,MT,Montana,35,35,43,43,39,41,35,35,rank,rank,rank,rank,rank,rank,rank,rank
+2010,NC,North Carolina,28,13,12,5,3,10,16,14,rank,rank,rank,rank,rank,rank,rank,rank
+2010,ND,North Dakota,46,30,40,41,32,39,21,17,rank,rank,rank,rank,rank,rank,rank,rank
+2010,NE,Nebraska,43,34,39,35,30,36,30,24,rank,rank,rank,rank,rank,rank,rank,rank
+2010,NH,New Hampshire,4,43,44,45,41,42,46,32,rank,rank,rank,rank,rank,rank,rank,rank
+2010,NJ,New Jersey,6,37,28,25,50,23,41,40,rank,rank,rank,rank,rank,rank,rank,rank
+2010,NM,New Mexico,33,31,41,38,33,37,19,38,rank,rank,rank,rank,rank,rank,rank,rank
+2010,NV,Nevada,19,38,42,32,34,38,40,44,rank,rank,rank,rank,rank,rank,rank,rank
+2010,NY,New York,3,22,20,18,31,9,28,25,rank,rank,rank,rank,rank,rank,rank,rank
+2010,OH,Ohio,23,4,22,9,10,7,3,1,rank,rank,rank,rank,rank,rank,rank,rank
+2010,OK,Oklahoma,41,17,23,23,17,22,12,21,rank,rank,rank,rank,rank,rank,rank,rank
+2010,OR,Oregon,42,40,32,29,26,27,42,37,rank,rank,rank,rank,rank,rank,rank,rank
+2010,PA,Pennsylvania,16,3,10,6,42,2,2,3,rank,rank,rank,rank,rank,rank,rank,rank
+2010,RI,Rhode Island,8,48,45,49,47,47,49,50,rank,rank,rank,rank,rank,rank,rank,rank
+2010,SC,South Carolina,31,23,15,17,6,14,33,19,rank,rank,rank,rank,rank,rank,rank,rank
+2010,SD,South Dakota,36,47,49,42,36,46,43,43,rank,rank,rank,rank,rank,rank,rank,rank
+2010,TN,Tennessee,29,18,11,10,15,19,31,13,rank,rank,rank,rank,rank,rank,rank,rank
+2010,TX,Texas,21,1,1,1,9,1,1,2,rank,rank,rank,rank,rank,rank,rank,rank
+2010,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2010,UT,Utah,47,27,21,36,29,35,13,34,rank,rank,rank,rank,rank,rank,rank,rank
+2010,VA,Virginia,27,25,16,7,16,21,24,16,rank,rank,rank,rank,rank,rank,rank,rank
+2010,VT,Vermont,10,51,47,48,44,49,50,51,rank,rank,rank,rank,rank,rank,rank,rank
+2010,WA,Washington,49,39,25,14,14,15,37,39,rank,rank,rank,rank,rank,rank,rank,rank
+2010,WI,Wisconsin,18,19,14,21,22,24,25,12,rank,rank,rank,rank,rank,rank,rank,rank
+2010,WV,West Virginia,44,12,35,33,18,20,23,20,rank,rank,rank,rank,rank,rank,rank,rank
+2010,WY,Wyoming,51,21,26,39,25,31,15,23,rank,rank,rank,rank,rank,rank,rank,rank
+2009,AK,Alaska,5,45,38,47,40,49,38,46,rank,rank,rank,rank,rank,rank,rank,rank
+2009,AL,Alabama,26,11,6,14,2,6,19,7,rank,rank,rank,rank,rank,rank,rank,rank
+2009,AR,Arkansas,37,31,16,29,19,25,29,24,rank,rank,rank,rank,rank,rank,rank,rank
+2009,AZ,Arizona,19,15,37,20,11,12,15,33,rank,rank,rank,rank,rank,rank,rank,rank
+2009,CA,California,9,14,3,2,13,4,7,47,rank,rank,rank,rank,rank,rank,rank,rank
+2009,CO,Colorado,31,22,46,25,28,29,18,30,rank,rank,rank,rank,rank,rank,rank,rank
+2009,CT,Connecticut,2,42,32,39,45,40,45,48,rank,rank,rank,rank,rank,rank,rank,rank
+2009,DC,District of Columbia,10,50,51,50,,51,51,49,rank,rank,rank,rank,rank,rank,rank,rank
+2009,DE,Delaware,14,46,34,46,46,50,46,39,rank,rank,rank,rank,rank,rank,rank,rank
+2009,FL,Florida,15,4,5,3,1,3,3,11,rank,rank,rank,rank,rank,rank,rank,rank
+2009,GA,Georgia,27,8,7,6,3,9,10,5,rank,rank,rank,rank,rank,rank,rank,rank
+2009,HI,Hawaii,1,41,33,44,38,45,35,37,rank,rank,rank,rank,rank,rank,rank,rank
+2009,IA,Iowa,40,21,15,28,25,28,24,21,rank,rank,rank,rank,rank,rank,rank,rank
+2009,ID,Idaho,50,49,31,37,36,44,49,45,rank,rank,rank,rank,rank,rank,rank,rank
+2009,IL,Illinois,22,6,8,19,35,5,8,8,rank,rank,rank,rank,rank,rank,rank,rank
+2009,IN,Indiana,35,5,4,9,5,11,4,4,rank,rank,rank,rank,rank,rank,rank,rank
+2009,KS,Kansas,34,26,50,30,20,31,23,28,rank,rank,rank,rank,rank,rank,rank,rank
+2009,KY,Kentucky,49,7,35,12,10,17,9,10,rank,rank,rank,rank,rank,rank,rank,rank
+2009,LA,Louisiana,43,16,2,16,22,16,12,20,rank,rank,rank,rank,rank,rank,rank,rank
+2009,MA,Massachusetts,3,35,30,34,44,36,39,31,rank,rank,rank,rank,rank,rank,rank,rank
+2009,MD,Maryland,12,32,24,31,48,33,34,12,rank,rank,rank,rank,rank,rank,rank,rank
+2009,ME,Maine,11,44,9,51,49,43,43,32,rank,rank,rank,rank,rank,rank,rank,rank
+2009,MI,Michigan,20,10,19,11,14,14,6,6,rank,rank,rank,rank,rank,rank,rank,rank
+2009,MN,Minnesota,32,28,23,22,21,27,21,26,rank,rank,rank,rank,rank,rank,rank,rank
+2009,MO,Missouri,41,9,39,15,12,18,20,9,rank,rank,rank,rank,rank,rank,rank,rank
+2009,MS,Mississippi,25,34,18,26,30,30,32,29,rank,rank,rank,rank,rank,rank,rank,rank
+2009,MT,Montana,36,37,41,42,39,41,36,36,rank,rank,rank,rank,rank,rank,rank,rank
+2009,NC,North Carolina,29,13,13,7,4,10,25,15,rank,rank,rank,rank,rank,rank,rank,rank
+2009,ND,North Dakota,47,30,40,41,33,38,17,17,rank,rank,rank,rank,rank,rank,rank,rank
+2009,NE,Nebraska,42,33,44,35,32,39,26,25,rank,rank,rank,rank,rank,rank,rank,rank
+2009,NH,New Hampshire,6,43,43,45,41,42,47,34,rank,rank,rank,rank,rank,rank,rank,rank
+2009,NJ,New Jersey,7,38,21,24,50,23,41,42,rank,rank,rank,rank,rank,rank,rank,rank
+2009,NM,New Mexico,33,29,42,38,31,35,16,38,rank,rank,rank,rank,rank,rank,rank,rank
+2009,NV,Nevada,16,36,47,32,34,37,40,44,rank,rank,rank,rank,rank,rank,rank,rank
+2009,NY,New York,4,23,20,17,29,8,27,27,rank,rank,rank,rank,rank,rank,rank,rank
+2009,OH,Ohio,23,3,25,4,7,7,5,1,rank,rank,rank,rank,rank,rank,rank,rank
+2009,OK,Oklahoma,44,17,28,23,17,20,11,22,rank,rank,rank,rank,rank,rank,rank,rank
+2009,OR,Oregon,38,40,27,27,24,26,42,41,rank,rank,rank,rank,rank,rank,rank,rank
+2009,PA,Pennsylvania,18,2,10,5,42,2,2,2,rank,rank,rank,rank,rank,rank,rank,rank
+2009,RI,Rhode Island,8,48,45,48,47,47,48,50,rank,rank,rank,rank,rank,rank,rank,rank
+2009,SC,South Carolina,30,24,17,18,6,15,33,19,rank,rank,rank,rank,rank,rank,rank,rank
+2009,SD,South Dakota,39,47,49,43,37,46,44,43,rank,rank,rank,rank,rank,rank,rank,rank
+2009,TN,Tennessee,28,20,12,10,15,19,31,16,rank,rank,rank,rank,rank,rank,rank,rank
+2009,TX,Texas,17,1,1,1,9,1,1,3,rank,rank,rank,rank,rank,rank,rank,rank
+2009,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2009,UT,Utah,45,25,22,36,27,34,13,35,rank,rank,rank,rank,rank,rank,rank,rank
+2009,VA,Virginia,24,27,11,8,16,22,28,18,rank,rank,rank,rank,rank,rank,rank,rank
+2009,VT,Vermont,13,51,48,49,43,48,50,51,rank,rank,rank,rank,rank,rank,rank,rank
+2009,WA,Washington,48,39,29,13,8,13,37,40,rank,rank,rank,rank,rank,rank,rank,rank
+2009,WI,Wisconsin,21,19,14,21,26,24,22,14,rank,rank,rank,rank,rank,rank,rank,rank
+2009,WV,West Virginia,46,12,36,33,18,21,30,13,rank,rank,rank,rank,rank,rank,rank,rank
+2009,WY,Wyoming,51,18,26,40,23,32,14,23,rank,rank,rank,rank,rank,rank,rank,rank
+2008,AK,Alaska,6,46,37,48,39,50,41,48,rank,rank,rank,rank,rank,rank,rank,rank
+2008,AL,Alabama,27,10,6,13,2,7,10,6,rank,rank,rank,rank,rank,rank,rank,rank
+2008,AR,Arkansas,37,31,16,28,20,26,34,27,rank,rank,rank,rank,rank,rank,rank,rank
+2008,AZ,Arizona,21,15,34,20,10,12,17,32,rank,rank,rank,rank,rank,rank,rank,rank
+2008,CA,California,12,14,3,2,15,4,13,47,rank,rank,rank,rank,rank,rank,rank,rank
+2008,CO,Colorado,26,24,42,25,28,28,25,30,rank,rank,rank,rank,rank,rank,rank,rank
+2008,CT,Connecticut,2,41,33,39,45,40,46,46,rank,rank,rank,rank,rank,rank,rank,rank
+2008,DC,District of Columbia,10,50,51,50,,51,51,49,rank,rank,rank,rank,rank,rank,rank,rank
+2008,DE,Delaware,13,44,29,46,46,46,44,35,rank,rank,rank,rank,rank,rank,rank,rank
+2008,FL,Florida,16,5,5,3,1,3,5,11,rank,rank,rank,rank,rank,rank,rank,rank
+2008,GA,Georgia,25,8,7,6,3,9,8,4,rank,rank,rank,rank,rank,rank,rank,rank
+2008,HI,Hawaii,1,42,35,44,38,45,36,39,rank,rank,rank,rank,rank,rank,rank,rank
+2008,IA,Iowa,42,22,25,29,23,29,19,18,rank,rank,rank,rank,rank,rank,rank,rank
+2008,ID,Idaho,49,49,31,37,35,44,49,45,rank,rank,rank,rank,rank,rank,rank,rank
+2008,IL,Illinois,20,6,10,18,41,5,7,8,rank,rank,rank,rank,rank,rank,rank,rank
+2008,IN,Indiana,41,3,4,9,5,10,3,3,rank,rank,rank,rank,rank,rank,rank,rank
+2008,KS,Kansas,38,27,49,30,22,32,29,23,rank,rank,rank,rank,rank,rank,rank,rank
+2008,KY,Kentucky,48,7,36,12,14,16,6,9,rank,rank,rank,rank,rank,rank,rank,rank
+2008,LA,Louisiana,18,17,2,19,27,17,16,22,rank,rank,rank,rank,rank,rank,rank,rank
+2008,MA,Massachusetts,4,35,28,34,44,35,39,31,rank,rank,rank,rank,rank,rank,rank,rank
+2008,MD,Maryland,11,32,24,31,48,31,32,14,rank,rank,rank,rank,rank,rank,rank,rank
+2008,ME,Maine,9,45,9,51,49,43,45,36,rank,rank,rank,rank,rank,rank,rank,rank
+2008,MI,Michigan,24,12,15,11,9,13,9,7,rank,rank,rank,rank,rank,rank,rank,rank
+2008,MN,Minnesota,35,28,26,22,19,27,20,24,rank,rank,rank,rank,rank,rank,rank,rank
+2008,MO,Missouri,43,11,38,15,12,19,12,12,rank,rank,rank,rank,rank,rank,rank,rank
+2008,MS,Mississippi,23,33,18,26,31,30,31,29,rank,rank,rank,rank,rank,rank,rank,rank
+2008,MT,Montana,36,36,40,41,37,41,35,38,rank,rank,rank,rank,rank,rank,rank,rank
+2008,NC,North Carolina,32,13,11,7,4,11,26,13,rank,rank,rank,rank,rank,rank,rank,rank
+2008,ND,North Dakota,44,29,41,42,33,38,24,20,rank,rank,rank,rank,rank,rank,rank,rank
+2008,NE,Nebraska,45,34,46,35,32,39,33,28,rank,rank,rank,rank,rank,rank,rank,rank
+2008,NH,New Hampshire,7,43,44,45,40,42,47,34,rank,rank,rank,rank,rank,rank,rank,rank
+2008,NJ,New Jersey,8,37,22,23,50,23,38,33,rank,rank,rank,rank,rank,rank,rank,rank
+2008,NM,New Mexico,29,30,39,38,30,36,23,40,rank,rank,rank,rank,rank,rank,rank,rank
+2008,NV,Nevada,17,38,45,33,34,37,37,44,rank,rank,rank,rank,rank,rank,rank,rank
+2008,NY,New York,3,20,19,16,29,8,28,25,rank,rank,rank,rank,rank,rank,rank,rank
+2008,OH,Ohio,28,2,23,4,6,6,1,2,rank,rank,rank,rank,rank,rank,rank,rank
+2008,OK,Oklahoma,34,18,21,24,17,21,15,21,rank,rank,rank,rank,rank,rank,rank,rank
+2008,OR,Oregon,39,40,20,27,24,25,42,42,rank,rank,rank,rank,rank,rank,rank,rank
+2008,PA,Pennsylvania,19,4,8,5,42,2,4,1,rank,rank,rank,rank,rank,rank,rank,rank
+2008,RI,Rhode Island,5,48,43,47,47,47,48,50,rank,rank,rank,rank,rank,rank,rank,rank
+2008,SC,South Carolina,33,23,17,17,7,15,30,17,rank,rank,rank,rank,rank,rank,rank,rank
+2008,SD,South Dakota,40,47,48,43,36,48,43,41,rank,rank,rank,rank,rank,rank,rank,rank
+2008,TN,Tennessee,30,16,13,10,13,20,14,15,rank,rank,rank,rank,rank,rank,rank,rank
+2008,TX,Texas,15,1,1,1,8,1,2,5,rank,rank,rank,rank,rank,rank,rank,rank
+2008,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2008,UT,Utah,47,26,47,36,25,33,22,37,rank,rank,rank,rank,rank,rank,rank,rank
+2008,VA,Virginia,31,25,12,8,18,22,27,19,rank,rank,rank,rank,rank,rank,rank,rank
+2008,VT,Vermont,14,51,50,49,43,49,50,51,rank,rank,rank,rank,rank,rank,rank,rank
+2008,WA,Washington,46,39,30,14,11,14,40,43,rank,rank,rank,rank,rank,rank,rank,rank
+2008,WI,Wisconsin,22,19,14,21,21,24,21,16,rank,rank,rank,rank,rank,rank,rank,rank
+2008,WV,West Virginia,51,9,32,32,16,18,11,10,rank,rank,rank,rank,rank,rank,rank,rank
+2008,WY,Wyoming,50,21,27,40,26,34,18,26,rank,rank,rank,rank,rank,rank,rank,rank
+period,stateID,stateDescription,average-retail-price-rank,carbon-dioxide-rank,direct-use-rank,fsp-sales-rank,generation-elect-utils-rank,net-generation-rank,nitrogen-oxide-rank,sulfer-dioxide-rank,average-retail-price-rank-units,carbon-dioxide-rank-units,direct-use-rank-units,fsp-sales-rank-units,generation-elect-utils-rank-units,net-generation-rank-units,nitrogen-oxide-rank-units,sulfer-dioxide-rank-units
+2024,AK,Alaska,6,44,43,47,38,48,23,40,rank,rank,rank,rank,rank,rank,rank,rank
+2024,AL,Alabama,23,8,6,13,4,6,18,12,rank,rank,rank,rank,rank,rank,rank,rank
+2024,AR,Arkansas,43,26,27,26,19,26,25,10,rank,rank,rank,rank,rank,rank,rank,rank
+2024,AZ,Arizona,16,16,33,10,9,12,20,33,rank,rank,rank,rank,rank,rank,rank,rank
+2024,CA,California,2,15,3,3,11,4,3,44,rank,rank,rank,rank,rank,rank,rank,rank
+2024,CO,Colorado,22,27,39,21,25,28,35,30,rank,rank,rank,rank,rank,rank,rank,rank
+2024,CT,Connecticut,3,38,24,41,45,33,43,47,rank,rank,rank,rank,rank,rank,rank,rank
+2024,DC,District of Columbia,11,50,47,51,50,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2024,DE,Delaware,15,48,29,45,47,49,49,45,rank,rank,rank,rank,rank,rank,rank,rank
+2024,FL,Florida,18,2,8,2,1,2,4,19,rank,rank,rank,rank,rank,rank,rank,rank
+2024,GA,Georgia,26,12,7,4,2,8,8,4,rank,rank,rank,rank,rank,rank,rank,rank
+2024,HI,Hawaii,1,42,36,44,39,47,27,20,rank,rank,rank,rank,rank,rank,rank,rank
+2024,ID,Idaho,44,45,32,38,35,43,45,37,rank,rank,rank,rank,rank,rank,rank,rank
+2024,IL,Illinois,21,11,10,24,40,5,24,11,rank,rank,rank,rank,rank,rank,rank,rank
+2024,IN,Indiana,27,5,4,8,17,17,6,15,rank,rank,rank,rank,rank,rank,rank,rank
+2024,KY,Kentucky,40,7,37,17,14,22,12,5,rank,rank,rank,rank,rank,rank,rank,rank
+2024,LA,Louisiana,50,13,2,9,15,16,2,16,rank,rank,rank,rank,rank,rank,rank,rank
+2024,MA,Massachusetts,5,41,26,40,43,41,40,41,rank,rank,rank,rank,rank,rank,rank,rank
+2024,MD,Maryland,13,40,38,35,41,38,42,39,rank,rank,rank,rank,rank,rank,rank,rank
+2024,ME,Maine,8,46,22,46,49,45,44,34,rank,rank,rank,rank,rank,rank,rank,rank
+2024,MI,Michigan,14,6,14,11,7,11,5,8,rank,rank,rank,rank,rank,rank,rank,rank
+2024,MN,Minnesota,20,30,18,20,23,29,29,22,rank,rank,rank,rank,rank,rank,rank,rank
+2024,MO,Missouri,31,9,40,16,16,23,9,3,rank,rank,rank,rank,rank,rank,rank,rank
+2024,MS,Mississippi,33,22,16,27,13,19,34,23,rank,rank,rank,rank,rank,rank,rank,rank
+2024,MT,Montana,37,36,50,43,36,40,36,29,rank,rank,rank,rank,rank,rank,rank,rank
+2024,NC,North Carolina,24,14,19,5,3,9,7,21,rank,rank,rank,rank,rank,rank,rank,rank
+2024,ND,North Dakota,51,24,45,37,28,34,13,7,rank,rank,rank,rank,rank,rank,rank,rank
+2024,NE,Nebraska,49,31,35,31,32,37,30,6,rank,rank,rank,rank,rank,rank,rank,rank
+2024,NH,New Hampshire,7,49,48,49,48,44,48,46,rank,rank,rank,rank,rank,rank,rank,rank
+2024,NJ,New Jersey,12,33,17,28,44,27,41,48,rank,rank,rank,rank,rank,rank,rank,rank
+2024,NV,Nevada,25,35,46,33,31,32,38,36,rank,rank,rank,rank,rank,rank,rank,rank
+2024,NY,New York,9,19,9,15,26,10,15,31,rank,rank,rank,rank,rank,rank,rank,rank
+2024,OH,Ohio,28,4,23,30,34,7,11,2,rank,rank,rank,rank,rank,rank,rank,rank
+2024,OK,Oklahoma,48,21,25,18,21,18,14,26,rank,rank,rank,rank,rank,rank,rank,rank
+2024,OR,Oregon,30,39,30,22,22,25,19,35,rank,rank,rank,rank,rank,rank,rank,rank
+2024,PA,Pennsylvania,19,3,5,25,46,3,10,13,rank,rank,rank,rank,rank,rank,rank,rank
+2024,RI,Rhode Island,4,43,44,50,51,46,47,50,rank,rank,rank,rank,rank,rank,rank,rank
+2024,SC,South Carolina,35,25,15,14,6,15,31,17,rank,rank,rank,rank,rank,rank,rank,rank
+2024,TN,Tennessee,34,23,13,7,12,20,32,18,rank,rank,rank,rank,rank,rank,rank,rank
+2024,TX,Texas,42,1,1,1,5,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2024,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2024,UT,Utah,41,29,31,32,30,39,22,32,rank,rank,rank,rank,rank,rank,rank,rank
+2024,VA,Virginia,38,20,11,6,10,13,28,25,rank,rank,rank,rank,rank,rank,rank,rank
+2024,VT,Vermont,10,51,51,48,42,50,50,49,rank,rank,rank,rank,rank,rank,rank,rank
+2024,WA,Washington,39,37,34,12,8,14,37,24,rank,rank,rank,rank,rank,rank,rank,rank
+2024,WI,Wisconsin,17,17,21,19,20,24,21,28,rank,rank,rank,rank,rank,rank,rank,rank
+2024,WV,West Virginia,32,10,28,34,24,31,16,9,rank,rank,rank,rank,rank,rank,rank,rank
+2024,WY,Wyoming,47,18,20,39,27,35,17,14,rank,rank,rank,rank,rank,rank,rank,rank
+2023,AK,Alaska,7,44,39,47,38,48,22,39,rank,rank,rank,rank,rank,rank,rank,rank
+2023,AL,Alabama,25,8,6,13,4,6,17,13,rank,rank,rank,rank,rank,rank,rank,rank
+2023,AR,Arkansas,41,20,23,27,17,25,28,9,rank,rank,rank,rank,rank,rank,rank,rank
+2023,AZ,Arizona,21,17,45,12,8,12,18,31,rank,rank,rank,rank,rank,rank,rank,rank
+2023,CA,California,2,11,3,3,10,4,2,43,rank,rank,rank,rank,rank,rank,rank,rank
+2023,CO,Colorado,22,21,40,21,24,29,31,27,rank,rank,rank,rank,rank,rank,rank,rank
+2023,CT,Connecticut,3,38,25,41,45,35,42,46,rank,rank,rank,rank,rank,rank,rank,rank
+2023,DC,District of Columbia,11,50,46,51,50,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2023,DE,Delaware,17,48,28,45,47,49,49,48,rank,rank,rank,rank,rank,rank,rank,rank
+2023,FL,Florida,15,2,8,2,1,2,4,17,rank,rank,rank,rank,rank,rank,rank,rank
+2023,GA,Georgia,26,12,7,4,2,8,8,4,rank,rank,rank,rank,rank,rank,rank,rank
+2023,HI,Hawaii,1,42,43,44,39,47,29,21,rank,rank,rank,rank,rank,rank,rank,rank
+2023,ID,Idaho,47,45,31,38,35,42,45,36,rank,rank,rank,rank,rank,rank,rank,rank
+2023,IL,Illinois,23,14,9,24,41,5,27,11,rank,rank,rank,rank,rank,rank,rank,rank
+2023,IN,Indiana,24,5,4,8,19,17,5,15,rank,rank,rank,rank,rank,rank,rank,rank
+2023,KY,Kentucky,40,6,35,17,14,24,12,7,rank,rank,rank,rank,rank,rank,rank,rank
+2023,LA,Louisiana,49,13,2,9,15,15,3,14,rank,rank,rank,rank,rank,rank,rank,rank
+2023,MA,Massachusetts,4,41,27,40,43,41,39,41,rank,rank,rank,rank,rank,rank,rank,rank
+2023,MD,Maryland,13,40,37,35,40,38,43,42,rank,rank,rank,rank,rank,rank,rank,rank
+2023,ME,Maine,8,47,22,46,49,45,44,34,rank,rank,rank,rank,rank,rank,rank,rank
+2023,MI,Michigan,14,7,12,10,6,11,6,10,rank,rank,rank,rank,rank,rank,rank,rank
+2023,MO,Missouri,30,9,36,16,16,22,9,2,rank,rank,rank,rank,rank,rank,rank,rank
+2023,MS,Mississippi,29,22,16,28,13,20,34,24,rank,rank,rank,rank,rank,rank,rank,rank
+2023,MT,Montana,28,34,50,43,36,40,36,29,rank,rank,rank,rank,rank,rank,rank,rank
+2023,NC,North Carolina,34,15,17,5,3,9,7,19,rank,rank,rank,rank,rank,rank,rank,rank
+2023,ND,North Dakota,51,23,44,37,29,34,14,8,rank,rank,rank,rank,rank,rank,rank,rank
+2023,NE,Nebraska,46,32,33,31,31,36,25,5,rank,rank,rank,rank,rank,rank,rank,rank
+2023,NH,New Hampshire,5,49,49,49,48,44,48,47,rank,rank,rank,rank,rank,rank,rank,rank
+2023,NJ,New Jersey,12,33,19,29,44,23,40,45,rank,rank,rank,rank,rank,rank,rank,rank
+2023,NV,Nevada,16,37,47,34,32,33,38,38,rank,rank,rank,rank,rank,rank,rank,rank
+2023,NY,New York,9,19,10,15,27,10,16,32,rank,rank,rank,rank,rank,rank,rank,rank
+2023,OH,Ohio,27,4,24,26,34,7,11,3,rank,rank,rank,rank,rank,rank,rank,rank
+2023,OK,Oklahoma,45,24,26,18,21,18,20,28,rank,rank,rank,rank,rank,rank,rank,rank
+2023,OR,Oregon,37,39,32,22,22,27,19,35,rank,rank,rank,rank,rank,rank,rank,rank
+2023,PA,Pennsylvania,19,3,5,25,46,3,10,12,rank,rank,rank,rank,rank,rank,rank,rank
+2023,RI,Rhode Island,6,43,41,50,51,46,47,50,rank,rank,rank,rank,rank,rank,rank,rank
+2023,SC,South Carolina,35,25,14,14,5,14,30,18,rank,rank,rank,rank,rank,rank,rank,rank
+2023,TN,Tennessee,32,26,15,7,11,19,37,22,rank,rank,rank,rank,rank,rank,rank,rank
+2023,TX,Texas,39,1,1,1,9,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2023,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2023,UT,Utah,48,30,34,32,30,39,21,33,rank,rank,rank,rank,rank,rank,rank,rank
+2023,VA,Virginia,33,28,11,6,12,16,32,25,rank,rank,rank,rank,rank,rank,rank,rank
+2023,VT,Vermont,10,51,51,48,42,50,50,49,rank,rank,rank,rank,rank,rank,rank,rank
+2023,WA,Washington,42,35,29,11,7,13,35,26,rank,rank,rank,rank,rank,rank,rank,rank
+2023,WI,Wisconsin,18,18,21,19,20,26,23,30,rank,rank,rank,rank,rank,rank,rank,rank
+2023,WV,West Virginia,38,10,30,33,26,31,15,6,rank,rank,rank,rank,rank,rank,rank,rank
+2023,WY,Wyoming,50,16,20,39,25,32,13,16,rank,rank,rank,rank,rank,rank,rank,rank
+2022,AK,Alaska,6,43,39,47,38,48,27,42,rank,rank,rank,rank,rank,rank,rank,rank
+2022,AL,Alabama,24,10,7,12,3,6,20,16,rank,rank,rank,rank,rank,rank,rank,rank
+2022,AR,Arkansas,41,19,23,27,19,24,26,11,rank,rank,rank,rank,rank,rank,rank,rank
+2022,AZ,Arizona,26,18,40,13,8,14,21,33,rank,rank,rank,rank,rank,rank,rank,rank
+2022,CA,California,2,13,3,3,15,4,2,43,rank,rank,rank,rank,rank,rank,rank,rank
+2022,CO,Colorado,22,21,41,23,23,30,29,29,rank,rank,rank,rank,rank,rank,rank,rank
+2022,CT,Connecticut,4,39,26,41,46,34,43,44,rank,rank,rank,rank,rank,rank,rank,rank
+2022,DC,District of Columbia,11,50,46,51,51,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2022,DE,Delaware,21,47,28,45,47,49,49,48,rank,rank,rank,rank,rank,rank,rank,rank
+2022,FL,Florida,15,2,8,2,1,2,5,12,rank,rank,rank,rank,rank,rank,rank,rank
+2022,GA,Georgia,17,14,6,4,5,9,11,8,rank,rank,rank,rank,rank,rank,rank,rank
+2022,HI,Hawaii,1,42,37,44,39,46,34,22,rank,rank,rank,rank,rank,rank,rank,rank
+2022,ID,Idaho,49,49,30,37,36,44,45,39,rank,rank,rank,rank,rank,rank,rank,rank
+2022,IL,Illinois,19,9,9,24,40,5,15,4,rank,rank,rank,rank,rank,rank,rank,rank
+2022,IN,Indiana,23,5,4,8,17,16,4,15,rank,rank,rank,rank,rank,rank,rank,rank
+2022,KY,Kentucky,32,8,35,17,13,22,12,6,rank,rank,rank,rank,rank,rank,rank,rank
+2022,LA,Louisiana,34,12,2,9,14,13,3,13,rank,rank,rank,rank,rank,rank,rank,rank
+2022,MA,Massachusetts,3,40,27,39,43,41,41,41,rank,rank,rank,rank,rank,rank,rank,rank
+2022,MD,Maryland,13,37,38,35,41,39,42,37,rank,rank,rank,rank,rank,rank,rank,rank
+2022,ME,Maine,9,46,17,46,49,45,44,34,rank,rank,rank,rank,rank,rank,rank,rank
+2022,MI,Michigan,14,6,11,10,9,11,6,5,rank,rank,rank,rank,rank,rank,rank,rank
+2022,MN,Minnesota,16,31,18,20,22,29,23,24,rank,rank,rank,rank,rank,rank,rank,rank
+2022,MO,Missouri,36,7,36,15,11,19,7,2,rank,rank,rank,rank,rank,rank,rank,rank
+2022,MS,Mississippi,35,23,19,28,16,23,32,28,rank,rank,rank,rank,rank,rank,rank,rank
+2022,MT,Montana,40,35,50,43,35,40,36,31,rank,rank,rank,rank,rank,rank,rank,rank
+2022,NC,North Carolina,43,15,16,5,2,8,9,18,rank,rank,rank,rank,rank,rank,rank,rank
+2022,ND,North Dakota,50,22,43,38,29,33,17,14,rank,rank,rank,rank,rank,rank,rank,rank
+2022,NE,Nebraska,47,32,33,31,31,37,25,9,rank,rank,rank,rank,rank,rank,rank,rank
+2022,NH,New Hampshire,5,48,48,48,48,42,48,47,rank,rank,rank,rank,rank,rank,rank,rank
+2022,NJ,New Jersey,12,34,20,29,44,25,40,45,rank,rank,rank,rank,rank,rank,rank,rank
+2022,NV,Nevada,27,36,47,33,32,35,39,38,rank,rank,rank,rank,rank,rank,rank,rank
+2022,NY,New York,8,20,12,16,27,10,18,30,rank,rank,rank,rank,rank,rank,rank,rank
+2022,OH,Ohio,31,4,24,22,34,7,8,3,rank,rank,rank,rank,rank,rank,rank,rank
+2022,OR,Oregon,45,41,34,26,21,27,31,36,rank,rank,rank,rank,rank,rank,rank,rank
+2022,PA,Pennsylvania,20,3,5,21,45,3,10,10,rank,rank,rank,rank,rank,rank,rank,rank
+2022,RI,Rhode Island,7,44,44,50,50,47,47,50,rank,rank,rank,rank,rank,rank,rank,rank
+2022,SC,South Carolina,30,29,10,14,6,15,33,20,rank,rank,rank,rank,rank,rank,rank,rank
+2022,TN,Tennessee,28,25,15,7,10,20,37,21,rank,rank,rank,rank,rank,rank,rank,rank
+2022,TX,Texas,37,1,1,1,7,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2022,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2022,UT,Utah,48,26,31,32,30,38,14,32,rank,rank,rank,rank,rank,rank,rank,rank
+2022,VA,Virginia,29,28,13,6,12,17,30,25,rank,rank,rank,rank,rank,rank,rank,rank
+2022,VT,Vermont,10,51,51,49,42,50,50,49,rank,rank,rank,rank,rank,rank,rank,rank
+2022,WA,Washington,46,38,29,11,4,12,35,23,rank,rank,rank,rank,rank,rank,rank,rank
+2022,WI,Wisconsin,18,17,21,18,20,28,24,27,rank,rank,rank,rank,rank,rank,rank,rank
+2022,WV,West Virginia,42,11,32,34,25,31,16,7,rank,rank,rank,rank,rank,rank,rank,rank
+2022,WY,Wyoming,51,16,22,40,24,32,13,17,rank,rank,rank,rank,rank,rank,rank,rank
+2021,AK,Alaska,2,44,39,47,38,48,26,40,rank,rank,rank,rank,rank,rank,rank,rank
+2021,AL,Alabama,25,11,6,12,3,6,21,16,rank,rank,rank,rank,rank,rank,rank,rank
+2021,AR,Arkansas,40,21,22,26,19,27,25,10,rank,rank,rank,rank,rank,rank,rank,rank
+2021,AZ,Arizona,18,18,40,13,7,13,20,33,rank,rank,rank,rank,rank,rank,rank,rank
+2021,CA,California,3,13,3,3,16,4,2,43,rank,rank,rank,rank,rank,rank,rank,rank
+2021,CO,Colorado,17,19,48,21,23,30,30,29,rank,rank,rank,rank,rank,rank,rank,rank
+2021,CT,Connecticut,6,39,25,41,45,32,43,45,rank,rank,rank,rank,rank,rank,rank,rank
+2021,DC,District of Columbia,13,50,45,51,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2021,DE,Delaware,20,47,29,45,47,49,48,47,rank,rank,rank,rank,rank,rank,rank,rank
+2021,FL,Florida,19,2,8,2,1,2,7,12,rank,rank,rank,rank,rank,rank,rank,rank
+2021,GA,Georgia,22,14,7,4,4,10,11,8,rank,rank,rank,rank,rank,rank,rank,rank
+2021,HI,Hawaii,1,42,36,44,39,47,32,22,rank,rank,rank,rank,rank,rank,rank,rank
+2021,ID,Idaho,51,45,31,37,36,44,45,37,rank,rank,rank,rank,rank,rank,rank,rank
+2021,IL,Illinois,26,8,9,24,40,5,14,5,rank,rank,rank,rank,rank,rank,rank,rank
+2021,IN,Indiana,24,4,4,7,17,16,5,15,rank,rank,rank,rank,rank,rank,rank,rank
+2021,KY,Kentucky,39,9,35,17,13,21,13,6,rank,rank,rank,rank,rank,rank,rank,rank
+2021,LA,Louisiana,44,12,2,10,14,14,4,13,rank,rank,rank,rank,rank,rank,rank,rank
+2021,MA,Massachusetts,4,41,30,39,43,41,41,42,rank,rank,rank,rank,rank,rank,rank,rank
+2021,MD,Maryland,14,37,44,35,41,37,42,35,rank,rank,rank,rank,rank,rank,rank,rank
+2021,ME,Maine,11,48,18,46,49,45,44,34,rank,rank,rank,rank,rank,rank,rank,rank
+2021,MI,Michigan,12,10,13,9,8,11,3,4,rank,rank,rank,rank,rank,rank,rank,rank
+2021,MN,Minnesota,15,30,21,19,22,29,24,25,rank,rank,rank,rank,rank,rank,rank,rank
+2021,MO,Missouri,29,6,37,15,12,20,6,2,rank,rank,rank,rank,rank,rank,rank,rank
+2021,MS,Mississippi,34,28,17,27,15,22,34,28,rank,rank,rank,rank,rank,rank,rank,rank
+2021,MT,Montana,33,36,50,43,35,40,37,31,rank,rank,rank,rank,rank,rank,rank,rank
+2021,NC,North Carolina,35,15,16,5,2,7,10,18,rank,rank,rank,rank,rank,rank,rank,rank
+2021,ND,North Dakota,46,25,43,38,29,34,17,14,rank,rank,rank,rank,rank,rank,rank,rank
+2021,NE,Nebraska,43,32,34,34,31,38,27,11,rank,rank,rank,rank,rank,rank,rank,rank
+2021,NH,New Hampshire,7,49,47,48,48,43,47,48,rank,rank,rank,rank,rank,rank,rank,rank
+2021,NJ,New Jersey,10,34,24,29,44,26,40,44,rank,rank,rank,rank,rank,rank,rank,rank
+2021,NM,New Mexico,30,33,41,36,33,39,36,39,rank,rank,rank,rank,rank,rank,rank,rank
+2021,NV,Nevada,47,35,46,31,32,36,39,41,rank,rank,rank,rank,rank,rank,rank,rank
+2021,NY,New York,9,23,15,16,28,9,18,32,rank,rank,rank,rank,rank,rank,rank,rank
+2021,OH,Ohio,32,5,23,28,34,8,8,3,rank,rank,rank,rank,rank,rank,rank,rank
+2021,OK,Oklahoma,48,24,26,20,25,18,22,24,rank,rank,rank,rank,rank,rank,rank,rank
+2021,OR,Oregon,41,40,33,25,24,28,29,38,rank,rank,rank,rank,rank,rank,rank,rank
+2021,PA,Pennsylvania,27,3,5,22,46,3,9,7,rank,rank,rank,rank,rank,rank,rank,rank
+2021,RI,Rhode Island,5,43,42,50,50,46,46,50,rank,rank,rank,rank,rank,rank,rank,rank
+2021,SC,South Carolina,28,29,12,14,6,15,33,21,rank,rank,rank,rank,rank,rank,rank,rank
+2021,TN,Tennessee,31,27,11,8,10,19,38,19,rank,rank,rank,rank,rank,rank,rank,rank
+2021,TX,Texas,37,1,1,1,9,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2021,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2021,UT,Utah,49,20,32,33,27,35,12,30,rank,rank,rank,rank,rank,rank,rank,rank
+2021,VA,Virginia,36,26,10,6,11,17,28,27,rank,rank,rank,rank,rank,rank,rank,rank
+2021,VT,Vermont,8,51,51,49,42,50,50,49,rank,rank,rank,rank,rank,rank,rank,rank
+2021,WA,Washington,45,38,27,11,5,12,35,23,rank,rank,rank,rank,rank,rank,rank,rank
+2021,WI,Wisconsin,16,17,19,18,20,25,23,26,rank,rank,rank,rank,rank,rank,rank,rank
+2021,WV,West Virginia,42,7,28,32,21,24,15,9,rank,rank,rank,rank,rank,rank,rank,rank
+2021,WY,Wyoming,50,16,20,40,26,33,16,20,rank,rank,rank,rank,rank,rank,rank,rank
+2020,AK,Alaska,2,43,39,47,38,48,23,41,rank,rank,rank,rank,rank,rank,rank,rank
+2020,AL,Alabama,26,11,7,12,3,6,21,16,rank,rank,rank,rank,rank,rank,rank,rank
+2020,AR,Arkansas,46,26,26,27,18,29,29,15,rank,rank,rank,rank,rank,rank,rank,rank
+2020,AZ,Arizona,17,17,40,13,7,12,18,29,rank,rank,rank,rank,rank,rank,rank,rank
+2020,CA,California,6,13,3,3,12,4,2,44,rank,rank,rank,rank,rank,rank,rank,rank
+2020,CO,Colorado,19,20,48,21,24,31,28,28,rank,rank,rank,rank,rank,rank,rank,rank
+2020,CT,Connecticut,3,39,27,41,45,34,42,46,rank,rank,rank,rank,rank,rank,rank,rank
+2020,DC,District of Columbia,13,50,45,51,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2020,DE,Delaware,20,45,30,45,48,49,48,48,rank,rank,rank,rank,rank,rank,rank,rank
+2020,FL,Florida,21,2,8,2,1,2,7,9,rank,rank,rank,rank,rank,rank,rank,rank
+2020,GA,Georgia,23,14,5,4,5,10,11,5,rank,rank,rank,rank,rank,rank,rank,rank
+2020,HI,Hawaii,1,42,35,44,39,46,32,22,rank,rank,rank,rank,rank,rank,rank,rank
+2020,ID,Idaho,49,47,32,37,36,42,45,37,rank,rank,rank,rank,rank,rank,rank,rank
+2020,IL,Illinois,27,10,9,24,40,5,19,4,rank,rank,rank,rank,rank,rank,rank,rank
+2020,IN,Indiana,24,5,4,7,17,17,4,10,rank,rank,rank,rank,rank,rank,rank,rank
+2020,KY,Kentucky,41,8,37,17,15,23,15,7,rank,rank,rank,rank,rank,rank,rank,rank
+2020,LA,Louisiana,51,12,2,9,14,15,5,17,rank,rank,rank,rank,rank,rank,rank,rank
+2020,MA,Massachusetts,5,41,31,39,44,41,41,43,rank,rank,rank,rank,rank,rank,rank,rank
+2020,MD,Maryland,14,38,25,35,41,38,43,38,rank,rank,rank,rank,rank,rank,rank,rank
+2020,ME,Maine,11,48,17,46,49,45,44,35,rank,rank,rank,rank,rank,rank,rank,rank
+2020,MI,Michigan,12,7,14,10,11,13,3,6,rank,rank,rank,rank,rank,rank,rank,rank
+2020,MN,Minnesota,16,30,22,19,23,28,26,24,rank,rank,rank,rank,rank,rank,rank,rank
+2020,MO,Missouri,29,6,38,15,13,20,8,3,rank,rank,rank,rank,rank,rank,rank,rank
+2020,MS,Mississippi,36,23,18,26,16,21,30,26,rank,rank,rank,rank,rank,rank,rank,rank
+2020,MT,Montana,35,37,50,43,35,40,39,33,rank,rank,rank,rank,rank,rank,rank,rank
+2020,NC,North Carolina,32,15,15,5,2,8,10,14,rank,rank,rank,rank,rank,rank,rank,rank
+2020,ND,North Dakota,42,21,43,38,28,32,13,12,rank,rank,rank,rank,rank,rank,rank,rank
+2020,NE,Nebraska,38,31,36,34,31,37,25,8,rank,rank,rank,rank,rank,rank,rank,rank
+2020,NH,New Hampshire,7,49,47,48,43,43,47,47,rank,rank,rank,rank,rank,rank,rank,rank
+2020,NJ,New Jersey,10,34,21,29,47,25,40,40,rank,rank,rank,rank,rank,rank,rank,rank
+2020,NM,New Mexico,33,33,44,36,33,39,35,39,rank,rank,rank,rank,rank,rank,rank,rank
+2020,NV,Nevada,44,35,46,31,32,35,38,42,rank,rank,rank,rank,rank,rank,rank,rank
+2020,NY,New York,9,22,16,16,26,7,17,32,rank,rank,rank,rank,rank,rank,rank,rank
+2020,OH,Ohio,31,4,23,28,34,9,6,2,rank,rank,rank,rank,rank,rank,rank,rank
+2020,OK,Oklahoma,50,24,24,20,25,18,24,30,rank,rank,rank,rank,rank,rank,rank,rank
+2020,OR,Oregon,39,40,34,25,21,22,31,34,rank,rank,rank,rank,rank,rank,rank,rank
+2020,PA,Pennsylvania,28,3,6,22,46,3,9,11,rank,rank,rank,rank,rank,rank,rank,rank
+2020,RI,Rhode Island,4,44,41,50,50,47,46,50,rank,rank,rank,rank,rank,rank,rank,rank
+2020,SC,South Carolina,25,27,12,14,6,16,36,20,rank,rank,rank,rank,rank,rank,rank,rank
+2020,SD,South Dakota,22,46,49,42,37,44,49,45,rank,rank,rank,rank,rank,rank,rank,rank
+2020,TN,Tennessee,30,28,11,8,10,19,37,19,rank,rank,rank,rank,rank,rank,rank,rank
+2020,TX,Texas,43,1,1,1,9,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2020,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2020,UT,Utah,48,25,33,33,29,36,14,31,rank,rank,rank,rank,rank,rank,rank,rank
+2020,VA,Virginia,34,19,10,6,8,14,22,27,rank,rank,rank,rank,rank,rank,rank,rank
+2020,VT,Vermont,8,51,51,49,42,50,50,49,rank,rank,rank,rank,rank,rank,rank,rank
+2020,WA,Washington,45,36,28,11,4,11,34,25,rank,rank,rank,rank,rank,rank,rank,rank
+2020,WI,Wisconsin,15,18,19,18,19,24,20,23,rank,rank,rank,rank,rank,rank,rank,rank
+2020,WV,West Virginia,40,9,29,32,22,27,16,13,rank,rank,rank,rank,rank,rank,rank,rank
+2020,WY,Wyoming,47,16,20,40,27,33,12,18,rank,rank,rank,rank,rank,rank,rank,rank
+2019,AK,Alaska,2,43,39,47,38,48,26,41,rank,rank,rank,rank,rank,rank,rank,rank
+2019,AL,Alabama,26,12,6,12,4,6,20,16,rank,rank,rank,rank,rank,rank,rank,rank
+2019,AR,Arkansas,46,20,23,26,18,24,23,9,rank,rank,rank,rank,rank,rank,rank,rank
+2019,AZ,Arizona,17,15,40,15,5,12,13,29,rank,rank,rank,rank,rank,rank,rank,rank
+2019,CA,California,7,16,3,3,9,4,2,44,rank,rank,rank,rank,rank,rank,rank,rank
+2019,CO,Colorado,21,19,49,21,24,30,28,30,rank,rank,rank,rank,rank,rank,rank,rank
+2019,CT,Connecticut,3,40,26,41,47,34,44,47,rank,rank,rank,rank,rank,rank,rank,rank
+2019,DC,District of Columbia,12,50,43,51,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2019,DE,Delaware,16,46,31,45,48,49,49,48,rank,rank,rank,rank,rank,rank,rank,rank
+2019,FL,Florida,18,2,7,2,1,2,5,12,rank,rank,rank,rank,rank,rank,rank,rank
+2019,GA,Georgia,25,11,5,4,3,9,12,8,rank,rank,rank,rank,rank,rank,rank,rank
+2019,HI,Hawaii,1,42,36,44,39,46,31,23,rank,rank,rank,rank,rank,rank,rank,rank
+2019,ID,Idaho,49,47,33,37,36,42,45,40,rank,rank,rank,rank,rank,rank,rank,rank
+2019,IL,Illinois,31,6,9,24,40,5,15,3,rank,rank,rank,rank,rank,rank,rank,rank
+2019,IN,Indiana,24,3,4,7,15,14,3,10,rank,rank,rank,rank,rank,rank,rank,rank
+2019,KY,Kentucky,42,7,37,16,14,21,11,7,rank,rank,rank,rank,rank,rank,rank,rank
+2019,LA,Louisiana,51,13,2,9,17,15,4,13,rank,rank,rank,rank,rank,rank,rank,rank
+2019,MA,Massachusetts,5,41,30,39,44,41,41,43,rank,rank,rank,rank,rank,rank,rank,rank
+2019,MD,Maryland,14,38,24,35,41,36,42,31,rank,rank,rank,rank,rank,rank,rank,rank
+2019,ME,Maine,10,49,14,46,49,45,43,35,rank,rank,rank,rank,rank,rank,rank,rank
+2019,MI,Michigan,13,9,13,10,11,11,6,5,rank,rank,rank,rank,rank,rank,rank,rank
+2019,MN,Minnesota,19,28,21,19,22,29,25,25,rank,rank,rank,rank,rank,rank,rank,rank
+2019,MO,Missouri,29,8,38,14,13,20,10,4,rank,rank,rank,rank,rank,rank,rank,rank
+2019,MS,Mississippi,34,29,18,25,16,23,33,27,rank,rank,rank,rank,rank,rank,rank,rank
+2019,MT,Montana,37,35,47,43,37,40,30,28,rank,rank,rank,rank,rank,rank,rank,rank
+2019,NC,North Carolina,33,14,16,5,2,8,8,14,rank,rank,rank,rank,rank,rank,rank,rank
+2019,ND,North Dakota,39,24,42,38,29,33,18,17,rank,rank,rank,rank,rank,rank,rank,rank
+2019,NE,Nebraska,35,31,35,34,31,38,27,11,rank,rank,rank,rank,rank,rank,rank,rank
+2019,NH,New Hampshire,6,48,48,49,43,43,46,46,rank,rank,rank,rank,rank,rank,rank,rank
+2019,NJ,New Jersey,11,34,19,30,45,22,40,42,rank,rank,rank,rank,rank,rank,rank,rank
+2019,NM,New Mexico,38,33,45,36,33,39,36,39,rank,rank,rank,rank,rank,rank,rank,rank
+2019,NV,Nevada,41,37,44,32,32,35,39,38,rank,rank,rank,rank,rank,rank,rank,rank
+2019,NY,New York,9,30,20,17,27,7,19,34,rank,rank,rank,rank,rank,rank,rank,rank
+2019,OH,Ohio,30,5,25,28,34,10,7,2,rank,rank,rank,rank,rank,rank,rank,rank
+2019,OK,Oklahoma,50,23,28,20,25,18,29,32,rank,rank,rank,rank,rank,rank,rank,rank
+2019,OR,Oregon,40,39,34,27,23,28,35,36,rank,rank,rank,rank,rank,rank,rank,rank
+2019,PA,Pennsylvania,27,4,8,23,46,3,9,6,rank,rank,rank,rank,rank,rank,rank,rank
+2019,RI,Rhode Island,4,45,41,50,50,47,47,49,rank,rank,rank,rank,rank,rank,rank,rank
+2019,SC,South Carolina,22,27,15,13,6,16,37,21,rank,rank,rank,rank,rank,rank,rank,rank
+2019,SD,South Dakota,23,44,50,42,35,44,48,45,rank,rank,rank,rank,rank,rank,rank,rank
+2019,TN,Tennessee,28,26,10,8,10,19,38,20,rank,rank,rank,rank,rank,rank,rank,rank
+2019,TX,Texas,43,1,1,1,8,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2019,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2019,UT,Utah,45,25,32,33,28,37,17,33,rank,rank,rank,rank,rank,rank,rank,rank
+2019,VA,Virginia,32,21,11,6,12,17,22,26,rank,rank,rank,rank,rank,rank,rank,rank
+2019,VT,Vermont,8,51,51,48,42,50,50,50,rank,rank,rank,rank,rank,rank,rank,rank
+2019,WA,Washington,48,36,27,11,7,13,32,22,rank,rank,rank,rank,rank,rank,rank,rank
+2019,WI,Wisconsin,15,18,17,18,19,26,24,24,rank,rank,rank,rank,rank,rank,rank,rank
+2019,WV,West Virginia,44,10,29,31,20,25,14,15,rank,rank,rank,rank,rank,rank,rank,rank
+2019,WY,Wyoming,47,17,22,40,26,32,16,19,rank,rank,rank,rank,rank,rank,rank,rank
+2018,AK,Alaska,2,43,39,47,38,48,29,42,rank,rank,rank,rank,rank,rank,rank,rank
+2018,AL,Alabama,28,11,8,11,4,6,18,15,rank,rank,rank,rank,rank,rank,rank,rank
+2018,AR,Arkansas,50,19,23,26,17,23,25,8,rank,rank,rank,rank,rank,rank,rank,rank
+2018,AZ,Arizona,15,15,41,15,6,14,13,28,rank,rank,rank,rank,rank,rank,rank,rank
+2018,CA,California,7,17,3,3,14,4,3,45,rank,rank,rank,rank,rank,rank,rank,rank
+2018,CO,Colorado,22,21,49,21,25,30,28,33,rank,rank,rank,rank,rank,rank,rank,rank
+2018,CT,Connecticut,4,40,27,41,47,36,43,47,rank,rank,rank,rank,rank,rank,rank,rank
+2018,DC,District of Columbia,12,50,46,51,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2018,DE,Delaware,18,45,31,45,48,49,48,48,rank,rank,rank,rank,rank,rank,rank,rank
+2018,FL,Florida,20,2,7,2,1,2,6,10,rank,rank,rank,rank,rank,rank,rank,rank
+2018,GA,Georgia,29,12,6,4,3,9,12,13,rank,rank,rank,rank,rank,rank,rank,rank
+2018,HI,Hawaii,1,42,36,44,40,46,33,27,rank,rank,rank,rank,rank,rank,rank,rank
+2018,IA,Iowa,37,22,13,23,21,28,21,18,rank,rank,rank,rank,rank,rank,rank,rank
+2018,ID,Idaho,46,49,32,37,36,42,45,38,rank,rank,rank,rank,rank,rank,rank,rank
+2018,IL,Illinois,30,6,9,22,39,5,16,4,rank,rank,rank,rank,rank,rank,rank,rank
+2018,IN,Indiana,26,3,4,7,9,13,2,7,rank,rank,rank,rank,rank,rank,rank,rank
+2018,KS,Kansas,16,32,47,29,30,31,30,37,rank,rank,rank,rank,rank,rank,rank,rank
+2018,KY,Kentucky,43,7,37,16,13,21,11,11,rank,rank,rank,rank,rank,rank,rank,rank
+2018,LA,Louisiana,51,13,2,10,16,15,4,12,rank,rank,rank,rank,rank,rank,rank,rank
+2018,MA,Massachusetts,3,39,29,38,44,41,42,43,rank,rank,rank,rank,rank,rank,rank,rank
+2018,MD,Maryland,13,35,26,35,41,33,39,24,rank,rank,rank,rank,rank,rank,rank,rank
+2018,ME,Maine,10,47,16,46,50,45,44,35,rank,rank,rank,rank,rank,rank,rank,rank
+2018,MI,Michigan,14,9,11,9,10,12,7,5,rank,rank,rank,rank,rank,rank,rank,rank
+2018,MN,Minnesota,19,25,22,19,22,29,23,22,rank,rank,rank,rank,rank,rank,rank,rank
+2018,MO,Missouri,25,8,38,13,11,19,9,3,rank,rank,rank,rank,rank,rank,rank,rank
+2018,MS,Mississippi,35,30,19,24,18,27,34,29,rank,rank,rank,rank,rank,rank,rank,rank
+2018,MT,Montana,40,36,48,43,35,40,31,31,rank,rank,rank,rank,rank,rank,rank,rank
+2018,NC,North Carolina,34,14,15,5,2,7,8,17,rank,rank,rank,rank,rank,rank,rank,rank
+2018,ND,North Dakota,38,24,43,39,27,34,17,16,rank,rank,rank,rank,rank,rank,rank,rank
+2018,NE,Nebraska,36,31,34,34,31,38,27,9,rank,rank,rank,rank,rank,rank,rank,rank
+2018,NH,New Hampshire,6,48,45,49,42,43,46,44,rank,rank,rank,rank,rank,rank,rank,rank
+2018,NJ,New Jersey,11,33,21,30,46,22,41,40,rank,rank,rank,rank,rank,rank,rank,rank
+2018,NM,New Mexico,33,34,42,36,33,39,32,39,rank,rank,rank,rank,rank,rank,rank,rank
+2018,NV,Nevada,42,37,44,32,32,35,40,41,rank,rank,rank,rank,rank,rank,rank,rank
+2018,NY,New York,9,29,18,17,28,8,20,32,rank,rank,rank,rank,rank,rank,rank,rank
+2018,OH,Ohio,24,4,25,27,34,10,5,2,rank,rank,rank,rank,rank,rank,rank,rank
+2018,OK,Oklahoma,48,20,24,20,24,18,26,19,rank,rank,rank,rank,rank,rank,rank,rank
+2018,OR,Oregon,39,41,33,28,23,26,38,36,rank,rank,rank,rank,rank,rank,rank,rank
+2018,PA,Pennsylvania,21,5,5,25,45,3,10,6,rank,rank,rank,rank,rank,rank,rank,rank
+2018,RI,Rhode Island,5,44,40,50,49,47,47,49,rank,rank,rank,rank,rank,rank,rank,rank
+2018,SC,South Carolina,27,27,14,14,7,16,35,25,rank,rank,rank,rank,rank,rank,rank,rank
+2018,SD,South Dakota,23,46,51,42,37,44,49,46,rank,rank,rank,rank,rank,rank,rank,rank
+2018,TN,Tennessee,31,26,12,8,12,20,37,21,rank,rank,rank,rank,rank,rank,rank,rank
+2018,TX,Texas,44,1,1,1,8,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2018,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2018,UT,Utah,45,28,30,33,29,37,19,34,rank,rank,rank,rank,rank,rank,rank,rank
+2018,VA,Virginia,32,23,10,6,15,17,22,26,rank,rank,rank,rank,rank,rank,rank,rank
+2018,VT,Vermont,8,51,50,48,43,50,50,50,rank,rank,rank,rank,rank,rank,rank,rank
+2018,WA,Washington,49,38,28,12,5,11,36,30,rank,rank,rank,rank,rank,rank,rank,rank
+2018,WI,Wisconsin,17,18,17,18,19,25,24,23,rank,rank,rank,rank,rank,rank,rank,rank
+2018,WV,West Virginia,41,10,35,31,20,24,14,14,rank,rank,rank,rank,rank,rank,rank,rank
+2018,WY,Wyoming,47,16,20,40,26,32,15,20,rank,rank,rank,rank,rank,rank,rank,rank
+2017,AK,Alaska,2,44,39,46,38,49,29,42,rank,rank,rank,rank,rank,rank,rank,rank
+2017,AL,Alabama,28,12,8,12,4,6,21,19,rank,rank,rank,rank,rank,rank,rank,rank
+2017,AR,Arkansas,48,21,23,26,18,26,20,8,rank,rank,rank,rank,rank,rank,rank,rank
+2017,AZ,Arizona,17,17,41,14,6,13,16,30,rank,rank,rank,rank,rank,rank,rank,rank
+2017,CA,California,7,15,3,3,7,4,4,44,rank,rank,rank,rank,rank,rank,rank,rank
+2017,CO,Colorado,24,20,48,21,25,30,27,29,rank,rank,rank,rank,rank,rank,rank,rank
+2017,CT,Connecticut,3,41,29,41,47,37,44,47,rank,rank,rank,rank,rank,rank,rank,rank
+2017,DC,District of Columbia,13,50,47,51,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2017,DE,Delaware,15,43,30,45,48,48,48,48,rank,rank,rank,rank,rank,rank,rank,rank
+2017,FL,Florida,19,2,5,2,1,2,3,10,rank,rank,rank,rank,rank,rank,rank,rank
+2017,GA,Georgia,27,11,6,4,3,9,12,12,rank,rank,rank,rank,rank,rank,rank,rank
+2017,HI,Hawaii,1,42,31,44,39,46,32,26,rank,rank,rank,rank,rank,rank,rank,rank
+2017,IA,Iowa,42,24,14,23,23,29,24,21,rank,rank,rank,rank,rank,rank,rank,rank
+2017,ID,Idaho,47,49,33,36,36,43,45,39,rank,rank,rank,rank,rank,rank,rank,rank
+2017,IL,Illinois,31,6,9,22,40,5,15,4,rank,rank,rank,rank,rank,rank,rank,rank
+2017,IN,Indiana,29,3,7,7,12,14,2,7,rank,rank,rank,rank,rank,rank,rank,rank
+2017,KS,Kansas,18,33,49,29,29,31,33,38,rank,rank,rank,rank,rank,rank,rank,rank
+2017,KY,Kentucky,44,9,37,16,14,23,11,9,rank,rank,rank,rank,rank,rank,rank,rank
+2017,LA,Louisiana,51,13,2,10,16,15,6,11,rank,rank,rank,rank,rank,rank,rank,rank
+2017,MA,Massachusetts,4,38,26,38,43,40,41,40,rank,rank,rank,rank,rank,rank,rank,rank
+2017,MD,Maryland,12,36,34,35,44,38,39,27,rank,rank,rank,rank,rank,rank,rank,rank
+2017,ME,Maine,11,47,16,47,50,44,43,37,rank,rank,rank,rank,rank,rank,rank,rank
+2017,MI,Michigan,14,10,12,9,11,12,7,5,rank,rank,rank,rank,rank,rank,rank,rank
+2017,MN,Minnesota,20,26,22,19,22,28,26,23,rank,rank,rank,rank,rank,rank,rank,rank
+2017,MO,Missouri,23,7,38,15,10,18,10,3,rank,rank,rank,rank,rank,rank,rank,rank
+2017,MS,Mississippi,34,30,18,24,19,27,36,32,rank,rank,rank,rank,rank,rank,rank,rank
+2017,MT,Montana,38,35,46,43,35,41,34,31,rank,rank,rank,rank,rank,rank,rank,rank
+2017,NC,North Carolina,36,14,15,5,2,7,9,16,rank,rank,rank,rank,rank,rank,rank,rank
+2017,ND,North Dakota,40,25,42,39,28,33,19,17,rank,rank,rank,rank,rank,rank,rank,rank
+2017,NE,Nebraska,35,32,36,34,31,36,30,13,rank,rank,rank,rank,rank,rank,rank,rank
+2017,NH,New Hampshire,6,48,45,49,41,42,46,45,rank,rank,rank,rank,rank,rank,rank,rank
+2017,NJ,New Jersey,10,34,20,30,45,20,40,41,rank,rank,rank,rank,rank,rank,rank,rank
+2017,NM,New Mexico,30,31,43,37,34,39,17,35,rank,rank,rank,rank,rank,rank,rank,rank
+2017,NV,Nevada,41,37,44,31,32,34,42,43,rank,rank,rank,rank,rank,rank,rank,rank
+2017,NY,New York,8,28,17,18,27,8,22,28,rank,rank,rank,rank,rank,rank,rank,rank
+2017,OH,Ohio,26,4,27,28,33,10,5,2,rank,rank,rank,rank,rank,rank,rank,rank
+2017,OK,Oklahoma,49,22,24,20,26,21,28,15,rank,rank,rank,rank,rank,rank,rank,rank
+2017,OR,Oregon,39,40,35,25,21,25,38,36,rank,rank,rank,rank,rank,rank,rank,rank
+2017,PA,Pennsylvania,21,5,4,27,46,3,8,6,rank,rank,rank,rank,rank,rank,rank,rank
+2017,RI,Rhode Island,5,45,40,50,49,47,47,49,rank,rank,rank,rank,rank,rank,rank,rank
+2017,SC,South Carolina,25,29,10,13,8,16,37,25,rank,rank,rank,rank,rank,rank,rank,rank
+2017,SD,South Dakota,22,46,51,42,37,45,49,46,rank,rank,rank,rank,rank,rank,rank,rank
+2017,TN,Tennessee,32,19,13,8,13,19,31,14,rank,rank,rank,rank,rank,rank,rank,rank
+2017,TX,Texas,45,1,1,1,9,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2017,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2017,UT,Utah,43,27,25,33,30,35,18,34,rank,rank,rank,rank,rank,rank,rank,rank
+2017,VA,Virginia,33,23,11,6,15,17,25,24,rank,rank,rank,rank,rank,rank,rank,rank
+2017,VT,Vermont,9,51,50,48,42,50,50,50,rank,rank,rank,rank,rank,rank,rank,rank
+2017,WA,Washington,50,39,28,11,5,11,35,33,rank,rank,rank,rank,rank,rank,rank,rank
+2017,WI,Wisconsin,16,18,19,17,20,24,23,22,rank,rank,rank,rank,rank,rank,rank,rank
+2017,WV,West Virginia,37,8,32,32,17,22,13,18,rank,rank,rank,rank,rank,rank,rank,rank
+2017,WY,Wyoming,46,16,21,40,24,32,14,20,rank,rank,rank,rank,rank,rank,rank,rank
+2016,AK,Alaska,2,44,39,46,38,49,30,41,rank,rank,rank,rank,rank,rank,rank,rank
+2016,AL,Alabama,28,12,8,11,5,6,19,14,rank,rank,rank,rank,rank,rank,rank,rank
+2016,AR,Arkansas,47,23,22,27,23,26,23,11,rank,rank,rank,rank,rank,rank,rank,rank
+2016,AZ,Arizona,18,16,40,15,7,13,15,31,rank,rank,rank,rank,rank,rank,rank,rank
+2016,CA,California,7,15,3,3,10,4,5,43,rank,rank,rank,rank,rank,rank,rank,rank
+2016,CO,Colorado,23,22,47,21,25,29,24,28,rank,rank,rank,rank,rank,rank,rank,rank
+2016,CT,Connecticut,3,40,29,41,47,38,44,47,rank,rank,rank,rank,rank,rank,rank,rank
+2016,DC,District of Columbia,13,50,45,51,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2016,DE,Delaware,14,43,30,45,45,47,47,48,rank,rank,rank,rank,rank,rank,rank,rank
+2016,FL,Florida,21,2,4,2,1,2,4,9,rank,rank,rank,rank,rank,rank,rank,rank
+2016,GA,Georgia,27,10,5,4,3,8,13,12,rank,rank,rank,rank,rank,rank,rank,rank
+2016,HI,Hawaii,1,42,32,44,39,46,33,29,rank,rank,rank,rank,rank,rank,rank,rank
+2016,IA,Iowa,42,25,14,25,26,30,27,21,rank,rank,rank,rank,rank,rank,rank,rank
+2016,ID,Idaho,48,49,33,36,36,43,45,39,rank,rank,rank,rank,rank,rank,rank,rank
+2016,IL,Illinois,29,7,9,23,40,5,16,4,rank,rank,rank,rank,rank,rank,rank,rank
+2016,IN,Indiana,31,3,7,7,9,15,2,7,rank,rank,rank,rank,rank,rank,rank,rank
+2016,KS,Kansas,17,31,49,29,29,31,32,38,rank,rank,rank,rank,rank,rank,rank,rank
+2016,KY,Kentucky,44,6,37,16,11,18,8,8,rank,rank,rank,rank,rank,rank,rank,rank
+2016,LA,Louisiana,51,13,2,10,16,14,6,10,rank,rank,rank,rank,rank,rank,rank,rank
+2016,MA,Massachusetts,4,38,26,38,43,40,41,40,rank,rank,rank,rank,rank,rank,rank,rank
+2016,MD,Maryland,12,35,31,35,49,36,38,24,rank,rank,rank,rank,rank,rank,rank,rank
+2016,ME,Maine,11,47,16,47,50,45,43,37,rank,rank,rank,rank,rank,rank,rank,rank
+2016,MI,Michigan,15,11,13,9,12,12,10,6,rank,rank,rank,rank,rank,rank,rank,rank
+2016,MN,Minnesota,20,27,25,19,20,28,28,25,rank,rank,rank,rank,rank,rank,rank,rank
+2016,MO,Missouri,26,9,38,14,15,21,9,5,rank,rank,rank,rank,rank,rank,rank,rank
+2016,MS,Mississippi,41,30,18,24,18,25,36,30,rank,rank,rank,rank,rank,rank,rank,rank
+2016,MT,Montana,38,36,46,43,35,41,34,32,rank,rank,rank,rank,rank,rank,rank,rank
+2016,NC,North Carolina,32,14,15,5,2,9,11,16,rank,rank,rank,rank,rank,rank,rank,rank
+2016,ND,North Dakota,37,26,41,39,30,35,17,18,rank,rank,rank,rank,rank,rank,rank,rank
+2016,NE,Nebraska,35,33,36,33,31,37,31,17,rank,rank,rank,rank,rank,rank,rank,rank
+2016,NH,New Hampshire,6,48,44,49,41,42,46,45,rank,rank,rank,rank,rank,rank,rank,rank
+2016,NJ,New Jersey,10,34,20,30,44,22,40,42,rank,rank,rank,rank,rank,rank,rank,rank
+2016,NM,New Mexico,33,32,42,37,34,39,18,36,rank,rank,rank,rank,rank,rank,rank,rank
+2016,NV,Nevada,45,37,43,31,32,33,42,44,rank,rank,rank,rank,rank,rank,rank,rank
+2016,NY,New York,8,24,17,17,27,7,21,27,rank,rank,rank,rank,rank,rank,rank,rank
+2016,OH,Ohio,22,5,27,22,33,10,7,2,rank,rank,rank,rank,rank,rank,rank,rank
+2016,OK,Oklahoma,49,20,24,20,21,20,26,13,rank,rank,rank,rank,rank,rank,rank,rank
+2016,OR,Oregon,39,41,34,28,22,27,39,35,rank,rank,rank,rank,rank,rank,rank,rank
+2016,PA,Pennsylvania,19,4,6,26,46,3,3,3,rank,rank,rank,rank,rank,rank,rank,rank
+2016,RI,Rhode Island,5,46,48,50,48,48,49,49,rank,rank,rank,rank,rank,rank,rank,rank
+2016,SC,South Carolina,25,29,12,13,6,16,35,26,rank,rank,rank,rank,rank,rank,rank,rank
+2016,SD,South Dakota,24,45,51,42,37,44,48,46,rank,rank,rank,rank,rank,rank,rank,rank
+2016,TN,Tennessee,30,19,11,8,13,19,29,15,rank,rank,rank,rank,rank,rank,rank,rank
+2016,TX,Texas,43,1,1,1,8,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2016,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2016,UT,Utah,40,28,23,34,28,34,20,33,rank,rank,rank,rank,rank,rank,rank,rank
+2016,VA,Virginia,34,21,10,6,14,17,22,23,rank,rank,rank,rank,rank,rank,rank,rank
+2016,VT,Vermont,9,51,50,48,42,50,50,50,rank,rank,rank,rank,rank,rank,rank,rank
+2016,WA,Washington,50,39,28,12,4,11,37,34,rank,rank,rank,rank,rank,rank,rank,rank
+2016,WI,Wisconsin,16,18,19,18,19,24,25,22,rank,rank,rank,rank,rank,rank,rank,rank
+2016,WV,West Virginia,36,8,35,32,17,23,12,19,rank,rank,rank,rank,rank,rank,rank,rank
+2016,WY,Wyoming,46,17,21,40,24,32,14,20,rank,rank,rank,rank,rank,rank,rank,rank
+2015,AK,Alaska,3,44,39,46,38,49,31,43,rank,rank,rank,rank,rank,rank,rank,rank
+2015,AL,Alabama,33,11,7,11,4,6,11,8,rank,rank,rank,rank,rank,rank,rank,rank
+2015,AR,Arkansas,44,29,27,26,26,29,27,18,rank,rank,rank,rank,rank,rank,rank,rank
+2015,AZ,Arizona,18,16,40,15,5,11,17,31,rank,rank,rank,rank,rank,rank,rank,rank
+2015,CA,California,7,14,3,3,14,4,6,47,rank,rank,rank,rank,rank,rank,rank,rank
+2015,CO,Colorado,22,21,46,21,23,30,22,29,rank,rank,rank,rank,rank,rank,rank,rank
+2015,CT,Connecticut,2,40,29,41,46,36,45,46,rank,rank,rank,rank,rank,rank,rank,rank
+2015,DC,District of Columbia,12,50,47,51,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2015,DE,Delaware,14,43,31,45,45,47,48,48,rank,rank,rank,rank,rank,rank,rank,rank
+2015,FL,Florida,17,2,5,2,1,2,4,11,rank,rank,rank,rank,rank,rank,rank,rank
+2015,GA,Georgia,23,12,6,4,3,8,13,13,rank,rank,rank,rank,rank,rank,rank,rank
+2015,HI,Hawaii,1,42,35,44,39,45,35,30,rank,rank,rank,rank,rank,rank,rank,rank
+2015,IA,Iowa,43,22,12,25,24,28,25,20,rank,rank,rank,rank,rank,rank,rank,rank
+2015,ID,Idaho,47,49,33,38,36,43,40,42,rank,rank,rank,rank,rank,rank,rank,rank
+2015,IL,Illinois,31,5,9,27,40,5,19,5,rank,rank,rank,rank,rank,rank,rank,rank
+2015,IN,Indiana,36,4,4,7,9,15,3,4,rank,rank,rank,rank,rank,rank,rank,rank
+2015,KS,Kansas,20,30,48,29,29,32,33,34,rank,rank,rank,rank,rank,rank,rank,rank
+2015,KY,Kentucky,45,7,37,16,11,19,8,7,rank,rank,rank,rank,rank,rank,rank,rank
+2015,LA,Louisiana,50,13,2,10,16,14,7,12,rank,rank,rank,rank,rank,rank,rank,rank
+2015,MA,Massachusetts,5,38,25,36,43,40,42,40,rank,rank,rank,rank,rank,rank,rank,rank
+2015,MD,Maryland,13,35,30,35,47,38,38,24,rank,rank,rank,rank,rank,rank,rank,rank
+2015,ME,Maine,11,46,13,48,49,44,44,36,rank,rank,rank,rank,rank,rank,rank,rank
+2015,MI,Michigan,15,9,16,9,10,12,9,6,rank,rank,rank,rank,rank,rank,rank,rank
+2015,MN,Minnesota,26,27,26,19,21,27,28,26,rank,rank,rank,rank,rank,rank,rank,rank
+2015,MO,Missouri,30,8,38,13,12,18,16,9,rank,rank,rank,rank,rank,rank,rank,rank
+2015,MS,Mississippi,27,32,18,23,18,25,37,23,rank,rank,rank,rank,rank,rank,rank,rank
+2015,MT,Montana,38,36,45,43,35,41,32,33,rank,rank,rank,rank,rank,rank,rank,rank
+2015,NC,North Carolina,32,15,15,5,2,9,12,19,rank,rank,rank,rank,rank,rank,rank,rank
+2015,ND,North Dakota,39,26,41,39,31,37,20,21,rank,rank,rank,rank,rank,rank,rank,rank
+2015,NE,Nebraska,37,31,36,34,28,34,29,16,rank,rank,rank,rank,rank,rank,rank,rank
+2015,NH,New Hampshire,6,45,43,47,41,42,47,45,rank,rank,rank,rank,rank,rank,rank,rank
+2015,NJ,New Jersey,10,34,20,30,50,22,41,44,rank,rank,rank,rank,rank,rank,rank,rank
+2015,NM,New Mexico,24,33,42,37,33,39,18,37,rank,rank,rank,rank,rank,rank,rank,rank
+2015,NV,Nevada,28,37,44,31,32,35,43,39,rank,rank,rank,rank,rank,rank,rank,rank
+2015,NY,New York,8,25,19,17,30,7,21,28,rank,rank,rank,rank,rank,rank,rank,rank
+2015,OH,Ohio,21,6,24,22,34,10,5,2,rank,rank,rank,rank,rank,rank,rank,rank
+2015,OK,Oklahoma,49,19,22,20,20,20,26,14,rank,rank,rank,rank,rank,rank,rank,rank
+2015,OR,Oregon,40,41,34,28,25,26,36,38,rank,rank,rank,rank,rank,rank,rank,rank
+2015,PA,Pennsylvania,19,3,8,24,44,3,2,3,rank,rank,rank,rank,rank,rank,rank,rank
+2015,RI,Rhode Island,4,47,49,50,48,48,49,49,rank,rank,rank,rank,rank,rank,rank,rank
+2015,SC,South Carolina,25,28,14,14,7,16,34,27,rank,rank,rank,rank,rank,rank,rank,rank
+2015,SD,South Dakota,29,48,51,42,37,46,46,41,rank,rank,rank,rank,rank,rank,rank,rank
+2015,TN,Tennessee,35,20,11,8,13,21,30,10,rank,rank,rank,rank,rank,rank,rank,rank
+2015,TX,Texas,41,1,1,1,8,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2015,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2015,UT,Utah,42,24,23,33,27,33,14,32,rank,rank,rank,rank,rank,rank,rank,rank
+2015,VA,Virginia,34,23,10,6,15,17,23,25,rank,rank,rank,rank,rank,rank,rank,rank
+2015,VT,Vermont,9,51,50,49,42,50,50,50,rank,rank,rank,rank,rank,rank,rank,rank
+2015,WA,Washington,51,39,28,12,6,13,39,35,rank,rank,rank,rank,rank,rank,rank,rank
+2015,WI,Wisconsin,16,18,17,18,19,24,24,17,rank,rank,rank,rank,rank,rank,rank,rank
+2015,WV,West Virginia,46,10,32,32,17,23,10,15,rank,rank,rank,rank,rank,rank,rank,rank
+2015,WY,Wyoming,48,17,21,40,22,31,15,22,rank,rank,rank,rank,rank,rank,rank,rank
+2014,AK,Alaska,2,44,39,46,40,50,40,43,rank,rank,rank,rank,rank,rank,rank,rank
+2014,AL,Alabama,32,10,6,11,3,6,12,8,rank,rank,rank,rank,rank,rank,rank,rank
+2014,AR,Arkansas,48,23,18,25,18,24,20,15,rank,rank,rank,rank,rank,rank,rank,rank
+2014,AZ,Arizona,19,16,40,16,8,13,17,32,rank,rank,rank,rank,rank,rank,rank,rank
+2014,CA,California,8,14,3,2,14,5,7,46,rank,rank,rank,rank,rank,rank,rank,rank
+2014,CO,Colorado,21,22,46,22,26,30,23,30,rank,rank,rank,rank,rank,rank,rank,rank
+2014,CT,Connecticut,3,40,30,41,45,38,46,47,rank,rank,rank,rank,rank,rank,rank,rank
+2014,DC,District of Columbia,12,50,48,50,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2014,DE,Delaware,14,43,31,45,46,47,48,48,rank,rank,rank,rank,rank,rank,rank,rank
+2014,FL,Florida,16,2,5,3,1,2,5,10,rank,rank,rank,rank,rank,rank,rank,rank
+2014,GA,Georgia,22,12,8,4,4,10,14,11,rank,rank,rank,rank,rank,rank,rank,rank
+2014,HI,Hawaii,1,42,35,44,39,46,37,33,rank,rank,rank,rank,rank,rank,rank,rank
+2014,IA,Iowa,44,21,13,24,27,28,25,19,rank,rank,rank,rank,rank,rank,rank,rank
+2014,ID,Idaho,47,49,34,37,37,43,36,42,rank,rank,rank,rank,rank,rank,rank,rank
+2014,IL,Illinois,30,6,9,28,36,4,16,6,rank,rank,rank,rank,rank,rank,rank,rank
+2014,IN,Indiana,35,3,4,7,6,12,3,4,rank,rank,rank,rank,rank,rank,rank,rank
+2014,KS,Kansas,20,29,47,29,29,31,29,29,rank,rank,rank,rank,rank,rank,rank,rank
+2014,KY,Kentucky,45,7,37,15,10,17,6,5,rank,rank,rank,rank,rank,rank,rank,rank
+2014,LA,Louisiana,46,15,2,10,17,15,10,14,rank,rank,rank,rank,rank,rank,rank,rank
+2014,MA,Massachusetts,6,38,26,35,43,40,42,41,rank,rank,rank,rank,rank,rank,rank,rank
+2014,MD,Maryland,13,34,29,36,47,35,34,26,rank,rank,rank,rank,rank,rank,rank,rank
+2014,ME,Maine,11,46,10,51,49,44,45,38,rank,rank,rank,rank,rank,rank,rank,rank
+2014,MI,Michigan,15,11,14,9,12,14,9,7,rank,rank,rank,rank,rank,rank,rank,rank
+2014,MN,Minnesota,28,28,25,19,22,27,28,27,rank,rank,rank,rank,rank,rank,rank,rank
+2014,MO,Missouri,34,8,38,13,11,18,8,9,rank,rank,rank,rank,rank,rank,rank,rank
+2014,MS,Mississippi,27,33,19,23,21,29,31,13,rank,rank,rank,rank,rank,rank,rank,rank
+2014,MT,Montana,40,36,45,43,35,41,35,34,rank,rank,rank,rank,rank,rank,rank,rank
+2014,NC,North Carolina,31,13,15,5,2,9,13,21,rank,rank,rank,rank,rank,rank,rank,rank
+2014,ND,North Dakota,41,30,42,39,32,36,19,23,rank,rank,rank,rank,rank,rank,rank,rank
+2014,NE,Nebraska,38,31,36,33,30,34,30,22,rank,rank,rank,rank,rank,rank,rank,rank
+2014,NH,New Hampshire,7,45,43,47,41,42,47,45,rank,rank,rank,rank,rank,rank,rank,rank
+2014,NJ,New Jersey,10,35,28,30,50,23,41,44,rank,rank,rank,rank,rank,rank,rank,rank
+2014,NM,New Mexico,26,32,41,38,34,39,21,37,rank,rank,rank,rank,rank,rank,rank,rank
+2014,NV,Nevada,24,37,44,31,33,37,39,40,rank,rank,rank,rank,rank,rank,rank,rank
+2014,NY,New York,4,25,17,17,31,7,24,28,rank,rank,rank,rank,rank,rank,rank,rank
+2014,OH,Ohio,23,5,24,21,25,8,4,1,rank,rank,rank,rank,rank,rank,rank,rank
+2014,OK,Oklahoma,43,18,22,20,19,22,22,18,rank,rank,rank,rank,rank,rank,rank,rank
+2014,OR,Oregon,39,41,33,27,24,26,43,39,rank,rank,rank,rank,rank,rank,rank,rank
+2014,PA,Pennsylvania,18,4,7,26,44,3,2,3,rank,rank,rank,rank,rank,rank,rank,rank
+2014,RI,Rhode Island,5,48,49,49,48,49,49,49,rank,rank,rank,rank,rank,rank,rank,rank
+2014,SC,South Carolina,25,27,12,14,9,16,33,25,rank,rank,rank,rank,rank,rank,rank,rank
+2014,SD,South Dakota,36,47,51,42,38,45,44,35,rank,rank,rank,rank,rank,rank,rank,rank
+2014,TN,Tennessee,29,20,11,8,13,20,32,16,rank,rank,rank,rank,rank,rank,rank,rank
+2014,TX,Texas,37,1,1,1,7,1,1,2,rank,rank,rank,rank,rank,rank,rank,rank
+2014,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2014,UT,Utah,42,24,23,34,28,33,15,31,rank,rank,rank,rank,rank,rank,rank,rank
+2014,VA,Virginia,33,26,20,6,16,21,26,20,rank,rank,rank,rank,rank,rank,rank,rank
+2014,VT,Vermont,9,51,50,48,42,48,50,50,rank,rank,rank,rank,rank,rank,rank,rank
+2014,WA,Washington,51,39,27,12,5,11,38,36,rank,rank,rank,rank,rank,rank,rank,rank
+2014,WI,Wisconsin,17,19,16,18,20,25,27,17,rank,rank,rank,rank,rank,rank,rank,rank
+2014,WV,West Virginia,50,9,32,32,15,19,11,12,rank,rank,rank,rank,rank,rank,rank,rank
+2014,WY,Wyoming,49,17,21,40,23,32,18,24,rank,rank,rank,rank,rank,rank,rank,rank
+2013,AK,Alaska,2,44,38,46,39,49,38,43,rank,rank,rank,rank,rank,rank,rank,rank
+2013,AL,Alabama,32,11,8,11,3,6,17,9,rank,rank,rank,rank,rank,rank,rank,rank
+2013,AR,Arkansas,45,23,19,26,21,25,23,16,rank,rank,rank,rank,rank,rank,rank,rank
+2013,AZ,Arizona,18,16,41,16,8,12,18,31,rank,rank,rank,rank,rank,rank,rank,rank
+2013,CA,California,7,13,3,2,14,5,7,48,rank,rank,rank,rank,rank,rank,rank,rank
+2013,CO,Colorado,19,20,45,22,25,28,21,27,rank,rank,rank,rank,rank,rank,rank,rank
+2013,CT,Connecticut,3,41,29,43,45,38,45,45,rank,rank,rank,rank,rank,rank,rank,rank
+2013,DC,District of Columbia,12,50,,50,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2013,DE,Delaware,15,43,31,45,47,47,48,47,rank,rank,rank,rank,rank,rank,rank,rank
+2013,FL,Florida,17,2,5,3,1,3,5,12,rank,rank,rank,rank,rank,rank,rank,rank
+2013,GA,Georgia,22,15,7,4,4,10,20,10,rank,rank,rank,rank,rank,rank,rank,rank
+2013,HI,Hawaii,1,42,36,44,40,45,32,33,rank,rank,rank,rank,rank,rank,rank,rank
+2013,IA,Iowa,43,21,12,25,26,27,24,14,rank,rank,rank,rank,rank,rank,rank,rank
+2013,ID,Idaho,49,49,32,37,36,43,46,42,rank,rank,rank,rank,rank,rank,rank,rank
+2013,IL,Illinois,40,6,9,28,35,4,11,6,rank,rank,rank,rank,rank,rank,rank,rank
+2013,IN,Indiana,36,5,4,7,7,13,3,4,rank,rank,rank,rank,rank,rank,rank,rank
+2013,KS,Kansas,21,27,46,29,28,32,30,30,rank,rank,rank,rank,rank,rank,rank,rank
+2013,KY,Kentucky,48,7,39,13,11,18,6,7,rank,rank,rank,rank,rank,rank,rank,rank
+2013,LA,Louisiana,44,12,2,12,17,15,9,11,rank,rank,rank,rank,rank,rank,rank,rank
+2013,MA,Massachusetts,6,38,27,35,44,40,39,40,rank,rank,rank,rank,rank,rank,rank,rank
+2013,MD,Maryland,13,34,30,36,46,37,34,26,rank,rank,rank,rank,rank,rank,rank,rank
+2013,ME,Maine,11,45,10,51,49,44,44,38,rank,rank,rank,rank,rank,rank,rank,rank
+2013,MI,Michigan,14,10,14,9,13,14,8,5,rank,rank,rank,rank,rank,rank,rank,rank
+2013,MN,Minnesota,23,29,28,19,27,31,28,28,rank,rank,rank,rank,rank,rank,rank,rank
+2013,MO,Missouri,30,8,37,14,10,17,10,8,rank,rank,rank,rank,rank,rank,rank,rank
+2013,MS,Mississippi,29,33,20,23,23,29,31,17,rank,rank,rank,rank,rank,rank,rank,rank
+2013,MT,Montana,38,35,48,42,38,41,35,36,rank,rank,rank,rank,rank,rank,rank,rank
+2013,NC,North Carolina,26,14,15,5,2,9,12,20,rank,rank,rank,rank,rank,rank,rank,rank
+2013,ND,North Dakota,41,28,42,40,32,39,22,23,rank,rank,rank,rank,rank,rank,rank,rank
+2013,NE,Nebraska,35,32,35,33,30,34,29,22,rank,rank,rank,rank,rank,rank,rank,rank
+2013,NH,New Hampshire,8,46,44,47,41,42,47,44,rank,rank,rank,rank,rank,rank,rank,rank
+2013,NJ,New Jersey,10,36,21,30,50,24,40,46,rank,rank,rank,rank,rank,rank,rank,rank
+2013,NM,New Mexico,24,31,43,38,33,36,15,34,rank,rank,rank,rank,rank,rank,rank,rank
+2013,NV,Nevada,31,37,40,31,34,35,41,41,rank,rank,rank,rank,rank,rank,rank,rank
+2013,NY,New York,4,26,18,17,31,8,25,29,rank,rank,rank,rank,rank,rank,rank,rank
+2013,OH,Ohio,27,4,26,21,12,7,4,2,rank,rank,rank,rank,rank,rank,rank,rank
+2013,OK,Oklahoma,47,19,24,20,18,22,16,19,rank,rank,rank,rank,rank,rank,rank,rank
+2013,OR,Oregon,39,40,33,27,24,26,42,35,rank,rank,rank,rank,rank,rank,rank,rank
+2013,PA,Pennsylvania,20,3,6,24,42,2,2,3,rank,rank,rank,rank,rank,rank,rank,rank
+2013,RI,Rhode Island,9,48,47,49,48,50,49,49,rank,rank,rank,rank,rank,rank,rank,rank
+2013,SC,South Carolina,25,30,16,15,9,16,36,25,rank,rank,rank,rank,rank,rank,rank,rank
+2013,SD,South Dakota,34,47,50,41,37,46,43,37,rank,rank,rank,rank,rank,rank,rank,rank
+2013,TN,Tennessee,28,22,11,8,15,19,33,18,rank,rank,rank,rank,rank,rank,rank,rank
+2013,TX,Texas,37,1,1,1,6,1,1,1,rank,rank,rank,rank,rank,rank,rank,rank
+2013,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2013,UT,Utah,42,24,25,34,29,33,13,32,rank,rank,rank,rank,rank,rank,rank,rank
+2013,VA,Virginia,33,25,13,6,16,20,27,21,rank,rank,rank,rank,rank,rank,rank,rank
+2013,VT,Vermont,5,51,49,48,43,48,50,50,rank,rank,rank,rank,rank,rank,rank,rank
+2013,WA,Washington,51,39,23,10,5,11,37,39,rank,rank,rank,rank,rank,rank,rank,rank
+2013,WI,Wisconsin,16,18,17,18,20,23,26,13,rank,rank,rank,rank,rank,rank,rank,rank
+2013,WV,West Virginia,46,9,34,32,22,21,14,15,rank,rank,rank,rank,rank,rank,rank,rank
+2013,WY,Wyoming,50,17,22,39,19,30,19,24,rank,rank,rank,rank,rank,rank,rank,rank
+2012,AK,Alaska,2,44,37,47,39,49,36,46,rank,rank,rank,rank,rank,rank,rank,rank
+2012,AL,Alabama,24,9,5,12,2,6,15,9,rank,rank,rank,rank,rank,rank,rank,rank
+2012,AR,Arkansas,45,23,18,26,22,24,26,16,rank,rank,rank,rank,rank,rank,rank,rank
+2012,AZ,Arizona,19,16,38,16,9,13,21,33,rank,rank,rank,rank,rank,rank,rank,rank
+2012,CA,California,9,13,3,2,12,4,5,42,rank,rank,rank,rank,rank,rank,rank,rank
+2012,CO,Colorado,20,22,47,23,26,30,22,27,rank,rank,rank,rank,rank,rank,rank,rank
+2012,CT,Connecticut,3,39,29,43,45,37,42,41,rank,rank,rank,rank,rank,rank,rank,rank
+2012,DC,District of Columbia,11,50,51,50,,51,51,51,rank,rank,rank,rank,rank,rank,rank,rank
+2012,DE,Delaware,14,43,30,45,46,47,48,47,rank,rank,rank,rank,rank,rank,rank,rank
+2012,FL,Florida,16,2,6,3,1,3,6,12,rank,rank,rank,rank,rank,rank,rank,rank
+2012,GA,Georgia,21,14,7,4,5,9,16,8,rank,rank,rank,rank,rank,rank,rank,rank
+2012,HI,Hawaii,1,40,36,44,40,46,35,37,rank,rank,rank,rank,rank,rank,rank,rank
+2012,IA,Iowa,44,20,11,27,23,27,23,14,rank,rank,rank,rank,rank,rank,rank,rank
+2012,ID,Idaho,50,49,33,37,36,43,46,43,rank,rank,rank,rank,rank,rank,rank,rank
+2012,IL,Illinois,36,6,9,21,35,5,12,6,rank,rank,rank,rank,rank,rank,rank,rank
+2012,IN,Indiana,38,4,4,7,6,12,3,3,rank,rank,rank,rank,rank,rank,rank,rank
+2012,KS,Kansas,22,27,45,29,28,32,29,30,rank,rank,rank,rank,rank,rank,rank,rank
+2012,KY,Kentucky,47,7,39,11,10,18,9,7,rank,rank,rank,rank,rank,rank,rank,rank
+2012,LA,Louisiana,51,12,2,13,18,15,8,11,rank,rank,rank,rank,rank,rank,rank,rank
+2012,MA,Massachusetts,7,38,25,34,44,38,38,36,rank,rank,rank,rank,rank,rank,rank,rank
+2012,MD,Maryland,13,34,31,36,48,34,34,26,rank,rank,rank,rank,rank,rank,rank,rank
+2012,ME,Maine,12,46,10,51,49,44,45,40,rank,rank,rank,rank,rank,rank,rank,rank
+2012,MI,Michigan,15,10,13,9,13,14,7,5,rank,rank,rank,rank,rank,rank,rank,rank
+2012,MN,Minnesota,30,31,26,20,24,29,27,28,rank,rank,rank,rank,rank,rank,rank,rank
+2012,MO,Missouri,34,8,40,14,11,17,10,10,rank,rank,rank,rank,rank,rank,rank,rank
+2012,MS,Mississippi,32,33,19,25,25,28,32,25,rank,rank,rank,rank,rank,rank,rank,rank
+2012,MT,Montana,39,36,48,42,38,41,37,35,rank,rank,rank,rank,rank,rank,rank,rank
+2012,NC,North Carolina,25,15,16,5,3,11,14,20,rank,rank,rank,rank,rank,rank,rank,rank
+2012,ND,North Dakota,43,28,41,40,32,36,20,18,rank,rank,rank,rank,rank,rank,rank,rank
+2012,NE,Nebraska,37,32,35,32,31,40,30,22,rank,rank,rank,rank,rank,rank,rank,rank
+2012,NH,New Hampshire,6,45,43,46,41,42,47,48,rank,rank,rank,rank,rank,rank,rank,rank
+2012,NJ,New Jersey,8,35,23,30,50,23,39,45,rank,rank,rank,rank,rank,rank,rank,rank
+2012,NM,New Mexico,31,30,42,38,33,35,13,34,rank,rank,rank,rank,rank,rank,rank,rank
+2012,NV,Nevada,29,37,44,31,34,39,40,44,rank,rank,rank,rank,rank,rank,rank,rank
+2012,NY,New York,4,24,20,18,30,7,24,29,rank,rank,rank,rank,rank,rank,rank,rank
+2012,OH,Ohio,26,5,21,17,14,8,4,1,rank,rank,rank,rank,rank,rank,rank,rank
+2012,OK,Oklahoma,46,17,27,22,16,19,11,19,rank,rank,rank,rank,rank,rank,rank,rank
+2012,OR,Oregon,40,41,32,28,20,26,44,38,rank,rank,rank,rank,rank,rank,rank,rank
+2012,PA,Pennsylvania,18,3,8,24,42,2,2,4,rank,rank,rank,rank,rank,rank,rank,rank
+2012,RI,Rhode Island,10,47,46,49,47,48,49,50,rank,rank,rank,rank,rank,rank,rank,rank
+2012,SC,South Carolina,27,25,14,15,8,16,33,21,rank,rank,rank,rank,rank,rank,rank,rank
+2012,SD,South Dakota,35,48,50,41,37,45,43,39,rank,rank,rank,rank,rank,rank,rank,rank
+2012,TN,Tennessee,23,19,12,8,15,20,31,15,rank,rank,rank,rank,rank,rank,rank,rank
+2012,TX,Texas,33,1,1,1,7,1,1,2,rank,rank,rank,rank,rank,rank,rank,rank
+2012,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2012,UT,Utah,42,26,24,35,29,33,17,32,rank,rank,rank,rank,rank,rank,rank,rank
+2012,VA,Virginia,28,29,17,6,17,22,28,23,rank,rank,rank,rank,rank,rank,rank,rank
+2012,VT,Vermont,5,51,49,48,43,50,50,49,rank,rank,rank,rank,rank,rank,rank,rank
+2012,WA,Washington,49,42,28,10,4,10,41,31,rank,rank,rank,rank,rank,rank,rank,rank
+2012,WI,Wisconsin,17,21,15,19,27,25,25,13,rank,rank,rank,rank,rank,rank,rank,rank
+2012,WV,West Virginia,41,11,34,33,19,21,19,17,rank,rank,rank,rank,rank,rank,rank,rank
+2012,WY,Wyoming,48,18,22,39,21,31,18,24,rank,rank,rank,rank,rank,rank,rank,rank
+2011,AK,Alaska,3,45,37,47,40,48,37,47,rank,rank,rank,rank,rank,rank,rank,rank
+2011,AL,Alabama,23,9,6,12,2,6,13,9,rank,rank,rank,rank,rank,rank,rank,rank
+2011,AR,Arkansas,46,25,16,26,22,25,29,22,rank,rank,rank,rank,rank,rank,rank,rank
+2011,AZ,Arizona,19,15,36,18,11,14,19,31,rank,rank,rank,rank,rank,rank,rank,rank
+2011,CA,California,9,17,3,2,5,4,8,46,rank,rank,rank,rank,rank,rank,rank,rank
+2011,CO,Colorado,21,22,45,24,24,30,20,29,rank,rank,rank,rank,rank,rank,rank,rank
+2011,CT,Connecticut,2,40,34,42,45,39,45,48,rank,rank,rank,rank,rank,rank,rank,rank
+2011,DC,District of Columbia,11,50,51,50,46,51,51,49,rank,rank,rank,rank,rank,rank,rank,rank
+2011,DE,Delaware,14,46,35,46,47,50,47,42,rank,rank,rank,rank,rank,rank,rank,rank
+2011,FL,Florida,15,3,5,3,1,3,6,14,rank,rank,rank,rank,rank,rank,rank,rank
+2011,GA,Georgia,20,11,7,4,4,9,11,5,rank,rank,rank,rank,rank,rank,rank,rank
+2011,HI,Hawaii,1,41,33,44,39,46,35,37,rank,rank,rank,rank,rank,rank,rank,rank
+2011,IA,Iowa,44,21,11,28,25,27,24,15,rank,rank,rank,rank,rank,rank,rank,rank
+2011,ID,Idaho,51,49,29,37,35,43,48,45,rank,rank,rank,rank,rank,rank,rank,rank
+2011,IL,Illinois,26,6,8,19,36,5,12,8,rank,rank,rank,rank,rank,rank,rank,rank
+2011,IN,Indiana,39,5,4,7,6,10,4,3,rank,rank,rank,rank,rank,rank,rank,rank
+2011,KS,Kansas,28,26,49,30,27,32,30,30,rank,rank,rank,rank,rank,rank,rank,rank
+2011,KY,Kentucky,47,7,39,11,10,17,5,7,rank,rank,rank,rank,rank,rank,rank,rank
+2011,LA,Louisiana,43,14,2,14,18,15,9,13,rank,rank,rank,rank,rank,rank,rank,rank
+2011,MA,Massachusetts,7,37,30,34,44,36,39,34,rank,rank,rank,rank,rank,rank,rank,rank
+2011,MD,Maryland,13,33,26,32,49,33,34,27,rank,rank,rank,rank,rank,rank,rank,rank
+2011,ME,Maine,12,44,9,51,50,44,44,40,rank,rank,rank,rank,rank,rank,rank,rank
+2011,MI,Michigan,17,12,17,9,13,13,7,6,rank,rank,rank,rank,rank,rank,rank,rank
+2011,MN,Minnesota,34,29,24,21,23,28,27,25,rank,rank,rank,rank,rank,rank,rank,rank
+2011,MO,Missouri,35,8,40,15,12,18,15,10,rank,rank,rank,rank,rank,rank,rank,rank
+2011,MS,Mississippi,31,34,19,25,28,29,33,28,rank,rank,rank,rank,rank,rank,rank,rank
+2011,MT,Montana,36,35,47,43,38,41,36,35,rank,rank,rank,rank,rank,rank,rank,rank
+2011,NC,North Carolina,33,13,14,5,3,11,21,17,rank,rank,rank,rank,rank,rank,rank,rank
+2011,ND,North Dakota,45,31,41,40,33,38,22,21,rank,rank,rank,rank,rank,rank,rank,rank
+2011,NE,Nebraska,41,32,38,35,31,37,28,24,rank,rank,rank,rank,rank,rank,rank,rank
+2011,NH,New Hampshire,5,43,44,45,41,42,46,33,rank,rank,rank,rank,rank,rank,rank,rank
+2011,NJ,New Jersey,6,36,23,29,51,23,40,43,rank,rank,rank,rank,rank,rank,rank,rank
+2011,NM,New Mexico,32,30,42,38,32,35,17,38,rank,rank,rank,rank,rank,rank,rank,rank
+2011,NV,Nevada,27,38,43,31,34,40,41,44,rank,rank,rank,rank,rank,rank,rank,rank
+2011,NY,New York,4,24,20,17,30,7,26,26,rank,rank,rank,rank,rank,rank,rank,rank
+2011,OH,Ohio,24,4,21,13,14,8,3,1,rank,rank,rank,rank,rank,rank,rank,rank
+2011,OK,Oklahoma,42,16,27,23,16,21,10,18,rank,rank,rank,rank,rank,rank,rank,rank
+2011,OR,Oregon,38,42,31,27,20,26,43,39,rank,rank,rank,rank,rank,rank,rank,rank
+2011,PA,Pennsylvania,16,2,10,22,42,2,2,4,rank,rank,rank,rank,rank,rank,rank,rank
+2011,RI,Rhode Island,10,47,46,49,48,47,49,51,rank,rank,rank,rank,rank,rank,rank,rank
+2011,SC,South Carolina,30,23,13,16,9,16,31,19,rank,rank,rank,rank,rank,rank,rank,rank
+2011,SD,South Dakota,37,48,50,41,37,45,42,41,rank,rank,rank,rank,rank,rank,rank,rank
+2011,TN,Tennessee,22,19,12,8,15,19,32,11,rank,rank,rank,rank,rank,rank,rank,rank
+2011,TX,Texas,25,1,1,1,8,1,1,2,rank,rank,rank,rank,rank,rank,rank,rank
+2011,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2011,UT,Utah,48,27,28,36,29,34,16,32,rank,rank,rank,rank,rank,rank,rank,rank
+2011,VA,Virginia,29,28,18,6,19,22,25,20,rank,rank,rank,rank,rank,rank,rank,rank
+2011,VT,Vermont,8,51,48,48,43,49,50,50,rank,rank,rank,rank,rank,rank,rank,rank
+2011,WA,Washington,49,39,25,10,7,12,38,36,rank,rank,rank,rank,rank,rank,rank,rank
+2011,WI,Wisconsin,18,18,15,20,21,24,23,12,rank,rank,rank,rank,rank,rank,rank,rank
+2011,WV,West Virginia,40,10,32,33,17,20,18,16,rank,rank,rank,rank,rank,rank,rank,rank
+2011,WY,Wyoming,50,20,22,39,26,31,14,23,rank,rank,rank,rank,rank,rank,rank,rank
+2010,AK,Alaska,5,46,37,47,40,48,39,46,rank,rank,rank,rank,rank,rank,rank,rank
+2010,AL,Alabama,25,9,5,13,2,6,14,10,rank,rank,rank,rank,rank,rank,rank,rank
+2010,AR,Arkansas,45,28,17,27,20,25,29,22,rank,rank,rank,rank,rank,rank,rank,rank
+2010,AZ,Arizona,20,15,36,20,11,12,17,33,rank,rank,rank,rank,rank,rank,rank,rank
+2010,CA,California,11,16,3,2,8,4,9,47,rank,rank,rank,rank,rank,rank,rank,rank
+2010,CO,Colorado,22,24,46,24,28,30,20,29,rank,rank,rank,rank,rank,rank,rank,rank
+2010,CT,Connecticut,2,41,29,40,45,40,45,48,rank,rank,rank,rank,rank,rank,rank,rank
+2010,DC,District of Columbia,9,50,50,50,,51,51,49,rank,rank,rank,rank,rank,rank,rank,rank
+2010,DE,Delaware,14,45,48,46,46,50,47,41,rank,rank,rank,rank,rank,rank,rank,rank
+2010,FL,Florida,15,2,6,3,1,3,5,11,rank,rank,rank,rank,rank,rank,rank,rank
+2010,GA,Georgia,26,8,7,4,4,8,10,5,rank,rank,rank,rank,rank,rank,rank,rank
+2010,HI,Hawaii,1,42,33,44,38,45,36,36,rank,rank,rank,rank,rank,rank,rank,rank
+2010,IA,Iowa,40,20,13,28,21,26,22,18,rank,rank,rank,rank,rank,rank,rank,rank
+2010,ID,Idaho,50,49,31,37,37,44,48,45,rank,rank,rank,rank,rank,rank,rank,rank
+2010,IL,Illinois,24,6,8,19,35,5,8,9,rank,rank,rank,rank,rank,rank,rank,rank
+2010,IN,Indiana,39,5,4,8,5,11,4,4,rank,rank,rank,rank,rank,rank,rank,rank
+2010,KS,Kansas,34,26,51,30,24,32,26,30,rank,rank,rank,rank,rank,rank,rank,rank
+2010,KY,Kentucky,48,7,34,12,7,17,7,7,rank,rank,rank,rank,rank,rank,rank,rank
+2010,LA,Louisiana,37,14,2,16,19,16,11,15,rank,rank,rank,rank,rank,rank,rank,rank
+2010,MA,Massachusetts,7,36,30,34,43,34,38,31,rank,rank,rank,rank,rank,rank,rank,rank
+2010,MD,Maryland,13,33,27,31,48,33,34,28,rank,rank,rank,rank,rank,rank,rank,rank
+2010,ME,Maine,12,44,9,51,49,43,44,42,rank,rank,rank,rank,rank,rank,rank,rank
+2010,MI,Michigan,17,11,18,11,13,13,6,6,rank,rank,rank,rank,rank,rank,rank,rank
+2010,MN,Minnesota,32,29,24,22,23,29,27,27,rank,rank,rank,rank,rank,rank,rank,rank
+2010,MO,Missouri,38,10,38,15,12,18,18,8,rank,rank,rank,rank,rank,rank,rank,rank
+2010,MS,Mississippi,30,32,19,26,27,28,32,26,rank,rank,rank,rank,rank,rank,rank,rank
+2010,MT,Montana,35,35,43,43,39,41,35,35,rank,rank,rank,rank,rank,rank,rank,rank
+2010,NC,North Carolina,28,13,12,5,3,10,16,14,rank,rank,rank,rank,rank,rank,rank,rank
+2010,ND,North Dakota,46,30,40,41,32,39,21,17,rank,rank,rank,rank,rank,rank,rank,rank
+2010,NE,Nebraska,43,34,39,35,30,36,30,24,rank,rank,rank,rank,rank,rank,rank,rank
+2010,NH,New Hampshire,4,43,44,45,41,42,46,32,rank,rank,rank,rank,rank,rank,rank,rank
+2010,NJ,New Jersey,6,37,28,25,50,23,41,40,rank,rank,rank,rank,rank,rank,rank,rank
+2010,NM,New Mexico,33,31,41,38,33,37,19,38,rank,rank,rank,rank,rank,rank,rank,rank
+2010,NV,Nevada,19,38,42,32,34,38,40,44,rank,rank,rank,rank,rank,rank,rank,rank
+2010,NY,New York,3,22,20,18,31,9,28,25,rank,rank,rank,rank,rank,rank,rank,rank
+2010,OH,Ohio,23,4,22,9,10,7,3,1,rank,rank,rank,rank,rank,rank,rank,rank
+2010,OK,Oklahoma,41,17,23,23,17,22,12,21,rank,rank,rank,rank,rank,rank,rank,rank
+2010,OR,Oregon,42,40,32,29,26,27,42,37,rank,rank,rank,rank,rank,rank,rank,rank
+2010,PA,Pennsylvania,16,3,10,6,42,2,2,3,rank,rank,rank,rank,rank,rank,rank,rank
+2010,RI,Rhode Island,8,48,45,49,47,47,49,50,rank,rank,rank,rank,rank,rank,rank,rank
+2010,SC,South Carolina,31,23,15,17,6,14,33,19,rank,rank,rank,rank,rank,rank,rank,rank
+2010,SD,South Dakota,36,47,49,42,36,46,43,43,rank,rank,rank,rank,rank,rank,rank,rank
+2010,TN,Tennessee,29,18,11,10,15,19,31,13,rank,rank,rank,rank,rank,rank,rank,rank
+2010,TX,Texas,21,1,1,1,9,1,1,2,rank,rank,rank,rank,rank,rank,rank,rank
+2010,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2010,UT,Utah,47,27,21,36,29,35,13,34,rank,rank,rank,rank,rank,rank,rank,rank
+2010,VA,Virginia,27,25,16,7,16,21,24,16,rank,rank,rank,rank,rank,rank,rank,rank
+2010,VT,Vermont,10,51,47,48,44,49,50,51,rank,rank,rank,rank,rank,rank,rank,rank
+2010,WA,Washington,49,39,25,14,14,15,37,39,rank,rank,rank,rank,rank,rank,rank,rank
+2010,WI,Wisconsin,18,19,14,21,22,24,25,12,rank,rank,rank,rank,rank,rank,rank,rank
+2010,WV,West Virginia,44,12,35,33,18,20,23,20,rank,rank,rank,rank,rank,rank,rank,rank
+2010,WY,Wyoming,51,21,26,39,25,31,15,23,rank,rank,rank,rank,rank,rank,rank,rank
+2009,AK,Alaska,5,45,38,47,40,49,38,46,rank,rank,rank,rank,rank,rank,rank,rank
+2009,AL,Alabama,26,11,6,14,2,6,19,7,rank,rank,rank,rank,rank,rank,rank,rank
+2009,AR,Arkansas,37,31,16,29,19,25,29,24,rank,rank,rank,rank,rank,rank,rank,rank
+2009,AZ,Arizona,19,15,37,20,11,12,15,33,rank,rank,rank,rank,rank,rank,rank,rank
+2009,CA,California,9,14,3,2,13,4,7,47,rank,rank,rank,rank,rank,rank,rank,rank
+2009,CO,Colorado,31,22,46,25,28,29,18,30,rank,rank,rank,rank,rank,rank,rank,rank
+2009,CT,Connecticut,2,42,32,39,45,40,45,48,rank,rank,rank,rank,rank,rank,rank,rank
+2009,DC,District of Columbia,10,50,51,50,,51,51,49,rank,rank,rank,rank,rank,rank,rank,rank
+2009,DE,Delaware,14,46,34,46,46,50,46,39,rank,rank,rank,rank,rank,rank,rank,rank
+2009,FL,Florida,15,4,5,3,1,3,3,11,rank,rank,rank,rank,rank,rank,rank,rank
+2009,GA,Georgia,27,8,7,6,3,9,10,5,rank,rank,rank,rank,rank,rank,rank,rank
+2009,HI,Hawaii,1,41,33,44,38,45,35,37,rank,rank,rank,rank,rank,rank,rank,rank
+2009,IA,Iowa,40,21,15,28,25,28,24,21,rank,rank,rank,rank,rank,rank,rank,rank
+2009,ID,Idaho,50,49,31,37,36,44,49,45,rank,rank,rank,rank,rank,rank,rank,rank
+2009,IL,Illinois,22,6,8,19,35,5,8,8,rank,rank,rank,rank,rank,rank,rank,rank
+2009,IN,Indiana,35,5,4,9,5,11,4,4,rank,rank,rank,rank,rank,rank,rank,rank
+2009,KS,Kansas,34,26,50,30,20,31,23,28,rank,rank,rank,rank,rank,rank,rank,rank
+2009,KY,Kentucky,49,7,35,12,10,17,9,10,rank,rank,rank,rank,rank,rank,rank,rank
+2009,LA,Louisiana,43,16,2,16,22,16,12,20,rank,rank,rank,rank,rank,rank,rank,rank
+2009,MA,Massachusetts,3,35,30,34,44,36,39,31,rank,rank,rank,rank,rank,rank,rank,rank
+2009,MD,Maryland,12,32,24,31,48,33,34,12,rank,rank,rank,rank,rank,rank,rank,rank
+2009,ME,Maine,11,44,9,51,49,43,43,32,rank,rank,rank,rank,rank,rank,rank,rank
+2009,MI,Michigan,20,10,19,11,14,14,6,6,rank,rank,rank,rank,rank,rank,rank,rank
+2009,MN,Minnesota,32,28,23,22,21,27,21,26,rank,rank,rank,rank,rank,rank,rank,rank
+2009,MO,Missouri,41,9,39,15,12,18,20,9,rank,rank,rank,rank,rank,rank,rank,rank
+2009,MS,Mississippi,25,34,18,26,30,30,32,29,rank,rank,rank,rank,rank,rank,rank,rank
+2009,MT,Montana,36,37,41,42,39,41,36,36,rank,rank,rank,rank,rank,rank,rank,rank
+2009,NC,North Carolina,29,13,13,7,4,10,25,15,rank,rank,rank,rank,rank,rank,rank,rank
+2009,ND,North Dakota,47,30,40,41,33,38,17,17,rank,rank,rank,rank,rank,rank,rank,rank
+2009,NE,Nebraska,42,33,44,35,32,39,26,25,rank,rank,rank,rank,rank,rank,rank,rank
+2009,NH,New Hampshire,6,43,43,45,41,42,47,34,rank,rank,rank,rank,rank,rank,rank,rank
+2009,NJ,New Jersey,7,38,21,24,50,23,41,42,rank,rank,rank,rank,rank,rank,rank,rank
+2009,NM,New Mexico,33,29,42,38,31,35,16,38,rank,rank,rank,rank,rank,rank,rank,rank
+2009,NV,Nevada,16,36,47,32,34,37,40,44,rank,rank,rank,rank,rank,rank,rank,rank
+2009,NY,New York,4,23,20,17,29,8,27,27,rank,rank,rank,rank,rank,rank,rank,rank
+2009,OH,Ohio,23,3,25,4,7,7,5,1,rank,rank,rank,rank,rank,rank,rank,rank
+2009,OK,Oklahoma,44,17,28,23,17,20,11,22,rank,rank,rank,rank,rank,rank,rank,rank
+2009,OR,Oregon,38,40,27,27,24,26,42,41,rank,rank,rank,rank,rank,rank,rank,rank
+2009,PA,Pennsylvania,18,2,10,5,42,2,2,2,rank,rank,rank,rank,rank,rank,rank,rank
+2009,RI,Rhode Island,8,48,45,48,47,47,48,50,rank,rank,rank,rank,rank,rank,rank,rank
+2009,SC,South Carolina,30,24,17,18,6,15,33,19,rank,rank,rank,rank,rank,rank,rank,rank
+2009,SD,South Dakota,39,47,49,43,37,46,44,43,rank,rank,rank,rank,rank,rank,rank,rank
+2009,TN,Tennessee,28,20,12,10,15,19,31,16,rank,rank,rank,rank,rank,rank,rank,rank
+2009,TX,Texas,17,1,1,1,9,1,1,3,rank,rank,rank,rank,rank,rank,rank,rank
+2009,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2009,UT,Utah,45,25,22,36,27,34,13,35,rank,rank,rank,rank,rank,rank,rank,rank
+2009,VA,Virginia,24,27,11,8,16,22,28,18,rank,rank,rank,rank,rank,rank,rank,rank
+2009,VT,Vermont,13,51,48,49,43,48,50,51,rank,rank,rank,rank,rank,rank,rank,rank
+2009,WA,Washington,48,39,29,13,8,13,37,40,rank,rank,rank,rank,rank,rank,rank,rank
+2009,WI,Wisconsin,21,19,14,21,26,24,22,14,rank,rank,rank,rank,rank,rank,rank,rank
+2009,WV,West Virginia,46,12,36,33,18,21,30,13,rank,rank,rank,rank,rank,rank,rank,rank
+2009,WY,Wyoming,51,18,26,40,23,32,14,23,rank,rank,rank,rank,rank,rank,rank,rank
+2008,AK,Alaska,6,46,37,48,39,50,41,48,rank,rank,rank,rank,rank,rank,rank,rank
+2008,AL,Alabama,27,10,6,13,2,7,10,6,rank,rank,rank,rank,rank,rank,rank,rank
+2008,AR,Arkansas,37,31,16,28,20,26,34,27,rank,rank,rank,rank,rank,rank,rank,rank
+2008,AZ,Arizona,21,15,34,20,10,12,17,32,rank,rank,rank,rank,rank,rank,rank,rank
+2008,CA,California,12,14,3,2,15,4,13,47,rank,rank,rank,rank,rank,rank,rank,rank
+2008,CO,Colorado,26,24,42,25,28,28,25,30,rank,rank,rank,rank,rank,rank,rank,rank
+2008,CT,Connecticut,2,41,33,39,45,40,46,46,rank,rank,rank,rank,rank,rank,rank,rank
+2008,DC,District of Columbia,10,50,51,50,,51,51,49,rank,rank,rank,rank,rank,rank,rank,rank
+2008,DE,Delaware,13,44,29,46,46,46,44,35,rank,rank,rank,rank,rank,rank,rank,rank
+2008,FL,Florida,16,5,5,3,1,3,5,11,rank,rank,rank,rank,rank,rank,rank,rank
+2008,GA,Georgia,25,8,7,6,3,9,8,4,rank,rank,rank,rank,rank,rank,rank,rank
+2008,HI,Hawaii,1,42,35,44,38,45,36,39,rank,rank,rank,rank,rank,rank,rank,rank
+2008,IA,Iowa,42,22,25,29,23,29,19,18,rank,rank,rank,rank,rank,rank,rank,rank
+2008,ID,Idaho,49,49,31,37,35,44,49,45,rank,rank,rank,rank,rank,rank,rank,rank
+2008,IL,Illinois,20,6,10,18,41,5,7,8,rank,rank,rank,rank,rank,rank,rank,rank
+2008,IN,Indiana,41,3,4,9,5,10,3,3,rank,rank,rank,rank,rank,rank,rank,rank
+2008,KS,Kansas,38,27,49,30,22,32,29,23,rank,rank,rank,rank,rank,rank,rank,rank
+2008,KY,Kentucky,48,7,36,12,14,16,6,9,rank,rank,rank,rank,rank,rank,rank,rank
+2008,LA,Louisiana,18,17,2,19,27,17,16,22,rank,rank,rank,rank,rank,rank,rank,rank
+2008,MA,Massachusetts,4,35,28,34,44,35,39,31,rank,rank,rank,rank,rank,rank,rank,rank
+2008,MD,Maryland,11,32,24,31,48,31,32,14,rank,rank,rank,rank,rank,rank,rank,rank
+2008,ME,Maine,9,45,9,51,49,43,45,36,rank,rank,rank,rank,rank,rank,rank,rank
+2008,MI,Michigan,24,12,15,11,9,13,9,7,rank,rank,rank,rank,rank,rank,rank,rank
+2008,MN,Minnesota,35,28,26,22,19,27,20,24,rank,rank,rank,rank,rank,rank,rank,rank
+2008,MO,Missouri,43,11,38,15,12,19,12,12,rank,rank,rank,rank,rank,rank,rank,rank
+2008,MS,Mississippi,23,33,18,26,31,30,31,29,rank,rank,rank,rank,rank,rank,rank,rank
+2008,MT,Montana,36,36,40,41,37,41,35,38,rank,rank,rank,rank,rank,rank,rank,rank
+2008,NC,North Carolina,32,13,11,7,4,11,26,13,rank,rank,rank,rank,rank,rank,rank,rank
+2008,ND,North Dakota,44,29,41,42,33,38,24,20,rank,rank,rank,rank,rank,rank,rank,rank
+2008,NE,Nebraska,45,34,46,35,32,39,33,28,rank,rank,rank,rank,rank,rank,rank,rank
+2008,NH,New Hampshire,7,43,44,45,40,42,47,34,rank,rank,rank,rank,rank,rank,rank,rank
+2008,NJ,New Jersey,8,37,22,23,50,23,38,33,rank,rank,rank,rank,rank,rank,rank,rank
+2008,NM,New Mexico,29,30,39,38,30,36,23,40,rank,rank,rank,rank,rank,rank,rank,rank
+2008,NV,Nevada,17,38,45,33,34,37,37,44,rank,rank,rank,rank,rank,rank,rank,rank
+2008,NY,New York,3,20,19,16,29,8,28,25,rank,rank,rank,rank,rank,rank,rank,rank
+2008,OH,Ohio,28,2,23,4,6,6,1,2,rank,rank,rank,rank,rank,rank,rank,rank
+2008,OK,Oklahoma,34,18,21,24,17,21,15,21,rank,rank,rank,rank,rank,rank,rank,rank
+2008,OR,Oregon,39,40,20,27,24,25,42,42,rank,rank,rank,rank,rank,rank,rank,rank
+2008,PA,Pennsylvania,19,4,8,5,42,2,4,1,rank,rank,rank,rank,rank,rank,rank,rank
+2008,RI,Rhode Island,5,48,43,47,47,47,48,50,rank,rank,rank,rank,rank,rank,rank,rank
+2008,SC,South Carolina,33,23,17,17,7,15,30,17,rank,rank,rank,rank,rank,rank,rank,rank
+2008,SD,South Dakota,40,47,48,43,36,48,43,41,rank,rank,rank,rank,rank,rank,rank,rank
+2008,TN,Tennessee,30,16,13,10,13,20,14,15,rank,rank,rank,rank,rank,rank,rank,rank
+2008,TX,Texas,15,1,1,1,8,1,2,5,rank,rank,rank,rank,rank,rank,rank,rank
+2008,US,United States,,,,,,,,,rank,rank,rank,rank,rank,rank,rank,rank
+2008,UT,Utah,47,26,47,36,25,33,22,37,rank,rank,rank,rank,rank,rank,rank,rank
+2008,VA,Virginia,31,25,12,8,18,22,27,19,rank,rank,rank,rank,rank,rank,rank,rank
+2008,VT,Vermont,14,51,50,49,43,49,50,51,rank,rank,rank,rank,rank,rank,rank,rank
+2008,WA,Washington,46,39,30,14,11,14,40,43,rank,rank,rank,rank,rank,rank,rank,rank
+2008,WI,Wisconsin,22,19,14,21,21,24,21,16,rank,rank,rank,rank,rank,rank,rank,rank
+2008,WV,West Virginia,51,9,32,32,16,18,11,10,rank,rank,rank,rank,rank,rank,rank,rank
+2008,WY,Wyoming,50,21,27,40,26,34,18,26,rank,rank,rank,rank,rank,rank,rank,rank

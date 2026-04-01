@@ -1,0 +1,888 @@
+period,duoarea,area-name,product,product-name,process,process-name,series,series-description,value,units
+2025-01,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),27605,MMCF
+2025-01,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-01,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),9899,MMCF
+2025-01,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3533690,MMCF
+2025-01,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),98224,MMCF
+2025-01,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1049775,MMCF
+2025-01,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),55960,MMCF
+2025-01,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),27151,MMCF
+2025-01,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),80731,MMCF
+2025-01,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),230372,MMCF
+2025-01,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),318995,MMCF
+2025-01,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9652,MMCF
+2025-01,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),3719,MMCF
+2025-01,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-01,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),283903,MMCF
+2025-01,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),172182,MMCF
+2025-01,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),661844,MMCF
+2025-01,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),285123,MMCF
+2025-01,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),32571,MMCF
+2025-01,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),156067,MMCF
+2025-01,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),24712,MMCF
+2025-02,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-02,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),8702,MMCF
+2025-02,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3217762,MMCF
+2025-02,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),87012,MMCF
+2025-02,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),951187,MMCF
+2025-02,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),50204,MMCF
+2025-02,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),25115,MMCF
+2025-02,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),72783,MMCF
+2025-02,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),206121,MMCF
+2025-02,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),296175,MMCF
+2025-02,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9018,MMCF
+2025-02,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),3178,MMCF
+2025-02,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-02,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),273434,MMCF
+2025-02,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),154848,MMCF
+2025-02,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),591278,MMCF
+2025-02,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),264298,MMCF
+2025-02,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),29720,MMCF
+2025-02,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),141476,MMCF
+2025-02,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),27815,MMCF
+2025-03,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-03,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),10499,MMCF
+2025-03,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3656870,MMCF
+2025-03,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),101316,MMCF
+2025-03,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1056346,MMCF
+2025-03,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),57945,MMCF
+2025-03,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),28176,MMCF
+2025-03,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),80848,MMCF
+2025-03,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),239966,MMCF
+2025-03,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),346665,MMCF
+2025-03,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9568,MMCF
+2025-03,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),3785,MMCF
+2025-03,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-03,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),299807,MMCF
+2025-03,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),170699,MMCF
+2025-03,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),657896,MMCF
+2025-03,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),341494,MMCF
+2025-03,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),32907,MMCF
+2025-03,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),160048,MMCF
+2025-03,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),26747,MMCF
+2025-04,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-04,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),9979,MMCF
+2025-04,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3527726,MMCF
+2025-04,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),99141,MMCF
+2025-04,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1031186,MMCF
+2025-04,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),55693,MMCF
+2025-04,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),27878,MMCF
+2025-04,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),78366,MMCF
+2025-04,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),233541,MMCF
+2025-04,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),330271,MMCF
+2025-04,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9454,MMCF
+2025-04,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),3703,MMCF
+2025-04,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-04,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),295872,MMCF
+2025-04,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),160619,MMCF
+2025-04,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),633473,MMCF
+2025-04,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),317920,MMCF
+2025-04,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),30497,MMCF
+2025-04,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),153366,MMCF
+2025-04,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),27702,MMCF
+2025-05,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-05,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),10712,MMCF
+2025-05,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3639248,MMCF
+2025-05,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),99855,MMCF
+2025-05,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1055568,MMCF
+2025-05,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),52993,MMCF
+2025-05,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),29060,MMCF
+2025-05,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),78116,MMCF
+2025-05,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),248292,MMCF
+2025-05,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),336605,MMCF
+2025-05,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9639,MMCF
+2025-05,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),3679,MMCF
+2025-05,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-05,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),307050,MMCF
+2025-05,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),171954,MMCF
+2025-05,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),652821,MMCF
+2025-05,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),335867,MMCF
+2025-05,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),31676,MMCF
+2025-05,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),156608,MMCF
+2025-05,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),26552,MMCF
+2025-06,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-06,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),10130,MMCF
+2025-06,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3548671,MMCF
+2025-06,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),99273,MMCF
+2025-06,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1035559,MMCF
+2025-06,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),58926,MMCF
+2025-06,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),28001,MMCF
+2025-06,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),76586,MMCF
+2025-06,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),239906,MMCF
+2025-06,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),332902,MMCF
+2025-06,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9399,MMCF
+2025-06,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),3785,MMCF
+2025-06,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-06,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),301397,MMCF
+2025-06,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),170533,MMCF
+2025-06,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),644572,MMCF
+2025-06,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),300487,MMCF
+2025-06,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),29501,MMCF
+2025-06,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),151575,MMCF
+2025-06,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),27294,MMCF
+2025-07,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-07,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),10592,MMCF
+2025-07,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3692035,MMCF
+2025-07,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),104987,MMCF
+2025-07,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1084384,MMCF
+2025-07,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),62168,MMCF
+2025-07,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),29109,MMCF
+2025-07,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),77319,MMCF
+2025-07,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),249435,MMCF
+2025-07,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),354848,MMCF
+2025-07,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9540,MMCF
+2025-07,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),3975,MMCF
+2025-07,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-07,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),309202,MMCF
+2025-07,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),178948,MMCF
+2025-07,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),651416,MMCF
+2025-07,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),323624,MMCF
+2025-07,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),26261,MMCF
+2025-07,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),158135,MMCF
+2025-07,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),27371,MMCF
+2025-08,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),10663,MMCF
+2025-08,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3714435,MMCF
+2025-08,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),104759,MMCF
+2025-08,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1096045,MMCF
+2025-08,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),63411,MMCF
+2025-08,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),28826,MMCF
+2025-08,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),73248,MMCF
+2025-08,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),246679,MMCF
+2025-08,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),357032,MMCF
+2025-08,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9489,MMCF
+2025-08,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),4109,MMCF
+2025-08,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-08,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),309028,MMCF
+2025-08,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),185215,MMCF
+2025-08,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),646896,MMCF
+2025-08,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),335573,MMCF
+2025-08,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),28593,MMCF
+2025-08,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),157147,MMCF
+2025-08,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),26305,MMCF
+2025-09,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-09,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),10290,MMCF
+2025-09,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3589671,MMCF
+2025-09,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),102231,MMCF
+2025-09,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1059468,MMCF
+2025-09,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),60560,MMCF
+2025-09,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),28499,MMCF
+2025-09,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),73017,MMCF
+2025-09,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),239632,MMCF
+2025-09,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),354423,MMCF
+2025-09,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9019,MMCF
+2025-09,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),3937,MMCF
+2025-09,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-09,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),301833,MMCF
+2025-09,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),180840,MMCF
+2025-09,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),615177,MMCF
+2025-09,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),311169,MMCF
+2025-09,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),29625,MMCF
+2025-09,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),154576,MMCF
+2025-09,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),27243,MMCF
+2025-10,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-10,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),10573,MMCF
+2025-10,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3676810,MMCF
+2025-10,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),104954,MMCF
+2025-10,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1083129,MMCF
+2025-10,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),64308,MMCF
+2025-10,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),28923,MMCF
+2025-10,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),78666,MMCF
+2025-10,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),247052,MMCF
+2025-10,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),361003,MMCF
+2025-10,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9218,MMCF
+2025-10,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),4131,MMCF
+2025-10,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-10,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),309293,MMCF
+2025-10,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),188882,MMCF
+2025-10,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),616283,MMCF
+2025-10,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),320087,MMCF
+2025-10,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),31513,MMCF
+2025-10,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),161690,MMCF
+2025-10,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),26267,MMCF
+2025-11,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-11,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),10043,MMCF
+2025-11,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3649901,MMCF
+2025-11,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),100694,MMCF
+2025-11,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1070559,MMCF
+2025-11,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),61506,MMCF
+2025-11,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),27334,MMCF
+2025-11,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),77007,MMCF
+2025-11,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),240939,MMCF
+2025-11,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),357988,MMCF
+2025-11,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),8952,MMCF
+2025-11,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),4111,MMCF
+2025-11,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-11,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),302006,MMCF
+2025-11,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),182088,MMCF
+2025-11,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),632897,MMCF
+2025-11,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),332733,MMCF
+2025-11,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),31959,MMCF
+2025-11,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),155280,MMCF
+2025-11,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),27713,MMCF
+2025-12,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-12,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),10203,MMCF
+2025-12,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3802176,MMCF
+2025-12,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),97900,MMCF
+2025-12,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1117708,MMCF
+2025-12,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),65296,MMCF
+2025-12,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),28379,MMCF
+2025-12,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),80884,MMCF
+2025-12,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),255610,MMCF
+2025-12,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),371498,MMCF
+2025-12,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9093,MMCF
+2025-12,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),4089,MMCF
+2025-12,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-12,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),307128,MMCF
+2025-12,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),183915,MMCF
+2025-12,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),665465,MMCF
+2025-12,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),351477,MMCF
+2025-12,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),34134,MMCF
+2025-12,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),163181,MMCF
+2025-12,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+period,duoarea,area-name,product,product-name,process,process-name,series,series-description,value,units
+2025-01,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),27605,MMCF
+2025-01,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-01,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),9899,MMCF
+2025-01,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3533690,MMCF
+2025-01,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),98224,MMCF
+2025-01,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1049775,MMCF
+2025-01,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),55960,MMCF
+2025-01,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),27151,MMCF
+2025-01,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),80731,MMCF
+2025-01,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),230372,MMCF
+2025-01,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),318995,MMCF
+2025-01,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9652,MMCF
+2025-01,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),3719,MMCF
+2025-01,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-01,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),283903,MMCF
+2025-01,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),172182,MMCF
+2025-01,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),661844,MMCF
+2025-01,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),285123,MMCF
+2025-01,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),32571,MMCF
+2025-01,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),156067,MMCF
+2025-01,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-01,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),24712,MMCF
+2025-02,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-02,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),8702,MMCF
+2025-02,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3217762,MMCF
+2025-02,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),87012,MMCF
+2025-02,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),951187,MMCF
+2025-02,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),50204,MMCF
+2025-02,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),25115,MMCF
+2025-02,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),72783,MMCF
+2025-02,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),206121,MMCF
+2025-02,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),296175,MMCF
+2025-02,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9018,MMCF
+2025-02,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),3178,MMCF
+2025-02,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-02,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),273434,MMCF
+2025-02,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),154848,MMCF
+2025-02,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),591278,MMCF
+2025-02,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),264298,MMCF
+2025-02,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),29720,MMCF
+2025-02,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),141476,MMCF
+2025-02,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-02,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),27815,MMCF
+2025-03,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-03,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),10499,MMCF
+2025-03,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3656870,MMCF
+2025-03,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),101316,MMCF
+2025-03,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1056346,MMCF
+2025-03,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),57945,MMCF
+2025-03,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),28176,MMCF
+2025-03,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),80848,MMCF
+2025-03,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),239966,MMCF
+2025-03,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),346665,MMCF
+2025-03,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9568,MMCF
+2025-03,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),3785,MMCF
+2025-03,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-03,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),299807,MMCF
+2025-03,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),170699,MMCF
+2025-03,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),657896,MMCF
+2025-03,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),341494,MMCF
+2025-03,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),32907,MMCF
+2025-03,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),160048,MMCF
+2025-03,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-03,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),26747,MMCF
+2025-04,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-04,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),9979,MMCF
+2025-04,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3527726,MMCF
+2025-04,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),99141,MMCF
+2025-04,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1031186,MMCF
+2025-04,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),55693,MMCF
+2025-04,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),27878,MMCF
+2025-04,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),78366,MMCF
+2025-04,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),233541,MMCF
+2025-04,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),330271,MMCF
+2025-04,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9454,MMCF
+2025-04,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),3703,MMCF
+2025-04,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-04,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),295872,MMCF
+2025-04,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),160619,MMCF
+2025-04,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),633473,MMCF
+2025-04,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),317920,MMCF
+2025-04,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),30497,MMCF
+2025-04,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),153366,MMCF
+2025-04,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-04,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),27702,MMCF
+2025-05,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-05,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),10712,MMCF
+2025-05,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3639248,MMCF
+2025-05,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),99855,MMCF
+2025-05,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1055568,MMCF
+2025-05,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),52993,MMCF
+2025-05,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),29060,MMCF
+2025-05,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),78116,MMCF
+2025-05,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),248292,MMCF
+2025-05,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),336605,MMCF
+2025-05,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9639,MMCF
+2025-05,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),3679,MMCF
+2025-05,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-05,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),307050,MMCF
+2025-05,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),171954,MMCF
+2025-05,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),652821,MMCF
+2025-05,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),335867,MMCF
+2025-05,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),31676,MMCF
+2025-05,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),156608,MMCF
+2025-05,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-05,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),26552,MMCF
+2025-06,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-06,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),10130,MMCF
+2025-06,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3548671,MMCF
+2025-06,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),99273,MMCF
+2025-06,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1035559,MMCF
+2025-06,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),58926,MMCF
+2025-06,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),28001,MMCF
+2025-06,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),76586,MMCF
+2025-06,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),239906,MMCF
+2025-06,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),332902,MMCF
+2025-06,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9399,MMCF
+2025-06,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),3785,MMCF
+2025-06,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-06,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),301397,MMCF
+2025-06,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),170533,MMCF
+2025-06,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),644572,MMCF
+2025-06,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),300487,MMCF
+2025-06,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),29501,MMCF
+2025-06,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),151575,MMCF
+2025-06,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-06,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),27294,MMCF
+2025-07,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-07,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),10592,MMCF
+2025-07,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3692035,MMCF
+2025-07,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),104987,MMCF
+2025-07,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1084384,MMCF
+2025-07,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),62168,MMCF
+2025-07,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),29109,MMCF
+2025-07,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),77319,MMCF
+2025-07,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),249435,MMCF
+2025-07,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),354848,MMCF
+2025-07,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9540,MMCF
+2025-07,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),3975,MMCF
+2025-07,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-07,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),309202,MMCF
+2025-07,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),178948,MMCF
+2025-07,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),651416,MMCF
+2025-07,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),323624,MMCF
+2025-07,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),26261,MMCF
+2025-07,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),158135,MMCF
+2025-07,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-07,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),27371,MMCF
+2025-08,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),10663,MMCF
+2025-08,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3714435,MMCF
+2025-08,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),104759,MMCF
+2025-08,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1096045,MMCF
+2025-08,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),63411,MMCF
+2025-08,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),28826,MMCF
+2025-08,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),73248,MMCF
+2025-08,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),246679,MMCF
+2025-08,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),357032,MMCF
+2025-08,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9489,MMCF
+2025-08,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),4109,MMCF
+2025-08,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-08,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),309028,MMCF
+2025-08,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),185215,MMCF
+2025-08,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),646896,MMCF
+2025-08,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),335573,MMCF
+2025-08,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),28593,MMCF
+2025-08,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),157147,MMCF
+2025-08,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-08,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),26305,MMCF
+2025-09,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-09,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),10290,MMCF
+2025-09,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3589671,MMCF
+2025-09,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),102231,MMCF
+2025-09,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1059468,MMCF
+2025-09,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),60560,MMCF
+2025-09,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),28499,MMCF
+2025-09,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),73017,MMCF
+2025-09,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),239632,MMCF
+2025-09,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),354423,MMCF
+2025-09,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9019,MMCF
+2025-09,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),3937,MMCF
+2025-09,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-09,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),301833,MMCF
+2025-09,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),180840,MMCF
+2025-09,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),615177,MMCF
+2025-09,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),311169,MMCF
+2025-09,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),29625,MMCF
+2025-09,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),154576,MMCF
+2025-09,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-09,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),27243,MMCF
+2025-10,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-10,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),10573,MMCF
+2025-10,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3676810,MMCF
+2025-10,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),104954,MMCF
+2025-10,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1083129,MMCF
+2025-10,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),64308,MMCF
+2025-10,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),28923,MMCF
+2025-10,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),78666,MMCF
+2025-10,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),247052,MMCF
+2025-10,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),361003,MMCF
+2025-10,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9218,MMCF
+2025-10,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),4131,MMCF
+2025-10,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-10,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),309293,MMCF
+2025-10,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),188882,MMCF
+2025-10,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),616283,MMCF
+2025-10,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),320087,MMCF
+2025-10,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),31513,MMCF
+2025-10,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),161690,MMCF
+2025-10,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-10,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),26267,MMCF
+2025-11,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-11,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),10043,MMCF
+2025-11,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3649901,MMCF
+2025-11,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),100694,MMCF
+2025-11,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1070559,MMCF
+2025-11,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),61506,MMCF
+2025-11,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),27334,MMCF
+2025-11,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),77007,MMCF
+2025-11,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),240939,MMCF
+2025-11,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),357988,MMCF
+2025-11,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),8952,MMCF
+2025-11,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),4111,MMCF
+2025-11,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-11,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),302006,MMCF
+2025-11,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),182088,MMCF
+2025-11,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),632897,MMCF
+2025-11,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),332733,MMCF
+2025-11,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),31959,MMCF
+2025-11,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),155280,MMCF
+2025-11,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-11,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SAR,USA-AR,EPG0,Natural Gas,VGM,Marketed Production,N9050AR2,Arkansas Natural Gas Marketed Production (MMcf),27713,MMCF
+2025-12,NUS,U.S.,EPG0,Natural Gas,FWA,Wellhead Acquisition Price,N9190US3,U.S. Natural Gas Wellhead Price (Dollars per Thousand Cubic Feet),,$/MCF
+2025-12,SMO,USA-MO,EPG0,Natural Gas,VGM,Marketed Production,N9050MO2,Missouri Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SVA,USA-VA,EPG0,Natural Gas,VGM,Marketed Production,N9050VA2,Virginia Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SKS,USA-KS,EPG0,Natural Gas,VGM,Marketed Production,N9050KS2,Kansas Natural Gas Marketed Production (MMcf),10203,MMCF
+2025-12,SAL,USA-AL,EPG0,Natural Gas,VGM,Marketed Production,N9050AL2,Alabama Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,NUS,U.S.,EPG0,Natural Gas,VGM,Marketed Production,N9050US2,U.S. Natural Gas Marketed Production (MMcf),3802176,MMCF
+2025-12,SND,USA-ND,EPG0,Natural Gas,VGM,Marketed Production,N9050ND2,North Dakota Natural Gas Marketed Production (MMcf),97900,MMCF
+2025-12,STN,USA-TN,EPG0,Natural Gas,VGM,Marketed Production,N9050TN2,Tennessee Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,STX,TEXAS,EPG0,Natural Gas,VGM,Marketed Production,N9050TX2,Texas Natural Gas Marketed Production (MMcf),1117708,MMCF
+2025-12,R3FM,NA,EPG0,Natural Gas,VGM,Marketed Production,N9050FX2,Federal Offshore--Gulf of America Natural Gas Marketed Production (MMcf),65296,MMCF
+2025-12,SUT,USA-UT,EPG0,Natural Gas,VGM,Marketed Production,N9050UT2,Utah Natural Gas Marketed Production (MMcf),28379,MMCF
+2025-12,SWY,USA-WY,EPG0,Natural Gas,VGM,Marketed Production,N9050WY2,Wyoming Natural Gas Marketed Production (MMcf),80884,MMCF
+2025-12,SIN,USA-IN,EPG0,Natural Gas,VGM,Marketed Production,N9050IN2,Indiana Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SNV,USA-NV,EPG0,Natural Gas,VGM,Marketed Production,N9050NV2,Nevada Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SNY,NEW YORK,EPG0,Natural Gas,VGM,Marketed Production,N9050NY2,New York Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SOK,USA-OK,EPG0,Natural Gas,VGM,Marketed Production,N9050OK2,Oklahoma Natural Gas Marketed Production (MMcf),255610,MMCF
+2025-12,SNM,USA-NM,EPG0,Natural Gas,VGM,Marketed Production,N9050NM2,New Mexico Natural Gas Marketed Production (MMcf),371498,MMCF
+2025-12,SMS,USA-MS,EPG0,Natural Gas,VGM,Marketed Production,N9050MS2,Mississippi Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SFL,FLORIDA,EPG0,Natural Gas,VGM,Marketed Production,N9050FL2,Florida Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SCA,CALIFORNIA,EPG0,Natural Gas,VGM,Marketed Production,N9050CA2,California Natural Gas Marketed Production (MMcf),9093,MMCF
+2025-12,SMT,USA-MT,EPG0,Natural Gas,VGM,Marketed Production,N9050MT2,Montana Natural Gas Marketed Production (MMcf),4089,MMCF
+2025-12,SMD,USA-MD,EPG0,Natural Gas,VGM,Marketed Production,N9050MD2,Maryland Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SID,USA-ID,EPG0,Natural Gas,VGM,Marketed Production,NGM_EPG0_VGM_SID_MMCF,Idaho Marketed Production of Natural Gas (Million Cubic Feet),,MMCF
+2025-12,SOR,USA-OR,EPG0,Natural Gas,VGM,Marketed Production,N9050OR2,Oregon Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SWV,USA-WV,EPG0,Natural Gas,VGM,Marketed Production,N9050WV2,West Virginia Natural Gas Marketed Production (MMcf),307128,MMCF
+2025-12,SKY,USA-KY,EPG0,Natural Gas,VGM,Marketed Production,N9050KY2,Kentucky Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SAZ,USA-AZ,EPG0,Natural Gas,VGM,Marketed Production,N9050AZ2,Arizona Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SOH,OHIO,EPG0,Natural Gas,VGM,Marketed Production,N9050OH2,Ohio Natural Gas Marketed Production (MMcf),183915,MMCF
+2025-12,SPA,USA-PA,EPG0,Natural Gas,VGM,Marketed Production,N9050PA2,Pennsylvania Natural Gas Marketed Production (MMcf),665465,MMCF
+2025-12,SIL,USA-IL,EPG0,Natural Gas,VGM,Marketed Production,N9050IL2,Illinois Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SLA,USA-LA,EPG0,Natural Gas,VGM,Marketed Production,N9050LA2,Louisiana Natural Gas Marketed Production (MMcf),351477,MMCF
+2025-12,SAK,USA-AK,EPG0,Natural Gas,VGM,Marketed Production,N9050AK2,Alaska Natural Gas Marketed Production (MMcf),34134,MMCF
+2025-12,SCO,COLORADO,EPG0,Natural Gas,VGM,Marketed Production,N9050CO2,Colorado Natural Gas Marketed Production (MMcf),163181,MMCF
+2025-12,SMI,USA-MI,EPG0,Natural Gas,VGM,Marketed Production,N9050MI2,Michigan Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SSD,USA-SD,EPG0,Natural Gas,VGM,Marketed Production,N9050SD2,South Dakota Natural Gas Marketed Production (MMcf),,MMCF
+2025-12,SNE,USA-NE,EPG0,Natural Gas,VGM,Marketed Production,N9050NE2,Nebraska Natural Gas Marketed Production (MMcf),,MMCF

@@ -1,0 +1,372 @@
+period,duoarea,area-name,product,product-name,process,process-name,series,series-description,value,units
+2025-08-01,NUS-Z00,U.S.,EP00,Crude Oil and Petroleum Products,EEX,Exports,WTTEXUS2,U.S. Exports of Crude Oil and Petroleum Products (Thousand Barrels per Day),10663,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPC0,Crude Oil,EEX,Exports,WCREXUS2,U.S. Exports of Crude Oil (Thousand Barrels per Day),3318,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPD0,Distillate Fuel Oil,EEX,Exports,WDIEXUS2,U.S. Exports of Total Distillate (Thousand Barrels per Day),1545,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPJK,Kerosene-Type Jet Fuel,EEX,Exports,WKJEXUS2,U.S. Exports of Kerosene-Type Jet Fuel (Thousand Barrels per Day),141,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPLLPZ,Propane and Propylene,EEX,Exports,W_EPLLPZ_EEX_NUS-Z00_MBBLD,U.S. Exports of Propane (Thousand Barrels per Day),1991,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0F,Finished Motor Gasoline,EEX,Exports,W_EPM0F_EEX_NUS-Z00_MBBLD,U.S. Exports of Total Motor Gasoline (Thousand Barrels per Day),946,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPOOXE,Fuel Ethanol,EEX,Exports,W_EPOOXE_EEX_NUS-Z00_MBBLD,U.S. Exports of Fuel Ethanol (Thousand Barrels per Day),116,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPP0,Total Petroleum Products,EEX,Exports,WRPEXUS2,U.S. Exports of Total Petroleum Products (Thousand Barrels per Day),7345,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPPO4,Other Oils,EEX,Exports,W_EPPO4_EEX_NUS-Z00_MBBLD,U.S. Exports of Other Oils (Thousand Barrels per Day),2438,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPPR,Residual Fuel Oil,EEX,Exports,WREEXUS2,U.S. Exports of Residual Fuel Oil (Thousand Barrels per Day),168,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EP00,Crude Oil and Petroleum Products,IM0,Imports,WTTIM_R20-Z00_2,Midwest (PADD 2) Imports of Crude Oil and Petroleum Products (Thousand Barrels per Day),3001,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EP00,Crude Oil and Petroleum Products,IM0,Imports,WTTIMUS2,U.S. Imports of Crude Oil and Petroleum Products (Thousand Barrels per Day),7477,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EP00,Crude Oil and Petroleum Products,IM0,Imports,WTTIM_R10-Z00_2,East Coast (PADD 1) Imports of Crude Oil and Petroleum Products (Thousand Barrels per Day),1095,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EP00,Crude Oil and Petroleum Products,IM0,Imports,WTTIM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Crude Oil and Petroleum Products (Thousand Barrels per Day),326,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EP00,Crude Oil and Petroleum Products,IM0,Imports,WTTIM_R50-Z00_2,West Coast (PADD 5) Imports of Crude Oil and Petroleum Products (Thousand Barrels per Day),1511,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EP00,Crude Oil and Petroleum Products,IM0,Imports,WTTIM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Crude Oil and Petroleum Products (Thousand Barrels per Day),1545,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPC0,Crude Oil,IM0,Imports,WCRIMUS2,U.S. Imports of Crude Oil (Thousand Barrels per Day),5962,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPD0,Distillate Fuel Oil,IM0,Imports,WDIIM_R20-Z00_2,Midwest (PADD 2) Imports of Distillate Fuel Oil (Thousand Barrels per Day),9,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPD0,Distillate Fuel Oil,IM0,Imports,WDIIMUS2,U.S. Imports of Distillate Fuel Oil (Thousand Barrels per Day),79,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPD0,Distillate Fuel Oil,IM0,Imports,WDIIM_R10-Z00_2,East Coast (PADD 1) Imports of Distillate Fuel Oil (Thousand Barrels per Day),59,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPD0,Distillate Fuel Oil,IM0,Imports,WDIIM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Distillate Fuel Oil (Thousand Barrels per Day),5,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPD0,Distillate Fuel Oil,IM0,Imports,WDIIM_R50-Z00_2,West Coast (PADD 5) Imports of Distillate Fuel Oil (Thousand Barrels per Day),6,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPD0,Distillate Fuel Oil,IM0,Imports,WDIIM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Distillate Fuel Oil (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPDM10,"Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur",IM0,Imports,WD1IM_R20-Z00_2,"Midwest (PADD 2) Imports of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPDM10,"Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur",IM0,Imports,WD1IM_NUS-Z00_2,"U.S. Imports of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPDM10,"Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur",IM0,Imports,WD1IM_R10-Z00_2,"East Coast (PADD 1) Imports of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPDM10,"Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur",IM0,Imports,WD1IM_R40-Z00_2,"Rocky Mountain (PADD 4) Imports of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPDM10,"Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur",IM0,Imports,WD1IM_R50-Z00_2,"West Coast (PADD 5) Imports of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPDM10,"Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur",IM0,Imports,WD1IM_R30-Z00_2,"Gulf Coast (PADD 3) Imports of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPDM20,"Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur",IM0,Imports,WD2IM_R20-Z00_2,"Midwest (PADD 2) Imports of Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPDM20,"Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur",IM0,Imports,WD2IM_NUS-Z00_2,"U.S. Imports of Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPDM20,"Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur",IM0,Imports,WD2IM_R10-Z00_2,"East Coast (PADD 1) Imports of Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPDM20,"Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur",IM0,Imports,WD2IM_R40-Z00_2,"Rocky Mountain (PADD 4) Imports of Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPDM20,"Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur",IM0,Imports,WD2IM_R50-Z00_2,"West Coast (PADD 5) Imports of Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPDM20,"Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur",IM0,Imports,WD2IM_R30-Z00_2,"Gulf Coast (PADD 3) Imports of Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPDXH0,"Distillate Fuel Oil, Greater than 2000 ppm Sulfur",IM0,Imports,WD3IM_R20-Z00_2,"Midwest (PADD 2) Imports of Distillate Fuel Oil, Greater than 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPDXH0,"Distillate Fuel Oil, Greater than 2000 ppm Sulfur",IM0,Imports,WD3IM_NUS-Z00_2,"U.S. Imports of Distillate Fuel Oil, Greater than 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPDXH0,"Distillate Fuel Oil, Greater than 2000 ppm Sulfur",IM0,Imports,WD3IM_R10-Z00_2,"East Coast (PADD 1) Imports of Distillate Fuel Oil, Greater than 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPDXH0,"Distillate Fuel Oil, Greater than 2000 ppm Sulfur",IM0,Imports,WD3IM_R40-Z00_2,"Rocky Mountain (PADD 4) Imports of Distillate Fuel Oil, Greater than 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPDXH0,"Distillate Fuel Oil, Greater than 2000 ppm Sulfur",IM0,Imports,WD3IM_R50-Z00_2,"West Coast (PADD 5) Imports of Distillate Fuel Oil, Greater than 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPDXH0,"Distillate Fuel Oil, Greater than 2000 ppm Sulfur",IM0,Imports,WD3IM_R30-Z00_2,"Gulf Coast (PADD 3) Imports of Distillate Fuel Oil, Greater than 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPDXL0,"Distillate Fuel Oil, 0 to 15 ppm Sulfur",IM0,Imports,WD0IM_R20-Z00_2,"Midwest (PADD 2) Imports of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels per Day)",9,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPDXL0,"Distillate Fuel Oil, 0 to 15 ppm Sulfur",IM0,Imports,WD0IM_NUS-Z00_2,"U.S. Imports of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels per Day)",79,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPDXL0,"Distillate Fuel Oil, 0 to 15 ppm Sulfur",IM0,Imports,WD0IM_R10-Z00_2,"East Coast (PADD 1) Imports of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels per Day)",59,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPDXL0,"Distillate Fuel Oil, 0 to 15 ppm Sulfur",IM0,Imports,WD0IM_R40-Z00_2,"Rocky Mountain (PADD 4) Imports of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels per Day)",5,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPDXL0,"Distillate Fuel Oil, 0 to 15 ppm Sulfur",IM0,Imports,WD0IM_R50-Z00_2,"West Coast (PADD 5) Imports of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels per Day)",6,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPDXL0,"Distillate Fuel Oil, 0 to 15 ppm Sulfur",IM0,Imports,WD0IM_R30-Z00_2,"Gulf Coast (PADD 3) Imports of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPJK,Kerosene-Type Jet Fuel,IM0,Imports,WKJIM_R20-Z00_2,Midwest (PADD 2) Imports of Kerosene-Type Jet Fuel (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPJK,Kerosene-Type Jet Fuel,IM0,Imports,WKJIMUS2,U.S. Imports of Kerosene-Type Jet Fuel (Thousand Barrels per Day),2,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPJK,Kerosene-Type Jet Fuel,IM0,Imports,WKJIM_R10-Z00_2,East Coast (PADD 1) Imports of Kerosene-Type Jet Fuel (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPJK,Kerosene-Type Jet Fuel,IM0,Imports,WKJIM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Kerosene-Type Jet Fuel (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPJK,Kerosene-Type Jet Fuel,IM0,Imports,WKJIM_R50-Z00_2,West Coast (PADD 5) Imports of Kerosene-Type Jet Fuel (Thousand Barrels per Day),2,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPJK,Kerosene-Type Jet Fuel,IM0,Imports,WKJIM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Kerosene-Type Jet Fuel (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPL0XP,NGPLs/LRGs (Excluding Propane/Propylene),IM0,Imports,W_EPL0XP_IM0_NUS-Z00_MBBLD,U.S. Imports of Liquefied Petroleum Gasses Less Propane/Propylene (Thousand Barrels per Day),49,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPLLPZ,Propane and Propylene,IM0,Imports,WPRIMP22,Midwest (PADD 2) Imports of Propane and Propylene (Thousand Barrels per Day),63,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPLLPZ,Propane and Propylene,IM0,Imports,WPRIM_NUS-Z00_2,U.S. Imports of Propane and Propylene (Thousand Barrels per Day),101,MBBL/D
+2025-08-01,R4N5-Z00,NA,EPLLPZ,Propane and Propylene,IM0,Imports,W_EPLLPZ_IM0_R45-Z00_MBBLD,Rocky Mountain (PADD 4) and West Coast (PADD 5) Imports of Propane and Propylene (Thousand Barrels per Day),23,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPLLPZ,Propane and Propylene,IM0,Imports,WPRIMP12,East Coast (PADD 1) Imports of Propane and Propylene (Thousand Barrels per Day),15,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPLLPZ,Propane and Propylene,IM0,Imports,WPRIMP32,Gulf Coast (PADD 3) Imports of Propane and Propylene (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0,Total Gasoline,IM0,Imports,WGTIM_R20-Z00_2,Midwest (PADD 2) Imports of Total Gasoline (Thousand Barrels per Day),13,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0,Total Gasoline,IM0,Imports,WGTIMUS2,U.S. Imports of Total Gasoline (Thousand Barrels per Day),535,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0,Total Gasoline,IM0,Imports,WGTIM_R10-Z00_2,East Coast (PADD 1) Imports of Total Gasoline (Thousand Barrels per Day),378,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0,Total Gasoline,IM0,Imports,WGTIM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Total Gasoline (Thousand Barrels per Day),3,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0,Total Gasoline,IM0,Imports,WGTIM_R50-Z00_2,West Coast (PADD 5) Imports of Total Gasoline (Thousand Barrels per Day),140,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0,Total Gasoline,IM0,Imports,WGTIM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Total Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0C,Conventional Motor Gasoline,IM0,Imports,WG4IM_R20-Z00_2,Midwest (PADD 2) Imports of Conventional Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0C,Conventional Motor Gasoline,IM0,Imports,WG4IM_NUS-Z00_2,U.S. Imports of Conventional Motor Gasoline (Thousand Barrels per Day),123,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0C,Conventional Motor Gasoline,IM0,Imports,WG4IM_R10-Z00_2,East Coast (PADD 1) Imports of Conventional Motor Gasoline (Thousand Barrels per Day),101,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0C,Conventional Motor Gasoline,IM0,Imports,WG4IM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Conventional Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0C,Conventional Motor Gasoline,IM0,Imports,WG4IM_R50-Z00_2,West Coast (PADD 5) Imports of Conventional Motor Gasoline (Thousand Barrels per Day),22,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0C,Conventional Motor Gasoline,IM0,Imports,WG4IM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Conventional Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0CA,Conventional Motor Gasoline with Alcohol,IM0,Imports,WG5IM_R20-Z00_2,Midwest (PADD 2) Imports of Conventional Motor Gasoline with Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0CA,Conventional Motor Gasoline with Alcohol,IM0,Imports,WG5IM_NUS-Z00_2,U.S. Imports of Conventional Motor Gasoline with Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0CA,Conventional Motor Gasoline with Alcohol,IM0,Imports,WG5IM_R10-Z00_2,East Coast (PADD 1) Imports of Conventional Motor Gasoline with Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0CA,Conventional Motor Gasoline with Alcohol,IM0,Imports,WG5IM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Conventional Motor Gasoline with Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0CA,Conventional Motor Gasoline with Alcohol,IM0,Imports,WG5IM_R50-Z00_2,West Coast (PADD 5) Imports of Conventional Motor Gasoline with Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0CA,Conventional Motor Gasoline with Alcohol,IM0,Imports,WG5IM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Conventional Motor Gasoline with Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0CAG55,Finished Motor Gasoline Conventional >55,IM0,Imports,W_EPM0CAG55_IM0_R20-Z00_MBBLD,"Midwest (PADD 2) Imports of Motor Gasoline, Finished, Conventional, Greater than Ed55 (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0CAG55,Finished Motor Gasoline Conventional >55,IM0,Imports,W_EPM0CAG55_IM0_NUS-Z00_MBBLD,"U.S. Imports of Motor Gasoline, Finished, Conventional, Greater than Ed55 (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0CAG55,Finished Motor Gasoline Conventional >55,IM0,Imports,W_EPM0CAG55_IM0_R10-Z00_MBBLD,"East Coast (PADD 1) Imports of Motor Gasoline, Finished, Conventional, Greater than Ed55 (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0CAG55,Finished Motor Gasoline Conventional >55,IM0,Imports,W_EPM0CAG55_IM0_R40-Z00_MBBLD,"Rocky Mountain (PADD 4) Imports of Motor Gasoline, Finished, Conventional, Greater than Ed55 (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0CAG55,Finished Motor Gasoline Conventional >55,IM0,Imports,W_EPM0CAG55_IM0_R50-Z00_MBBLD,"West Coast (PADD 5) Imports of Motor Gasoline, Finished, Conventional, Greater than Ed55 (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0CAG55,Finished Motor Gasoline Conventional >55,IM0,Imports,W_EPM0CAG55_IM0_R30-Z00_MBBLD,"Gulf Coast (PADD 3) Imports of Motor Gasoline, Finished, Conventional, Greater than Ed55 (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0CAL55,"Motor Gasoline, Finished, Conventional, Ed55 and Lower",IM0,Imports,W_EPM0CAL55_IM0_R20-Z00_MBBLD,"Midwest (PADD 2) Imports of Motor Gasoline, Finished, Conventional, Ed55 and Lower (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0CAL55,"Motor Gasoline, Finished, Conventional, Ed55 and Lower",IM0,Imports,W_EPM0CAL55_IM0_NUS-Z00_MBBLD,"U.S. Imports of Motor Gasoline, Finished, Conventional, Ed55 and Lower (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0CAL55,"Motor Gasoline, Finished, Conventional, Ed55 and Lower",IM0,Imports,W_EPM0CAL55_IM0_R10-Z00_MBBLD,"East Coast (PADD 1) Imports of Motor Gasoline, Finished, Conventional, Ed55 and Lower (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0CAL55,"Motor Gasoline, Finished, Conventional, Ed55 and Lower",IM0,Imports,W_EPM0CAL55_IM0_R40-Z00_MBBLD,"Rocky Mountain (PADD 4) Imports of Motor Gasoline, Finished, Conventional, Ed55 and Lower (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0CAL55,"Motor Gasoline, Finished, Conventional, Ed55 and Lower",IM0,Imports,W_EPM0CAL55_IM0_R50-Z00_MBBLD,"West Coast (PADD 5) Imports from of Motor Gasoline, Finished, Conventional, Ed55 and Lower (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0CAL55,"Motor Gasoline, Finished, Conventional, Ed55 and Lower",IM0,Imports,W_EPM0CAL55_IM0_R30-Z00_MBBLD,"Gulf Coast (PADD 3) Imports of Motor Gasoline, Finished, Conventional, Ed55 and Lower (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0CO,Other Conventional Motor Gasoline,IM0,Imports,WG6IM_R20-Z00_2,Midwest (PADD 2) Imports of Other Conventional Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0CO,Other Conventional Motor Gasoline,IM0,Imports,WG6IM_NUS-Z00_2,U.S. Imports of Other Conventional Motor Gasoline (Thousand Barrels per Day),123,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0CO,Other Conventional Motor Gasoline,IM0,Imports,WG6IM_R10-Z00_2,East Coast (PADD 1) Imports of Other Conventional Motor Gasoline (Thousand Barrels per Day),101,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0CO,Other Conventional Motor Gasoline,IM0,Imports,WG6IM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Other Conventional Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0CO,Other Conventional Motor Gasoline,IM0,Imports,WG6IM_R50-Z00_2,West Coast (PADD 5) Imports of Other Conventional Motor Gasoline (Thousand Barrels per Day),22,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0CO,Other Conventional Motor Gasoline,IM0,Imports,WG6IM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Other Conventional Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0F,Finished Motor Gasoline,IM0,Imports,W_EPM0F_IM0_R20-Z00_MBBLD,Midwest (PADD 2) Imports of Finished Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0F,Finished Motor Gasoline,IM0,Imports,W_EPM0F_IM0_NUS-Z00_MBBLD,U.S. Imports of Finished Motor Gasoline (Thousand Barrels per Day),123,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0F,Finished Motor Gasoline,IM0,Imports,W_EPM0F_IM0_R10-Z00_MBBLD,East Coast (PADD 1) Imports of Finished Motor Gasoline (Thousand Barrels per Day),101,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0F,Finished Motor Gasoline,IM0,Imports,W_EPM0F_IM0_R40-Z00_MBBLD,Rocky Mountain (PADD 4) Imports of Finished Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0F,Finished Motor Gasoline,IM0,Imports,W_EPM0F_IM0_R50-Z00_MBBLD,West Coast (PADD 5) Imports of Finished Motor Gasoline (Thousand Barrels per Day),22,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0F,Finished Motor Gasoline,IM0,Imports,W_EPM0F_IM0_R30-Z00_MBBLD,Gulf Coast (PADD 3) Imports of Finished Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0R,Reformulated Motor Gasoline,IM0,Imports,WGRIM_R20-Z00_2,Midwest (PADD 2) Imports of Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0R,Reformulated Motor Gasoline,IM0,Imports,WGRIMUS2,U.S. Imports of Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0R,Reformulated Motor Gasoline,IM0,Imports,WGRIM_R10-Z00_2,East Coast (PADD 1) Imports of Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0R,Reformulated Motor Gasoline,IM0,Imports,WGRIM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0R,Reformulated Motor Gasoline,IM0,Imports,WGRIM_R50-Z00_2,West Coast (PADD 5) Imports of Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0R,Reformulated Motor Gasoline,IM0,Imports,WGRIM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0RA,Reformulated Motor Gasoline with Alcohol,IM0,Imports,WG1IM_R20-Z00_2,Midwest (PADD 2) Imports of Reformulated Motor Gasoline with Fuel ALcohol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0RA,Reformulated Motor Gasoline with Alcohol,IM0,Imports,WG1IM_NUS-Z00_2,U.S. Imports of Reformulated Motor Gasoline with Fuel ALcohol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0RA,Reformulated Motor Gasoline with Alcohol,IM0,Imports,WG1IM_R10-Z00_2,East Coast (PADD 1) Imports of Reformulated Motor Gasoline with Fuel ALcohol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0RA,Reformulated Motor Gasoline with Alcohol,IM0,Imports,WG1IM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Reformulated Motor Gasoline with Fuel ALcohol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0RA,Reformulated Motor Gasoline with Alcohol,IM0,Imports,WG1IM_R50-Z00_2,West Coast (PADD 5) Imports of Reformulated Motor Gasoline with Fuel ALcohol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0RA,Reformulated Motor Gasoline with Alcohol,IM0,Imports,WG1IM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Reformulated Motor Gasoline with Fuel ALcohol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0RO,Finished Motor Gasoline Reformulated Other,IM0,Imports,W_EPM0RO_IM0_R20-Z00_MBBLD,Midwest (PADD 2) Imports of Other Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0RO,Finished Motor Gasoline Reformulated Other,IM0,Imports,W_EPM0RO_IM0_NUS-Z00_MBBLD,U.S. Imports of Other Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0RO,Finished Motor Gasoline Reformulated Other,IM0,Imports,W_EPM0RO_IM0_R10-Z00_MBBLD,East Coast (PADD 1) Imports of Other Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0RO,Finished Motor Gasoline Reformulated Other,IM0,Imports,W_EPM0RO_IM0_R40-Z00_MBBLD,Rocky Mountain (PADD 4) Imports of Other Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0RO,Finished Motor Gasoline Reformulated Other,IM0,Imports,W_EPM0RO_IM0_R50-Z00_MBBLD,West Coast (PADD 5) Imports of Other Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0RO,Finished Motor Gasoline Reformulated Other,IM0,Imports,W_EPM0RO_IM0_R30-Z00_MBBLD,Gulf Coast (PADD 3) Imports of Other Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPOBG,Gasoline Blending Components,IM0,Imports,WBCIM_R20-Z00_2,Midwest (PADD 2) Imports of Gasoline Blending Components (Thousand Barrels per Day),13,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPOBG,Gasoline Blending Components,IM0,Imports,WBCIMUS2,U.S. Imports of Gasoline Blending Components (Thousand Barrels per Day),412,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPOBG,Gasoline Blending Components,IM0,Imports,WBCIM_R10-Z00_2,East Coast (PADD 1) Imports of Gasoline Blending Components (Thousand Barrels per Day),277,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPOBG,Gasoline Blending Components,IM0,Imports,WBCIM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Gasoline Blending Components (Thousand Barrels per Day),3,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPOBG,Gasoline Blending Components,IM0,Imports,WBCIM_R50-Z00_2,West Coast (PADD 5) Imports of Gasoline Blending Components (Thousand Barrels per Day),118,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPOBG,Gasoline Blending Components,IM0,Imports,WBCIM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPOBGCC,Conventional CBOB Gasoline Blending Components,IM0,Imports,WO6IM_R20-Z00_2,Midwest (PADD 2) Imports of Conventional CBOB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPOBGCC,Conventional CBOB Gasoline Blending Components,IM0,Imports,WO6IM_NUS-Z00_2,U.S. Imports of Conventional CBOB Gasoline Blending Components (Thousand Barrels per Day),23,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPOBGCC,Conventional CBOB Gasoline Blending Components,IM0,Imports,WO6IM_R10-Z00_2,East Coast (PADD 1) Imports of Conventional CBOB Gasoline Blending Components (Thousand Barrels per Day),23,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPOBGCC,Conventional CBOB Gasoline Blending Components,IM0,Imports,WO6IM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Conventional CBOB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPOBGCC,Conventional CBOB Gasoline Blending Components,IM0,Imports,WO6IM_R50-Z00_2,West Coast (PADD 5) Imports of Conventional CBOB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPOBGCC,Conventional CBOB Gasoline Blending Components,IM0,Imports,WO6IM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Conventional CBOB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPOBGCG,Conventional GTAB Gasoline Blending Components,IM0,Imports,WO7IM_R20-Z00_2,Midwest (PADD 2) Imports of Conventional GTAB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPOBGCG,Conventional GTAB Gasoline Blending Components,IM0,Imports,WO7IM_NUS-Z00_2,U.S. Imports of Conventional GTAB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPOBGCG,Conventional GTAB Gasoline Blending Components,IM0,Imports,WO7IM_R10-Z00_2,East Coast (PADD 1) Imports of Conventional GTAB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPOBGCG,Conventional GTAB Gasoline Blending Components,IM0,Imports,WO7IM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Conventional GTAB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPOBGCG,Conventional GTAB Gasoline Blending Components,IM0,Imports,WO7IM_R50-Z00_2,West Coast (PADD 5) Imports of Conventional GTAB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPOBGCG,Conventional GTAB Gasoline Blending Components,IM0,Imports,WO7IM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Conventional GTAB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPOBGCO,Conventional Other Gasoline Blending Components,IM0,Imports,WO9IM_R20-Z00_2,Midwest (PADD 2) Imports of Conventional Other Gasoline Blending Components (Thousand Barrels per Day),13,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPOBGCO,Conventional Other Gasoline Blending Components,IM0,Imports,WO9IM_NUS-Z00_2,U.S. Imports of Conventional Other Gasoline Blending Components (Thousand Barrels per Day),208,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPOBGCO,Conventional Other Gasoline Blending Components,IM0,Imports,WO9IM_R10-Z00_2,East Coast (PADD 1) Imports of Conventional Other Gasoline Blending Components (Thousand Barrels per Day),73,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPOBGCO,Conventional Other Gasoline Blending Components,IM0,Imports,WO9IM_R40-Z00_2,Rocky Mountain (PADD 4) Conventional Other Gasoline Blending Components Imports (Thousand Barrels per Day),3,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPOBGCO,Conventional Other Gasoline Blending Components,IM0,Imports,WO9IM_R50-Z00_2,West Coast (PADD 5) Imports of Conventional Other Gasoline Blending Components (Thousand Barrels per Day),118,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPOBGCO,Conventional Other Gasoline Blending Components,IM0,Imports,WO9IM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Conventional Other Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPOBGRR,Motor Gasoline Blending Components Reformulated RBOB,IM0,Imports,W_EPOBGRR_IM0_R20-Z00_MBBLD,"Midwest (PADD 2) Imports from  All Countries of Motor Gasoline Blending Components, RBOB (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPOBGRR,Motor Gasoline Blending Components Reformulated RBOB,IM0,Imports,W_EPOBGRR_IM0_NUS-Z00_MBBLD,"U.S. Imports from  All Countries of Motor Gasoline Blending Components, RBOB (Thousand Barrels per Day)",181,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPOBGRR,Motor Gasoline Blending Components Reformulated RBOB,IM0,Imports,W_EPOBGRR_IM0_R10-Z00_MBBLD,"East Coast (PADD 1) Imports from  All Countries of Motor Gasoline Blending Components, RBOB (Thousand Barrels per Day)",181,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPOBGRR,Motor Gasoline Blending Components Reformulated RBOB,IM0,Imports,W_EPOBGRR_IM0_R40-Z00_MBBLD,Rocky Mountain (PADD 4) Imports from  All Countries of Motor Gasoline Blending Components Reformulated RBOB (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPOBGRR,Motor Gasoline Blending Components Reformulated RBOB,IM0,Imports,W_EPOBGRR_IM0_R50-Z00_MBBLD,"West Coast (PADD 5) Imports from  All Countries of Motor Gasoline Blending Components, RBOB (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPOBGRR,Motor Gasoline Blending Components Reformulated RBOB,IM0,Imports,W_EPOBGRR_IM0_R30-Z00_MBBLD,"Gulf Coast (PADD 3) Imports from  All Countries of Motor Gasoline Blending Components, RBOB (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPOOXE,Fuel Ethanol,IM0,Imports,W_EPOOXE_IM0_R20-Z00_MBBLD,Midwest (PADD 2) Imports of Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPOOXE,Fuel Ethanol,IM0,Imports,W_EPOOXE_IM0_NUS-Z00_MBBLD,U.S. Imports of Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPOOXE,Fuel Ethanol,IM0,Imports,W_EPOOXE_IM0_R10-Z00_MBBLD,East Coast (PADD 1) Imports of Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPOOXE,Fuel Ethanol,IM0,Imports,W_EPOOXE_IM0_R40-Z00_MBBLD,Rocky Mountain (PADD 4) Imports of Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPOOXE,Fuel Ethanol,IM0,Imports,W_EPOOXE_IM0_R50-Z00_MBBLD,West Coast (PADD 5) Imports of Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPOOXE,Fuel Ethanol,IM0,Imports,W_EPOOXE_IM0_R30-Z00_MBBLD,Gulf Coast (PADD 3) Imports of Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPP0,Total Petroleum Products,IM0,Imports,WTXIM_R20-Z00_2,Midwest (PADD 2) Imports of Total Petroleum Products (Thousand Barrels per Day),130,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPP0,Total Petroleum Products,IM0,Imports,WRPIMUS2,U.S. Imports of Total Petroleum Products (Thousand Barrels per Day),1516,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPP0,Total Petroleum Products,IM0,Imports,WTXIM_R10-Z00_2,East Coast (PADD 1) Imports of Total Petroleum Products (Thousand Barrels per Day),597,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPP0,Total Petroleum Products,IM0,Imports,WTXIM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Total Petroleum Products (Thousand Barrels per Day),20,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPP0,Total Petroleum Products,IM0,Imports,WTXIM_R50-Z00_2,West Coast (PADD 5) Imports of Total Petroleum Products (Thousand Barrels per Day),266,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPP0,Total Petroleum Products,IM0,Imports,WTXIM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Total Petroleum Products (Thousand Barrels per Day),503,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPPK,Kerosene,IM0,Imports,W_EPPK_IM0_NUS-Z00_MBBLD,U.S. Imports of Kerosene (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPPO6,Other Oils (Excluding Fuel Ethanol),IM0,Imports,W_EPPO6_IM0_R20-Z00_MBBLD,Midwest (PADD 2) Imports of Other Oils (Excluding Fuel Ethanol) (Thousand Barrels per Day),44,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPPO6,Other Oils (Excluding Fuel Ethanol),IM0,Imports,W_EPPO6_IM0_NUS-Z00_MBBLD,U.S. Imports of Other Oils (Excluding Fuel Ethanol) (Thousand Barrels per Day),681,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPPO6,Other Oils (Excluding Fuel Ethanol),IM0,Imports,W_EPPO6_IM0_R10-Z00_MBBLD,East Coast (PADD 1) Imports of Other Oils (Excluding Fuel Ethanol) (Thousand Barrels per Day),81,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPPO6,Other Oils (Excluding Fuel Ethanol),IM0,Imports,W_EPPO6_IM0_R40-Z00_MBBLD,Rocky Mountain (PADD 4) Imports of Other Oils (Excluding Fuel Ethanol) (Thousand Barrels per Day),6,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPPO6,Other Oils (Excluding Fuel Ethanol),IM0,Imports,W_EPPO6_IM0_R50-Z00_MBBLD,West Coast (PADD 5) Imports of Other Oils (Excluding Fuel Ethanol) (Thousand Barrels per Day),93,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPPO6,Other Oils (Excluding Fuel Ethanol),IM0,Imports,W_EPPO6_IM0_R30-Z00_MBBLD,Gulf Coast (PADD 3) Imports of Other Oils (Excluding Fuel Ethanol) (Thousand Barrels per Day),456,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPPR,Residual Fuel Oil,IM0,Imports,WREIM_R20-Z00_2,Midwest (PADD 2) Imports of Residual Fuel Oil (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPPR,Residual Fuel Oil,IM0,Imports,WREIMUS2,U.S. Imports of Residual Fuel Oil (Thousand Barrels per Day),118,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPPR,Residual Fuel Oil,IM0,Imports,WREIM_R10-Z00_2,East Coast (PADD 1) Imports of Residual Fuel Oil (Thousand Barrels per Day),63,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPPR,Residual Fuel Oil,IM0,Imports,WREIM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Residual Fuel Oil (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPPR,Residual Fuel Oil,IM0,Imports,WREIM_R50-Z00_2,West Coast (PADD 5) Imports of Residual Fuel Oil (Thousand Barrels per Day),6,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPPR,Residual Fuel Oil,IM0,Imports,WREIM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Residual Fuel Oil (Thousand Barrels per Day),47,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPC0,Crude Oil,IMS,Imports by SPR,WCSIMUS2,U.S. Crude Oil Imports by SPR (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPC0,Crude Oil,IMX,Imports Excluding SPR,WCEIMP22,Midwest (PADD 2) Commercial Crude Oil Imports Excluding SPR (Thousand Barrels per Day),2871,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPC0,Crude Oil,IMX,Imports Excluding SPR,WCEIMUS2,U.S. Commercial Crude Oil Imports Excluding SPR (Thousand Barrels per Day),5962,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPC0,Crude Oil,IMX,Imports Excluding SPR,WCEIMP12,East Coast (PADD 1) Commercial Crude Oil Imports Excluding SPR (Thousand Barrels per Day),498,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPC0,Crude Oil,IMX,Imports Excluding SPR,WCEIMP42,Rocky Mountain (PADD 4) Commercial Crude Oil Imports Excluding SPR (Thousand Barrels per Day),305,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPC0,Crude Oil,IMX,Imports Excluding SPR,WCEIMP52,West Coast (PADD 5) Commercial Crude Oil Imports Excluding SPR (Thousand Barrels per Day),1245,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPC0,Crude Oil,IMX,Imports Excluding SPR,WCEIMP32,Gulf Coast (PADD 3) Commercial Crude Oil Imports Excluding SPR (Thousand Barrels per Day),1042,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EP00,Crude Oil and Petroleum Products,IMN,Net Imports,WTTNTUS2,U.S. Net Imports of Crude Oil and Petroleum Products (Thousand Barrels per Day),-3186,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPC0,Crude Oil,IMN,Net Imports,WCRNTUS2,U.S. Net Imports of Crude Oil (Thousand Barrels per Day),2644,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPP0,Total Petroleum Products,IMN,Net Imports,WRPNTUS2,U.S. Net Imports of Total Petroleum Products (Thousand Barrels per Day),-5829,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPC0,Crude Oil,IMU,Imports by Others for SPR,W_EPC0_IMU_NUS-Z00_MBBLD,U.S. Crude Oil Imports for SPR by Others (Thousand Barrels per Day),0,MBBL/D
+period,duoarea,area-name,product,product-name,process,process-name,series,series-description,value,units
+2025-08-01,NUS-Z00,U.S.,EP00,Crude Oil and Petroleum Products,EEX,Exports,WTTEXUS2,U.S. Exports of Crude Oil and Petroleum Products (Thousand Barrels per Day),10663,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPC0,Crude Oil,EEX,Exports,WCREXUS2,U.S. Exports of Crude Oil (Thousand Barrels per Day),3318,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPD0,Distillate Fuel Oil,EEX,Exports,WDIEXUS2,U.S. Exports of Total Distillate (Thousand Barrels per Day),1545,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPJK,Kerosene-Type Jet Fuel,EEX,Exports,WKJEXUS2,U.S. Exports of Kerosene-Type Jet Fuel (Thousand Barrels per Day),141,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPLLPZ,Propane and Propylene,EEX,Exports,W_EPLLPZ_EEX_NUS-Z00_MBBLD,U.S. Exports of Propane (Thousand Barrels per Day),1991,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0F,Finished Motor Gasoline,EEX,Exports,W_EPM0F_EEX_NUS-Z00_MBBLD,U.S. Exports of Total Motor Gasoline (Thousand Barrels per Day),946,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPOOXE,Fuel Ethanol,EEX,Exports,W_EPOOXE_EEX_NUS-Z00_MBBLD,U.S. Exports of Fuel Ethanol (Thousand Barrels per Day),116,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPP0,Total Petroleum Products,EEX,Exports,WRPEXUS2,U.S. Exports of Total Petroleum Products (Thousand Barrels per Day),7345,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPPO4,Other Oils,EEX,Exports,W_EPPO4_EEX_NUS-Z00_MBBLD,U.S. Exports of Other Oils (Thousand Barrels per Day),2438,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPPR,Residual Fuel Oil,EEX,Exports,WREEXUS2,U.S. Exports of Residual Fuel Oil (Thousand Barrels per Day),168,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EP00,Crude Oil and Petroleum Products,IM0,Imports,WTTIM_R20-Z00_2,Midwest (PADD 2) Imports of Crude Oil and Petroleum Products (Thousand Barrels per Day),3001,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EP00,Crude Oil and Petroleum Products,IM0,Imports,WTTIMUS2,U.S. Imports of Crude Oil and Petroleum Products (Thousand Barrels per Day),7477,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EP00,Crude Oil and Petroleum Products,IM0,Imports,WTTIM_R10-Z00_2,East Coast (PADD 1) Imports of Crude Oil and Petroleum Products (Thousand Barrels per Day),1095,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EP00,Crude Oil and Petroleum Products,IM0,Imports,WTTIM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Crude Oil and Petroleum Products (Thousand Barrels per Day),326,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EP00,Crude Oil and Petroleum Products,IM0,Imports,WTTIM_R50-Z00_2,West Coast (PADD 5) Imports of Crude Oil and Petroleum Products (Thousand Barrels per Day),1511,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EP00,Crude Oil and Petroleum Products,IM0,Imports,WTTIM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Crude Oil and Petroleum Products (Thousand Barrels per Day),1545,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPC0,Crude Oil,IM0,Imports,WCRIMUS2,U.S. Imports of Crude Oil (Thousand Barrels per Day),5962,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPD0,Distillate Fuel Oil,IM0,Imports,WDIIM_R20-Z00_2,Midwest (PADD 2) Imports of Distillate Fuel Oil (Thousand Barrels per Day),9,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPD0,Distillate Fuel Oil,IM0,Imports,WDIIMUS2,U.S. Imports of Distillate Fuel Oil (Thousand Barrels per Day),79,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPD0,Distillate Fuel Oil,IM0,Imports,WDIIM_R10-Z00_2,East Coast (PADD 1) Imports of Distillate Fuel Oil (Thousand Barrels per Day),59,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPD0,Distillate Fuel Oil,IM0,Imports,WDIIM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Distillate Fuel Oil (Thousand Barrels per Day),5,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPD0,Distillate Fuel Oil,IM0,Imports,WDIIM_R50-Z00_2,West Coast (PADD 5) Imports of Distillate Fuel Oil (Thousand Barrels per Day),6,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPD0,Distillate Fuel Oil,IM0,Imports,WDIIM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Distillate Fuel Oil (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPDM10,"Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur",IM0,Imports,WD1IM_R20-Z00_2,"Midwest (PADD 2) Imports of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPDM10,"Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur",IM0,Imports,WD1IM_NUS-Z00_2,"U.S. Imports of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPDM10,"Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur",IM0,Imports,WD1IM_R10-Z00_2,"East Coast (PADD 1) Imports of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPDM10,"Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur",IM0,Imports,WD1IM_R40-Z00_2,"Rocky Mountain (PADD 4) Imports of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPDM10,"Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur",IM0,Imports,WD1IM_R50-Z00_2,"West Coast (PADD 5) Imports of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPDM10,"Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur",IM0,Imports,WD1IM_R30-Z00_2,"Gulf Coast (PADD 3) Imports of Distillate Fuel Oil, Greater than 15 to 500 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPDM20,"Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur",IM0,Imports,WD2IM_R20-Z00_2,"Midwest (PADD 2) Imports of Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPDM20,"Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur",IM0,Imports,WD2IM_NUS-Z00_2,"U.S. Imports of Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPDM20,"Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur",IM0,Imports,WD2IM_R10-Z00_2,"East Coast (PADD 1) Imports of Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPDM20,"Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur",IM0,Imports,WD2IM_R40-Z00_2,"Rocky Mountain (PADD 4) Imports of Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPDM20,"Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur",IM0,Imports,WD2IM_R50-Z00_2,"West Coast (PADD 5) Imports of Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPDM20,"Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur",IM0,Imports,WD2IM_R30-Z00_2,"Gulf Coast (PADD 3) Imports of Distillate Fuel Oil, Greater than 500 to 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPDXH0,"Distillate Fuel Oil, Greater than 2000 ppm Sulfur",IM0,Imports,WD3IM_R20-Z00_2,"Midwest (PADD 2) Imports of Distillate Fuel Oil, Greater than 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPDXH0,"Distillate Fuel Oil, Greater than 2000 ppm Sulfur",IM0,Imports,WD3IM_NUS-Z00_2,"U.S. Imports of Distillate Fuel Oil, Greater than 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPDXH0,"Distillate Fuel Oil, Greater than 2000 ppm Sulfur",IM0,Imports,WD3IM_R10-Z00_2,"East Coast (PADD 1) Imports of Distillate Fuel Oil, Greater than 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPDXH0,"Distillate Fuel Oil, Greater than 2000 ppm Sulfur",IM0,Imports,WD3IM_R40-Z00_2,"Rocky Mountain (PADD 4) Imports of Distillate Fuel Oil, Greater than 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPDXH0,"Distillate Fuel Oil, Greater than 2000 ppm Sulfur",IM0,Imports,WD3IM_R50-Z00_2,"West Coast (PADD 5) Imports of Distillate Fuel Oil, Greater than 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPDXH0,"Distillate Fuel Oil, Greater than 2000 ppm Sulfur",IM0,Imports,WD3IM_R30-Z00_2,"Gulf Coast (PADD 3) Imports of Distillate Fuel Oil, Greater than 2000 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPDXL0,"Distillate Fuel Oil, 0 to 15 ppm Sulfur",IM0,Imports,WD0IM_R20-Z00_2,"Midwest (PADD 2) Imports of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels per Day)",9,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPDXL0,"Distillate Fuel Oil, 0 to 15 ppm Sulfur",IM0,Imports,WD0IM_NUS-Z00_2,"U.S. Imports of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels per Day)",79,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPDXL0,"Distillate Fuel Oil, 0 to 15 ppm Sulfur",IM0,Imports,WD0IM_R10-Z00_2,"East Coast (PADD 1) Imports of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels per Day)",59,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPDXL0,"Distillate Fuel Oil, 0 to 15 ppm Sulfur",IM0,Imports,WD0IM_R40-Z00_2,"Rocky Mountain (PADD 4) Imports of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels per Day)",5,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPDXL0,"Distillate Fuel Oil, 0 to 15 ppm Sulfur",IM0,Imports,WD0IM_R50-Z00_2,"West Coast (PADD 5) Imports of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels per Day)",6,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPDXL0,"Distillate Fuel Oil, 0 to 15 ppm Sulfur",IM0,Imports,WD0IM_R30-Z00_2,"Gulf Coast (PADD 3) Imports of Distillate Fuel Oil, 0 to 15 ppm Sulfur (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPJK,Kerosene-Type Jet Fuel,IM0,Imports,WKJIM_R20-Z00_2,Midwest (PADD 2) Imports of Kerosene-Type Jet Fuel (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPJK,Kerosene-Type Jet Fuel,IM0,Imports,WKJIMUS2,U.S. Imports of Kerosene-Type Jet Fuel (Thousand Barrels per Day),2,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPJK,Kerosene-Type Jet Fuel,IM0,Imports,WKJIM_R10-Z00_2,East Coast (PADD 1) Imports of Kerosene-Type Jet Fuel (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPJK,Kerosene-Type Jet Fuel,IM0,Imports,WKJIM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Kerosene-Type Jet Fuel (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPJK,Kerosene-Type Jet Fuel,IM0,Imports,WKJIM_R50-Z00_2,West Coast (PADD 5) Imports of Kerosene-Type Jet Fuel (Thousand Barrels per Day),2,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPJK,Kerosene-Type Jet Fuel,IM0,Imports,WKJIM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Kerosene-Type Jet Fuel (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPL0XP,NGPLs/LRGs (Excluding Propane/Propylene),IM0,Imports,W_EPL0XP_IM0_NUS-Z00_MBBLD,U.S. Imports of Liquefied Petroleum Gasses Less Propane/Propylene (Thousand Barrels per Day),49,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPLLPZ,Propane and Propylene,IM0,Imports,WPRIMP22,Midwest (PADD 2) Imports of Propane and Propylene (Thousand Barrels per Day),63,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPLLPZ,Propane and Propylene,IM0,Imports,WPRIM_NUS-Z00_2,U.S. Imports of Propane and Propylene (Thousand Barrels per Day),101,MBBL/D
+2025-08-01,R4N5-Z00,NA,EPLLPZ,Propane and Propylene,IM0,Imports,W_EPLLPZ_IM0_R45-Z00_MBBLD,Rocky Mountain (PADD 4) and West Coast (PADD 5) Imports of Propane and Propylene (Thousand Barrels per Day),23,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPLLPZ,Propane and Propylene,IM0,Imports,WPRIMP12,East Coast (PADD 1) Imports of Propane and Propylene (Thousand Barrels per Day),15,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPLLPZ,Propane and Propylene,IM0,Imports,WPRIMP32,Gulf Coast (PADD 3) Imports of Propane and Propylene (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0,Total Gasoline,IM0,Imports,WGTIM_R20-Z00_2,Midwest (PADD 2) Imports of Total Gasoline (Thousand Barrels per Day),13,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0,Total Gasoline,IM0,Imports,WGTIMUS2,U.S. Imports of Total Gasoline (Thousand Barrels per Day),535,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0,Total Gasoline,IM0,Imports,WGTIM_R10-Z00_2,East Coast (PADD 1) Imports of Total Gasoline (Thousand Barrels per Day),378,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0,Total Gasoline,IM0,Imports,WGTIM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Total Gasoline (Thousand Barrels per Day),3,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0,Total Gasoline,IM0,Imports,WGTIM_R50-Z00_2,West Coast (PADD 5) Imports of Total Gasoline (Thousand Barrels per Day),140,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0,Total Gasoline,IM0,Imports,WGTIM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Total Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0C,Conventional Motor Gasoline,IM0,Imports,WG4IM_R20-Z00_2,Midwest (PADD 2) Imports of Conventional Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0C,Conventional Motor Gasoline,IM0,Imports,WG4IM_NUS-Z00_2,U.S. Imports of Conventional Motor Gasoline (Thousand Barrels per Day),123,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0C,Conventional Motor Gasoline,IM0,Imports,WG4IM_R10-Z00_2,East Coast (PADD 1) Imports of Conventional Motor Gasoline (Thousand Barrels per Day),101,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0C,Conventional Motor Gasoline,IM0,Imports,WG4IM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Conventional Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0C,Conventional Motor Gasoline,IM0,Imports,WG4IM_R50-Z00_2,West Coast (PADD 5) Imports of Conventional Motor Gasoline (Thousand Barrels per Day),22,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0C,Conventional Motor Gasoline,IM0,Imports,WG4IM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Conventional Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0CA,Conventional Motor Gasoline with Alcohol,IM0,Imports,WG5IM_R20-Z00_2,Midwest (PADD 2) Imports of Conventional Motor Gasoline with Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0CA,Conventional Motor Gasoline with Alcohol,IM0,Imports,WG5IM_NUS-Z00_2,U.S. Imports of Conventional Motor Gasoline with Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0CA,Conventional Motor Gasoline with Alcohol,IM0,Imports,WG5IM_R10-Z00_2,East Coast (PADD 1) Imports of Conventional Motor Gasoline with Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0CA,Conventional Motor Gasoline with Alcohol,IM0,Imports,WG5IM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Conventional Motor Gasoline with Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0CA,Conventional Motor Gasoline with Alcohol,IM0,Imports,WG5IM_R50-Z00_2,West Coast (PADD 5) Imports of Conventional Motor Gasoline with Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0CA,Conventional Motor Gasoline with Alcohol,IM0,Imports,WG5IM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Conventional Motor Gasoline with Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0CAG55,Finished Motor Gasoline Conventional >55,IM0,Imports,W_EPM0CAG55_IM0_R20-Z00_MBBLD,"Midwest (PADD 2) Imports of Motor Gasoline, Finished, Conventional, Greater than Ed55 (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0CAG55,Finished Motor Gasoline Conventional >55,IM0,Imports,W_EPM0CAG55_IM0_NUS-Z00_MBBLD,"U.S. Imports of Motor Gasoline, Finished, Conventional, Greater than Ed55 (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0CAG55,Finished Motor Gasoline Conventional >55,IM0,Imports,W_EPM0CAG55_IM0_R10-Z00_MBBLD,"East Coast (PADD 1) Imports of Motor Gasoline, Finished, Conventional, Greater than Ed55 (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0CAG55,Finished Motor Gasoline Conventional >55,IM0,Imports,W_EPM0CAG55_IM0_R40-Z00_MBBLD,"Rocky Mountain (PADD 4) Imports of Motor Gasoline, Finished, Conventional, Greater than Ed55 (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0CAG55,Finished Motor Gasoline Conventional >55,IM0,Imports,W_EPM0CAG55_IM0_R50-Z00_MBBLD,"West Coast (PADD 5) Imports of Motor Gasoline, Finished, Conventional, Greater than Ed55 (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0CAG55,Finished Motor Gasoline Conventional >55,IM0,Imports,W_EPM0CAG55_IM0_R30-Z00_MBBLD,"Gulf Coast (PADD 3) Imports of Motor Gasoline, Finished, Conventional, Greater than Ed55 (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0CAL55,"Motor Gasoline, Finished, Conventional, Ed55 and Lower",IM0,Imports,W_EPM0CAL55_IM0_R20-Z00_MBBLD,"Midwest (PADD 2) Imports of Motor Gasoline, Finished, Conventional, Ed55 and Lower (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0CAL55,"Motor Gasoline, Finished, Conventional, Ed55 and Lower",IM0,Imports,W_EPM0CAL55_IM0_NUS-Z00_MBBLD,"U.S. Imports of Motor Gasoline, Finished, Conventional, Ed55 and Lower (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0CAL55,"Motor Gasoline, Finished, Conventional, Ed55 and Lower",IM0,Imports,W_EPM0CAL55_IM0_R10-Z00_MBBLD,"East Coast (PADD 1) Imports of Motor Gasoline, Finished, Conventional, Ed55 and Lower (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0CAL55,"Motor Gasoline, Finished, Conventional, Ed55 and Lower",IM0,Imports,W_EPM0CAL55_IM0_R40-Z00_MBBLD,"Rocky Mountain (PADD 4) Imports of Motor Gasoline, Finished, Conventional, Ed55 and Lower (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0CAL55,"Motor Gasoline, Finished, Conventional, Ed55 and Lower",IM0,Imports,W_EPM0CAL55_IM0_R50-Z00_MBBLD,"West Coast (PADD 5) Imports from of Motor Gasoline, Finished, Conventional, Ed55 and Lower (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0CAL55,"Motor Gasoline, Finished, Conventional, Ed55 and Lower",IM0,Imports,W_EPM0CAL55_IM0_R30-Z00_MBBLD,"Gulf Coast (PADD 3) Imports of Motor Gasoline, Finished, Conventional, Ed55 and Lower (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0CO,Other Conventional Motor Gasoline,IM0,Imports,WG6IM_R20-Z00_2,Midwest (PADD 2) Imports of Other Conventional Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0CO,Other Conventional Motor Gasoline,IM0,Imports,WG6IM_NUS-Z00_2,U.S. Imports of Other Conventional Motor Gasoline (Thousand Barrels per Day),123,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0CO,Other Conventional Motor Gasoline,IM0,Imports,WG6IM_R10-Z00_2,East Coast (PADD 1) Imports of Other Conventional Motor Gasoline (Thousand Barrels per Day),101,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0CO,Other Conventional Motor Gasoline,IM0,Imports,WG6IM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Other Conventional Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0CO,Other Conventional Motor Gasoline,IM0,Imports,WG6IM_R50-Z00_2,West Coast (PADD 5) Imports of Other Conventional Motor Gasoline (Thousand Barrels per Day),22,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0CO,Other Conventional Motor Gasoline,IM0,Imports,WG6IM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Other Conventional Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0F,Finished Motor Gasoline,IM0,Imports,W_EPM0F_IM0_R20-Z00_MBBLD,Midwest (PADD 2) Imports of Finished Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0F,Finished Motor Gasoline,IM0,Imports,W_EPM0F_IM0_NUS-Z00_MBBLD,U.S. Imports of Finished Motor Gasoline (Thousand Barrels per Day),123,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0F,Finished Motor Gasoline,IM0,Imports,W_EPM0F_IM0_R10-Z00_MBBLD,East Coast (PADD 1) Imports of Finished Motor Gasoline (Thousand Barrels per Day),101,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0F,Finished Motor Gasoline,IM0,Imports,W_EPM0F_IM0_R40-Z00_MBBLD,Rocky Mountain (PADD 4) Imports of Finished Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0F,Finished Motor Gasoline,IM0,Imports,W_EPM0F_IM0_R50-Z00_MBBLD,West Coast (PADD 5) Imports of Finished Motor Gasoline (Thousand Barrels per Day),22,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0F,Finished Motor Gasoline,IM0,Imports,W_EPM0F_IM0_R30-Z00_MBBLD,Gulf Coast (PADD 3) Imports of Finished Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0R,Reformulated Motor Gasoline,IM0,Imports,WGRIM_R20-Z00_2,Midwest (PADD 2) Imports of Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0R,Reformulated Motor Gasoline,IM0,Imports,WGRIMUS2,U.S. Imports of Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0R,Reformulated Motor Gasoline,IM0,Imports,WGRIM_R10-Z00_2,East Coast (PADD 1) Imports of Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0R,Reformulated Motor Gasoline,IM0,Imports,WGRIM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0R,Reformulated Motor Gasoline,IM0,Imports,WGRIM_R50-Z00_2,West Coast (PADD 5) Imports of Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0R,Reformulated Motor Gasoline,IM0,Imports,WGRIM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0RA,Reformulated Motor Gasoline with Alcohol,IM0,Imports,WG1IM_R20-Z00_2,Midwest (PADD 2) Imports of Reformulated Motor Gasoline with Fuel ALcohol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0RA,Reformulated Motor Gasoline with Alcohol,IM0,Imports,WG1IM_NUS-Z00_2,U.S. Imports of Reformulated Motor Gasoline with Fuel ALcohol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0RA,Reformulated Motor Gasoline with Alcohol,IM0,Imports,WG1IM_R10-Z00_2,East Coast (PADD 1) Imports of Reformulated Motor Gasoline with Fuel ALcohol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0RA,Reformulated Motor Gasoline with Alcohol,IM0,Imports,WG1IM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Reformulated Motor Gasoline with Fuel ALcohol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0RA,Reformulated Motor Gasoline with Alcohol,IM0,Imports,WG1IM_R50-Z00_2,West Coast (PADD 5) Imports of Reformulated Motor Gasoline with Fuel ALcohol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0RA,Reformulated Motor Gasoline with Alcohol,IM0,Imports,WG1IM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Reformulated Motor Gasoline with Fuel ALcohol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPM0RO,Finished Motor Gasoline Reformulated Other,IM0,Imports,W_EPM0RO_IM0_R20-Z00_MBBLD,Midwest (PADD 2) Imports of Other Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPM0RO,Finished Motor Gasoline Reformulated Other,IM0,Imports,W_EPM0RO_IM0_NUS-Z00_MBBLD,U.S. Imports of Other Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPM0RO,Finished Motor Gasoline Reformulated Other,IM0,Imports,W_EPM0RO_IM0_R10-Z00_MBBLD,East Coast (PADD 1) Imports of Other Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPM0RO,Finished Motor Gasoline Reformulated Other,IM0,Imports,W_EPM0RO_IM0_R40-Z00_MBBLD,Rocky Mountain (PADD 4) Imports of Other Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPM0RO,Finished Motor Gasoline Reformulated Other,IM0,Imports,W_EPM0RO_IM0_R50-Z00_MBBLD,West Coast (PADD 5) Imports of Other Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPM0RO,Finished Motor Gasoline Reformulated Other,IM0,Imports,W_EPM0RO_IM0_R30-Z00_MBBLD,Gulf Coast (PADD 3) Imports of Other Reformulated Motor Gasoline (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPOBG,Gasoline Blending Components,IM0,Imports,WBCIM_R20-Z00_2,Midwest (PADD 2) Imports of Gasoline Blending Components (Thousand Barrels per Day),13,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPOBG,Gasoline Blending Components,IM0,Imports,WBCIMUS2,U.S. Imports of Gasoline Blending Components (Thousand Barrels per Day),412,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPOBG,Gasoline Blending Components,IM0,Imports,WBCIM_R10-Z00_2,East Coast (PADD 1) Imports of Gasoline Blending Components (Thousand Barrels per Day),277,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPOBG,Gasoline Blending Components,IM0,Imports,WBCIM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Gasoline Blending Components (Thousand Barrels per Day),3,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPOBG,Gasoline Blending Components,IM0,Imports,WBCIM_R50-Z00_2,West Coast (PADD 5) Imports of Gasoline Blending Components (Thousand Barrels per Day),118,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPOBG,Gasoline Blending Components,IM0,Imports,WBCIM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPOBGCC,Conventional CBOB Gasoline Blending Components,IM0,Imports,WO6IM_R20-Z00_2,Midwest (PADD 2) Imports of Conventional CBOB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPOBGCC,Conventional CBOB Gasoline Blending Components,IM0,Imports,WO6IM_NUS-Z00_2,U.S. Imports of Conventional CBOB Gasoline Blending Components (Thousand Barrels per Day),23,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPOBGCC,Conventional CBOB Gasoline Blending Components,IM0,Imports,WO6IM_R10-Z00_2,East Coast (PADD 1) Imports of Conventional CBOB Gasoline Blending Components (Thousand Barrels per Day),23,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPOBGCC,Conventional CBOB Gasoline Blending Components,IM0,Imports,WO6IM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Conventional CBOB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPOBGCC,Conventional CBOB Gasoline Blending Components,IM0,Imports,WO6IM_R50-Z00_2,West Coast (PADD 5) Imports of Conventional CBOB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPOBGCC,Conventional CBOB Gasoline Blending Components,IM0,Imports,WO6IM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Conventional CBOB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPOBGCG,Conventional GTAB Gasoline Blending Components,IM0,Imports,WO7IM_R20-Z00_2,Midwest (PADD 2) Imports of Conventional GTAB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPOBGCG,Conventional GTAB Gasoline Blending Components,IM0,Imports,WO7IM_NUS-Z00_2,U.S. Imports of Conventional GTAB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPOBGCG,Conventional GTAB Gasoline Blending Components,IM0,Imports,WO7IM_R10-Z00_2,East Coast (PADD 1) Imports of Conventional GTAB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPOBGCG,Conventional GTAB Gasoline Blending Components,IM0,Imports,WO7IM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Conventional GTAB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPOBGCG,Conventional GTAB Gasoline Blending Components,IM0,Imports,WO7IM_R50-Z00_2,West Coast (PADD 5) Imports of Conventional GTAB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPOBGCG,Conventional GTAB Gasoline Blending Components,IM0,Imports,WO7IM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Conventional GTAB Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPOBGCO,Conventional Other Gasoline Blending Components,IM0,Imports,WO9IM_R20-Z00_2,Midwest (PADD 2) Imports of Conventional Other Gasoline Blending Components (Thousand Barrels per Day),13,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPOBGCO,Conventional Other Gasoline Blending Components,IM0,Imports,WO9IM_NUS-Z00_2,U.S. Imports of Conventional Other Gasoline Blending Components (Thousand Barrels per Day),208,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPOBGCO,Conventional Other Gasoline Blending Components,IM0,Imports,WO9IM_R10-Z00_2,East Coast (PADD 1) Imports of Conventional Other Gasoline Blending Components (Thousand Barrels per Day),73,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPOBGCO,Conventional Other Gasoline Blending Components,IM0,Imports,WO9IM_R40-Z00_2,Rocky Mountain (PADD 4) Conventional Other Gasoline Blending Components Imports (Thousand Barrels per Day),3,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPOBGCO,Conventional Other Gasoline Blending Components,IM0,Imports,WO9IM_R50-Z00_2,West Coast (PADD 5) Imports of Conventional Other Gasoline Blending Components (Thousand Barrels per Day),118,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPOBGCO,Conventional Other Gasoline Blending Components,IM0,Imports,WO9IM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Conventional Other Gasoline Blending Components (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPOBGRR,Motor Gasoline Blending Components Reformulated RBOB,IM0,Imports,W_EPOBGRR_IM0_R20-Z00_MBBLD,"Midwest (PADD 2) Imports from  All Countries of Motor Gasoline Blending Components, RBOB (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPOBGRR,Motor Gasoline Blending Components Reformulated RBOB,IM0,Imports,W_EPOBGRR_IM0_NUS-Z00_MBBLD,"U.S. Imports from  All Countries of Motor Gasoline Blending Components, RBOB (Thousand Barrels per Day)",181,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPOBGRR,Motor Gasoline Blending Components Reformulated RBOB,IM0,Imports,W_EPOBGRR_IM0_R10-Z00_MBBLD,"East Coast (PADD 1) Imports from  All Countries of Motor Gasoline Blending Components, RBOB (Thousand Barrels per Day)",181,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPOBGRR,Motor Gasoline Blending Components Reformulated RBOB,IM0,Imports,W_EPOBGRR_IM0_R40-Z00_MBBLD,Rocky Mountain (PADD 4) Imports from  All Countries of Motor Gasoline Blending Components Reformulated RBOB (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPOBGRR,Motor Gasoline Blending Components Reformulated RBOB,IM0,Imports,W_EPOBGRR_IM0_R50-Z00_MBBLD,"West Coast (PADD 5) Imports from  All Countries of Motor Gasoline Blending Components, RBOB (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPOBGRR,Motor Gasoline Blending Components Reformulated RBOB,IM0,Imports,W_EPOBGRR_IM0_R30-Z00_MBBLD,"Gulf Coast (PADD 3) Imports from  All Countries of Motor Gasoline Blending Components, RBOB (Thousand Barrels per Day)",0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPOOXE,Fuel Ethanol,IM0,Imports,W_EPOOXE_IM0_R20-Z00_MBBLD,Midwest (PADD 2) Imports of Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPOOXE,Fuel Ethanol,IM0,Imports,W_EPOOXE_IM0_NUS-Z00_MBBLD,U.S. Imports of Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPOOXE,Fuel Ethanol,IM0,Imports,W_EPOOXE_IM0_R10-Z00_MBBLD,East Coast (PADD 1) Imports of Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPOOXE,Fuel Ethanol,IM0,Imports,W_EPOOXE_IM0_R40-Z00_MBBLD,Rocky Mountain (PADD 4) Imports of Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPOOXE,Fuel Ethanol,IM0,Imports,W_EPOOXE_IM0_R50-Z00_MBBLD,West Coast (PADD 5) Imports of Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPOOXE,Fuel Ethanol,IM0,Imports,W_EPOOXE_IM0_R30-Z00_MBBLD,Gulf Coast (PADD 3) Imports of Fuel Ethanol (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPP0,Total Petroleum Products,IM0,Imports,WTXIM_R20-Z00_2,Midwest (PADD 2) Imports of Total Petroleum Products (Thousand Barrels per Day),130,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPP0,Total Petroleum Products,IM0,Imports,WRPIMUS2,U.S. Imports of Total Petroleum Products (Thousand Barrels per Day),1516,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPP0,Total Petroleum Products,IM0,Imports,WTXIM_R10-Z00_2,East Coast (PADD 1) Imports of Total Petroleum Products (Thousand Barrels per Day),597,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPP0,Total Petroleum Products,IM0,Imports,WTXIM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Total Petroleum Products (Thousand Barrels per Day),20,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPP0,Total Petroleum Products,IM0,Imports,WTXIM_R50-Z00_2,West Coast (PADD 5) Imports of Total Petroleum Products (Thousand Barrels per Day),266,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPP0,Total Petroleum Products,IM0,Imports,WTXIM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Total Petroleum Products (Thousand Barrels per Day),503,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPPK,Kerosene,IM0,Imports,W_EPPK_IM0_NUS-Z00_MBBLD,U.S. Imports of Kerosene (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPPO6,Other Oils (Excluding Fuel Ethanol),IM0,Imports,W_EPPO6_IM0_R20-Z00_MBBLD,Midwest (PADD 2) Imports of Other Oils (Excluding Fuel Ethanol) (Thousand Barrels per Day),44,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPPO6,Other Oils (Excluding Fuel Ethanol),IM0,Imports,W_EPPO6_IM0_NUS-Z00_MBBLD,U.S. Imports of Other Oils (Excluding Fuel Ethanol) (Thousand Barrels per Day),681,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPPO6,Other Oils (Excluding Fuel Ethanol),IM0,Imports,W_EPPO6_IM0_R10-Z00_MBBLD,East Coast (PADD 1) Imports of Other Oils (Excluding Fuel Ethanol) (Thousand Barrels per Day),81,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPPO6,Other Oils (Excluding Fuel Ethanol),IM0,Imports,W_EPPO6_IM0_R40-Z00_MBBLD,Rocky Mountain (PADD 4) Imports of Other Oils (Excluding Fuel Ethanol) (Thousand Barrels per Day),6,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPPO6,Other Oils (Excluding Fuel Ethanol),IM0,Imports,W_EPPO6_IM0_R50-Z00_MBBLD,West Coast (PADD 5) Imports of Other Oils (Excluding Fuel Ethanol) (Thousand Barrels per Day),93,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPPO6,Other Oils (Excluding Fuel Ethanol),IM0,Imports,W_EPPO6_IM0_R30-Z00_MBBLD,Gulf Coast (PADD 3) Imports of Other Oils (Excluding Fuel Ethanol) (Thousand Barrels per Day),456,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPPR,Residual Fuel Oil,IM0,Imports,WREIM_R20-Z00_2,Midwest (PADD 2) Imports of Residual Fuel Oil (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPPR,Residual Fuel Oil,IM0,Imports,WREIMUS2,U.S. Imports of Residual Fuel Oil (Thousand Barrels per Day),118,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPPR,Residual Fuel Oil,IM0,Imports,WREIM_R10-Z00_2,East Coast (PADD 1) Imports of Residual Fuel Oil (Thousand Barrels per Day),63,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPPR,Residual Fuel Oil,IM0,Imports,WREIM_R40-Z00_2,Rocky Mountain (PADD 4) Imports of Residual Fuel Oil (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPPR,Residual Fuel Oil,IM0,Imports,WREIM_R50-Z00_2,West Coast (PADD 5) Imports of Residual Fuel Oil (Thousand Barrels per Day),6,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPPR,Residual Fuel Oil,IM0,Imports,WREIM_R30-Z00_2,Gulf Coast (PADD 3) Imports of Residual Fuel Oil (Thousand Barrels per Day),47,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPC0,Crude Oil,IMS,Imports by SPR,WCSIMUS2,U.S. Crude Oil Imports by SPR (Thousand Barrels per Day),0,MBBL/D
+2025-08-01,R20-Z00,PADD 2,EPC0,Crude Oil,IMX,Imports Excluding SPR,WCEIMP22,Midwest (PADD 2) Commercial Crude Oil Imports Excluding SPR (Thousand Barrels per Day),2871,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPC0,Crude Oil,IMX,Imports Excluding SPR,WCEIMUS2,U.S. Commercial Crude Oil Imports Excluding SPR (Thousand Barrels per Day),5962,MBBL/D
+2025-08-01,R10-Z00,PADD 1,EPC0,Crude Oil,IMX,Imports Excluding SPR,WCEIMP12,East Coast (PADD 1) Commercial Crude Oil Imports Excluding SPR (Thousand Barrels per Day),498,MBBL/D
+2025-08-01,R40-Z00,PADD 4,EPC0,Crude Oil,IMX,Imports Excluding SPR,WCEIMP42,Rocky Mountain (PADD 4) Commercial Crude Oil Imports Excluding SPR (Thousand Barrels per Day),305,MBBL/D
+2025-08-01,R50-Z00,PADD 5,EPC0,Crude Oil,IMX,Imports Excluding SPR,WCEIMP52,West Coast (PADD 5) Commercial Crude Oil Imports Excluding SPR (Thousand Barrels per Day),1245,MBBL/D
+2025-08-01,R30-Z00,PADD 3,EPC0,Crude Oil,IMX,Imports Excluding SPR,WCEIMP32,Gulf Coast (PADD 3) Commercial Crude Oil Imports Excluding SPR (Thousand Barrels per Day),1042,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EP00,Crude Oil and Petroleum Products,IMN,Net Imports,WTTNTUS2,U.S. Net Imports of Crude Oil and Petroleum Products (Thousand Barrels per Day),-3186,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPC0,Crude Oil,IMN,Net Imports,WCRNTUS2,U.S. Net Imports of Crude Oil (Thousand Barrels per Day),2644,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPP0,Total Petroleum Products,IMN,Net Imports,WRPNTUS2,U.S. Net Imports of Total Petroleum Products (Thousand Barrels per Day),-5829,MBBL/D
+2025-08-01,NUS-Z00,U.S.,EPC0,Crude Oil,IMU,Imports by Others for SPR,W_EPC0_IMU_NUS-Z00_MBBLD,U.S. Crude Oil Imports for SPR by Others (Thousand Barrels per Day),0,MBBL/D
