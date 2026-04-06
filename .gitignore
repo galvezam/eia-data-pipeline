@@ -1,0 +1,17 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Spark binaries & extracted dirs
+*.tgz
+*.tar.gz
+spark-*/
+
+# Config with secrets
+config.py
