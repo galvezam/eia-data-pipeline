@@ -13,10 +13,12 @@ An interactive U.S. energy data visualization dashboard built with Streamlit + P
 
 ## Quick Start
 
-### 1. Install dependencies
+### 1. Install dependencies (and create virtual environment)
 
 ```bash
 cd eia-data-pipeline
+python -m venv venv
+venv\Scripts\activate
 pip install -r dashboard/requirements.txt
 ```
 
@@ -41,7 +43,7 @@ The dashboard will open automatically at `http://localhost:8501`.
 
 ---
 
-## Adding a New Dataset (Partner Guide)
+## Adding a New Dataset
 
 When you add a new processed Parquet prefix to S3 (e.g. `processed/electricity_generation/`), you only need to add **one entry** to the `DATASETS` dict in `dashboard/data_loader.py`. No other changes are required.
 
