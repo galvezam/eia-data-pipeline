@@ -198,8 +198,8 @@ DATASETS: dict[str, dict] = {
         "breakdown_col": "crude_grade",
         "breakdown_value": "grade_quantity_thousand_bbl",
     },
-    # ── Future partner datasets go here ───────────────────────────────────────
-    # Example (uncomment and fill in once partner uploads the data):
+    # ── Future datasets go here ───────────────────────────────────────
+    # Example:
     # "electricity_generation": {
     #     "label": "Electricity — Generation by State",
     #     "s3_prefix": "processed/electricity_generation/",
