@@ -9,6 +9,27 @@ Architecture:
   - normalize_state_col(): unifies the state column name across datasets so
     the map layer always gets a consistent "state" column regardless of whether
     the raw parquet uses "state_name" or "refinery_state".
+  - filter_df(): filters the dataset to a specific year (and optionally month).
+    For datasets with a breakdown_col (e.g. crude_by_origin, crude_grade),
+    this also aggregates to one row per state so the map gets scalar values.
+  - agg_for_map(): aggregates a filtered DataFrame to one row per state for
+    choropleth rendering. Only called by app.py for state-level datasets;
+    no-map datasets skip this.
+  - get_years(), get_months(), get_weeks(): utility helpers to get sorted lists
+    of unique years, months, and weeks present in a DataFrame.
+  - seds_col_label(): converts SEDS pivot column names to human-readable labels.
+    e.g. "TE" --> "Total Energy (All Sources)"
+         "CO" --> "Coal"
+         "av_pct" --> "Aviation Gasoline (% of Total)"
+         "wy_pct" --> "Wind Energy (% of Total)"
+  - normalize_eia_state(): converts EIA state/area names to a canonical display name.
+    e.g. "California" --> "California"
+         "TEXAS" --> "Texas"
+         "USA-NM" --> "New Mexico"
+         "NM" --> "New Mexico"
+         "R20", "NUS" --> "PADD 2 (Midwest)" etc.
+         "Baltimore, MD" --> returned as-is (no state)
+         "AK" --> "Alaska"
 """
 
 import io
@@ -19,16 +40,7 @@ import streamlit as st
 
 import config
 
-# ── State name normalization ───────────────────────────────────────────────────
-# EIA encodes state names in several formats across datasets:
-#   "USA-NM"  (duoarea prefix style, natural gas production)
-#   "USA-NM"  (same)
-#   "TEXAS"   (all-caps alias, natural gas production for some states)
-#   "OHIO"    (same)
-#   "California" (proper name, crude oil datasets)
-# All formats are normalized to proper full names here so that every
-# dataset loaded by load_dataset() uses consistent state names.
-
+# State name normalization:
 STATE_FULL_NAMES: dict[str, str] = {
     "AL": "Alabama", "AK": "Alaska", "AZ": "Arizona", "AR": "Arkansas",
     "CA": "California", "CO": "Colorado", "CT": "Connecticut", "DE": "Delaware",
@@ -45,25 +57,102 @@ STATE_FULL_NAMES: dict[str, str] = {
     "WI": "Wisconsin", "WY": "Wyoming", "DC": "District of Columbia",
 }
 
-# Reverse: full name → abbreviation (used by the map layer in app.py)
 STATE_ABBREV: dict[str, str] = {v: k for k, v in STATE_FULL_NAMES.items()}
-
-# Set of canonical full names for fast O(1) lookup
 _VALID_FULL_NAMES: set[str] = set(STATE_FULL_NAMES.values())
+
+# SEDS fuel prefix → readable label (used for metric selector display names)
+# Source: EIA SEDS MSN documentation — first 2 chars of each series code.
+SEDS_FUEL_LABELS: dict[str, str] = {
+    "AB": "Aviation Gasoline Blending Components",
+    "AV": "Aviation Gasoline",
+    "AR": "Asphalt & Road Oil",
+    "CL": "Coal (All Sectors)",
+    "CO": "Coal",
+    "DF": "Distillate Fuel Oil",
+    "EL": "Electricity (Retail Sales)",
+    "ES": "Electricity (All Sectors)",
+    "GE": "Geothermal Energy",
+    "HY": "Hydroelectric Power",
+    "JF": "Jet Fuel",
+    "KS": "Kerosene",
+    "LG": "LPG (Liquefied Petroleum Gas)",
+    "LU": "Lubricants",
+    "MG": "Motor Gasoline",
+    "NG": "Natural Gas",
+    "NU": "Nuclear Energy",
+    "PA": "Petroleum (All Products)",
+    "PC": "Petroleum Coke",
+    "PQ": "Petroleum & Natural Gas (Combined)",
+    "RE": "Renewables (Total)",
+    "RF": "Residual Fuel Oil",
+    "SO": "Solar Energy",
+    "TE": "Total Energy (All Sources)",
+    "WD": "Wood & Wood Waste",
+    "WS": "Waste Energy",
+    "WY": "Wind Energy",
+    "NF": "Non-Fossil Fuels",
+    "FF": "Fossil Fuels (Total)",
+    "EN": "Energy Intensity",
+    "PR": "Prices",
+    "EX": "Expenditures",
+    "EM": "Emissions (CO2)",
+}
+
+# Suffix patterns in SEDS pivot columns → readable suffixes
+SEDS_SUFFIX_LABELS: dict[str, str] = {
+    "_pct": " (% of Total)",
+    "_btu": " (Billion BTU)",
+    "_mbtu": " (Million BTU)",
+}
+
+def seds_col_label(col: str) -> str:
+    """
+    Convert a SEDS pivot column name to a human-readable label.
+    e.g. "TE"     → "Total Energy (All Sources)"
+         "CO"     → "Coal"
+         "av_pct" → "Aviation Gasoline (% of Total)"
+         "wy_pct" → "Wind Energy (% of Total)"
+    """
+    # Check suffix patterns first (e.g. co_pct, av_pct)
+    for suffix, suffix_label in SEDS_SUFFIX_LABELS.items():
+        if col.lower().endswith(suffix):
+            prefix = col[: -len(suffix)].upper()
+            base = SEDS_FUEL_LABELS.get(prefix, prefix)
+            return base + suffix_label
+    # Direct 2-letter prefix lookup (e.g. "TE", "CO", "AV")
+    upper = col.upper()
+    if upper in SEDS_FUEL_LABELS:
+        return SEDS_FUEL_LABELS[upper]
+    # Fallback: title-case the column name
+    return col.replace("_", " ").title()
+
+# PADD region codes → readable labels (petroleum datasets use these)
+PADD_LABELS: dict[str, str] = {
+    "NUS":     "U.S. Total",
+    "NUS-Z00": "U.S. Total",
+    "R10":     "PADD 1 (East Coast)",
+    "R1X":     "PADD 1A (New England)",
+    "R1Y":     "PADD 1B (Central Atlantic)",
+    "R1Z":     "PADD 1C (Lower Atlantic)",
+    "R20":     "PADD 2 (Midwest)",
+    "R30":     "PADD 3 (Gulf Coast)",
+    "R40":     "PADD 4 (Rocky Mountain)",
+    "R50":     "PADD 5 (West Coast)",
+}
 
 
 def normalize_eia_state(name: str) -> str:
     """
-    Convert any EIA state name variant to a proper full state name.
+    Convert any EIA state/area name variant to a canonical display name.
 
     Handled formats:
-      - Already a canonical full name: "California" → "California"
-      - ALL-CAPS:                      "TEXAS"      → "Texas"
-      - USA- prefix:                   "USA-NM"     → "New Mexico"
-      - 2-letter abbreviation:         "NM"         → "New Mexico"
-      - Title-case attempt as fallback
-
-    Non-state strings (country names, NaN, etc.) are returned unchanged.
+      - Canonical full name:   "California"  → "California"
+      - ALL-CAPS:              "TEXAS"        → "Texas"
+      - USA- prefix:           "USA-NM"       → "New Mexico"
+      - 2-letter abbreviation: "NM"           → "New Mexico"
+      - PADD / NUS codes:      "R20", "NUS"   → "PADD 2 (Midwest)" etc.
+      - Customs district:      "Baltimore, MD" → returned as-is (no state)
+      - stateId (SEDS/elec):   "AK"           → "Alaska"
     """
     if not isinstance(name, str):
         return name
@@ -73,43 +162,28 @@ def normalize_eia_state(name: str) -> str:
     # Already canonical
     if name in _VALID_FULL_NAMES:
         return name
-    # USA-XX prefix style
+    # PADD / NUS codes
+    if name in PADD_LABELS:
+        return PADD_LABELS[name]
+    # USA-XX prefix
     if name.startswith("USA-") and len(name) == 6:
         abbrev = name[4:]
         return STATE_FULL_NAMES.get(abbrev, name)
     # 2-letter abbreviation
     if len(name) == 2 and name.isupper():
         return STATE_FULL_NAMES.get(name, name)
-    # ALL-CAPS (e.g. TEXAS, OHIO, COLORADO)
+    # ALL-CAPS full name (e.g. TEXAS, OHIO)
     titled = name.title()
     if titled in _VALID_FULL_NAMES:
         return titled
-    # Nothing matched — return as-is (country names etc. fall through here)
+    # Nothing matched — return as-is (customs districts, country names, etc.)
     return name
 
-# ── Dataset Registry ───────────────────────────────────────────────────────────
-# Each entry describes one processed Parquet prefix in S3.
-# Key design rule: adding a new dataset = adding one dict entry here only.
-#
-# Required keys per entry:
-#   label           — Human-readable name shown in the UI
-#   s3_prefix       — Path inside the bucket (no leading slash)
-#   state_col       — Column that holds the state name in the parquet file
-#   value_col       — Primary numeric column used to color the choropleth map
-#   value_label     — Human-readable label for the primary value
-#   unit            — Unit string shown in tooltips (e.g. "MMcf", "Thousand Bbl")
-#   time_col        — Column holding the time period
-#   time_granularity — "monthly" | "annual"
-#   category        — Grouping label for the sidebar category selector
-#   extra_cols      — Additional numeric columns to show in the state detail panel
-#
-# Optional keys:
-#   breakdown_col   — If set, a secondary breakdown column (e.g. origin_country,
-#                     crude_grade) is available for bar charts in the detail panel.
-#   breakdown_value — The value column that pairs with breakdown_col.
 
+# Dataset Registry:
 DATASETS: dict[str, dict] = {
-    # ── Natural Gas ────────────────────────────────────────────────────────────
+
+    # Natural Gas:
     "ng_production": {
         "label": "Natural Gas — State Production",
         "s3_prefix": "processed/natural_gas_production/",
@@ -154,6 +228,7 @@ DATASETS: dict[str, dict] = {
             "net_interstate_received_mmcf": "Net Interstate Received (MMcf)",
         },
     },
+
     # ── Crude Oil ──────────────────────────────────────────────────────────────
     "crude_by_state": {
         "label": "Crude Oil — Imports by State",
@@ -198,23 +273,272 @@ DATASETS: dict[str, dict] = {
         "breakdown_col": "crude_grade",
         "breakdown_value": "grade_quantity_thousand_bbl",
     },
-    # ── Future datasets go here ───────────────────────────────────────
-    # Example:
-    # "electricity_generation": {
-    #     "label": "Electricity — Generation by State",
-    #     "s3_prefix": "processed/electricity_generation/",
-    #     "state_col": "state_name",
-    #     "value_col": "generation_mwh",
-    #     "value_label": "Generation",
-    #     "unit": "MWh",
-    #     "time_col": "period",
-    #     "time_granularity": "monthly",
-    #     "category": "Electricity",
-    #     "extra_cols": {},
-    # },
+
+    # Petroleum
+    # NOTE: petroleum datasets use duoarea codes (NUS, R10-R50, state abbrevs).
+    # normalize_eia_state() maps these to readable PADD labels or state names.
+    # The choropleth map will only render rows that resolve to a US state abbrev;
+    # PADD/NUS aggregate rows are shown in charts and tables but not on the map.
+    "petroleum_production": {
+        "label": "Petroleum — Production by Area & Product",
+        "no_map": True,
+        "s3_prefix": "processed/petroleum_production/",
+        "state_col": "area_name",
+        "value_col": "value_kbd",
+        "value_label": "Production",
+        "unit": "MBBL/D",
+        "time_col": "period",
+        "time_granularity": "weekly",
+        "category": "Petroleum",
+        "extra_cols": {
+            "product_name": "Product",
+            "process_name": "Process",
+            "series_description": "Series Description",
+        },
+        "breakdown_col": "product_id",
+        "breakdown_value": "value_kbd",
+    },
+    "petroleum_movements": {
+        "label": "Petroleum — Movements (Imports / Exports)",
+        "no_map": True,
+        "s3_prefix": "processed/petroleum_movements/",
+        "state_col": "area_name",
+        "value_col": "value_kbd",
+        "value_label": "Volume",
+        "unit": "MBBL/D",
+        "time_col": "period",
+        "time_granularity": "weekly",
+        "category": "Petroleum",
+        "extra_cols": {
+            "product_name": "Product",
+            "process_label": "Movement Type",
+            "series_description": "Series Description",
+        },
+        "breakdown_col": "process_id",
+        "breakdown_value": "value_kbd",
+    },
+    "petroleum_movements_wide": {
+        "label": "Petroleum — Imports vs Exports (Wide)",
+        "no_map": True,
+        "s3_prefix": "processed/petroleum_movements/wide/",
+        "state_col": "area_name",
+        "value_col": "exports_kbd",
+        "value_label": "Exports",
+        "unit": "MBBL/D",
+        "time_col": "period",
+        "time_granularity": "weekly",
+        "category": "Petroleum",
+        "extra_cols": {
+            "imports_kbd": "Imports (MBBL/D)",
+            "net_imports_kbd": "Net Imports (MBBL/D)",
+            "trade_balance_kbd": "Trade Balance (MBBL/D)",
+        },
+        "breakdown_col": "product_id",
+        "breakdown_value": "exports_kbd",
+    },
+
+    # Coal:
+    # NOTE: coal datasets use customs_district as the "state" dimension
+    # (e.g. "Baltimore, MD"). These don't map to US state abbreviations so
+    # the choropleth map is skipped; charts and tables still render normally.
+    "coal_trade": {
+        "label": "Coal — Raw Trade (by Country & District)",
+        "s3_prefix": "processed/coal_trade/",
+        "state_col": "customs_district",
+        "value_col": "quantity_short_tons",
+        "value_label": "Quantity",
+        "unit": "Short Tons",
+        "time_col": "year",
+        "time_granularity": "annual",
+        "category": "Coal",
+        "extra_cols": {
+            "price_usd_per_ton": "Price (USD/Ton)",
+            "coal_rank_desc": "Coal Rank",
+            "export_import_type": "Direction",
+        },
+        "breakdown_col": "country_desc",
+        "breakdown_value": "quantity_short_tons",
+        "no_map": True,
+    },
+    "coal_trade_summary": {
+        "label": "Coal — Trade Summary w/ % of US",
+        "s3_prefix": "processed/coal_trade/summary/",
+        "state_col": "customs_district",
+        "value_col": "total_short_tons",
+        "value_label": "Total Quantity",
+        "unit": "Short Tons",
+        "time_col": "year",
+        "time_granularity": "annual",
+        "category": "Coal",
+        "extra_cols": {
+            "avg_price_usd_per_ton": "Avg Price (USD/Ton)",
+            "min_price_usd_per_ton": "Min Price (USD/Ton)",
+            "max_price_usd_per_ton": "Max Price (USD/Ton)",
+            "us_total_short_tons": "US Total (Short Tons)",
+            "us_avg_price_usd_per_ton": "US Avg Price (USD/Ton)",
+            "pct_us_direction": "% of US Direction",
+        },
+        "breakdown_col": "country_desc",
+        "breakdown_value": "total_short_tons",
+        "no_map": True,
+    },
+
+    # Electricity:
+    # NOTE: electricity datasets use state_id (2-letter) + state_name.
+    # normalize_eia_state() maps state_id "AK" → "Alaska" etc.
+    "electricity_by_fuel": {
+        "label": "Electricity — Consumption by Fuel & State",
+        "s3_prefix": "processed/electricity_by_fuel_state/",
+        "state_col": "state_name",       # already full name from processing
+        "value_col": "consumption_thousand_mwh",
+        "value_label": "Consumption",
+        "unit": "Thousand MWh",
+        "time_col": "period",
+        "time_granularity": "monthly",
+        "category": "Electricity",
+        "extra_cols": {
+            "fuel_type_label": "Fuel Type",
+            "consumption_btu": "Consumption (BTU)",
+            "us_fuel_thousand_mwh": "US Total by Fuel (Thousand MWh)",
+            "pct_us_fuel_consumption": "% of US Fuel Consumption",
+        },
+        "breakdown_col": "fuel_type_id",
+        "breakdown_value": "consumption_thousand_mwh",
+    },
+    "electricity_rankings": {
+        "label": "Electricity — State Rankings",
+        "s3_prefix": "processed/electricity_state_rankings/",
+        "state_col": "state_name",
+        "value_col": "net_generation_rank",
+        "value_label": "Net Generation Rank",
+        "unit": "Rank",
+        "time_col": "year",
+        "time_granularity": "annual",
+        "category": "Electricity",
+        "extra_cols": {
+            "average_retail_price_rank": "Avg Retail Price Rank",
+            "carbon_dioxide_rank": "CO2 Rank",
+            "direct_use_rank": "Direct Use Rank",
+            "fsp_sales_rank": "FSP Sales Rank",
+            "generation_elect_utils_rank": "Generation (Elec Utils) Rank",
+            "nitrogen_oxide_rank": "NOx Rank",
+            "sulfer_dioxide_rank": "SO2 Rank",
+        },
+    },
+    "electricity_net_metering": {
+        "label": "Electricity — Net Metering by State",
+        "s3_prefix": "processed/electricity_net_metering/",
+        "state_col": "state_name",
+        "value_col": "capacity_mw",
+        "value_label": "Capacity",
+        "unit": "MW",
+        "time_col": "year",
+        "time_granularity": "annual",
+        "category": "Electricity",
+        "extra_cols": {
+            "customers_count": "Number of Customers",
+            "sectorName": "Sector",
+        },
+        "breakdown_col": "sectorid",
+        "breakdown_value": "capacity_mw",
+    },
+    "electricity_capacity": {
+        "label": "Electricity — Generating Capacity by State",
+        "s3_prefix": "processed/electricity_generating_capacity/",
+        "state_col": "state_name",
+        "value_col": "state_total_mw",
+        "value_label": "Capacity",
+        "unit": "MW",
+        "time_col": "year",
+        "time_granularity": "annual",
+        "category": "Electricity",
+        "extra_cols": {
+            "us_total_mw": "US Total (MW)",
+            "pct_us_capacity": "% of US Capacity",
+            "num_producer_types": "# Producer Types",
+        },
+        "breakdown_col": "energy_source",
+        "breakdown_value": "state_total_mw",
+    },
+
+    # Total Energy:
+    "total_energy": {
+        "label": "Total Energy — Monthly Series",
+        "s3_prefix": "processed/total_energy/",
+        "state_col": None,
+        "value_col": "value_quad_btu",
+        "value_label": "Value",
+        "unit": "Quad BTU",
+        "time_col": "period",
+        "time_granularity": "monthly",
+        "category": "Total Energy",
+        "extra_cols": {
+            "series_description": "Series Description",
+            "unit": "Unit",
+        },
+        "breakdown_col": "series_code",
+        "breakdown_value": "value_quad_btu",
+        "no_map": True,
+    },
+
+    # SEDS:
+    # NOTE: SEDS uses state_id (2-letter code, e.g. "AK") + state_name.
+    # state_name is already a full name from processing; state_id is used
+    # as the normalize target where state_name is absent.
+    "seds_state_consumption": {
+        "label": "SEDS — State Consumption by Fuel",
+        "s3_prefix": "processed/seds_state_consumption/",
+        "state_col": "state_name",
+        "value_col": "total_btu",
+        "value_label": "Consumption",
+        "unit": "Billion BTU",
+        "time_col": "year",
+        "time_granularity": "annual",
+        "category": "SEDS",
+        "extra_cols": {
+            "fuel_prefix": "Fuel Code",
+            "us_total_btu": "US Total (Billion BTU)",
+            "pct_us_fuel_consumption": "% of US Fuel Consumption",
+            "num_series": "# Series",
+        },
+        "breakdown_col": "fuel_prefix",
+        "breakdown_value": "total_btu",
+    },
+    "seds_state_pct_us": {
+        "label": "SEDS — State % of US Total Energy",
+        "s3_prefix": "processed/seds_state_pct_us/",
+        "state_col": "state_name",
+        "value_col": "total_btu",
+        "value_label": "Total Consumption",
+        "unit": "Billion BTU",
+        "time_col": "year",
+        "time_granularity": "annual",
+        "category": "SEDS",
+        "extra_cols": {
+            "us_all_btu": "US All Fuels (Billion BTU)",
+            "pct_us_total_consumption": "% of US Total",
+            "yoy_change_btu": "YoY Change (Billion BTU)",
+            "yoy_change_pct": "YoY Change (%)",
+        },
+    },
+    "seds_fuel_pivot": {
+        "label": "SEDS — Fuel Mix by State (Wide)",
+        "s3_prefix": "processed/seds_fuel_pivot/",
+        "state_col": "state_name",
+        "value_col": None,
+        "value_label": None,
+        "unit": "Billion BTU / %",
+        "time_col": "year",
+        "time_granularity": "annual",
+        "category": "SEDS",
+        "extra_cols": {},
+        "note": "Wide table — one column per fuel prefix with _pct share columns.",
+        "no_map": True,
+    },
 }
 
 
+# S3 helpers:
 def _build_s3_client():
     """Create a boto3 S3 client using credentials from config.py."""
     kwargs = {"region_name": config.AWS_REGION}
@@ -234,6 +558,56 @@ def _list_parquet_keys(s3_client, prefix: str) -> list[str]:
             if key.endswith(".parquet") or key.endswith(".snappy.parquet"):
                 keys.append(key)
     return keys
+
+
+# ── Per-schema post-load normalizers ──────────────────────────────────────────
+def _normalize_petroleum(df: pd.DataFrame, meta: dict) -> pd.DataFrame:
+    """
+    Petroleum datasets use duoarea codes (NUS, R10-R50) as area identifiers.
+    The state_col is area_name (a descriptive string like "U.S." or
+    "Midwest (PADD 2)"). We keep these as-is since they don't map to US
+    states — the no_map flag prevents choropleth rendering for national rows.
+    """
+    return df
+
+
+def _normalize_coal(df: pd.DataFrame, meta: dict) -> pd.DataFrame:
+    """
+    Coal datasets use customs_district (e.g. "Baltimore, MD") as the location
+    dimension. These are port districts, not states. Returned as-is;
+    no_map=True prevents choropleth rendering.
+    """
+    return df
+
+
+def _normalize_seds(df: pd.DataFrame, meta: dict) -> pd.DataFrame:
+    """
+    SEDS schema: state_id (2-letter) + state_name (full name from processing).
+    If state_name is missing or null, fall back to normalizing state_id.
+    """
+    if "state_name" in df.columns:
+        df["state_name"] = df["state_name"].fillna(
+            df.get("state_id", pd.Series(dtype=str))
+        ).apply(normalize_eia_state)
+    elif "state_id" in df.columns:
+        df["state_name"] = df["state_id"].apply(normalize_eia_state)
+    return df
+
+
+def _normalize_electricity(df: pd.DataFrame, meta: dict) -> pd.DataFrame:
+    """
+    Electricity datasets: state_id (2-letter) + state_name (full name).
+    Normalize state_name using state_id as fallback.
+    """
+    return _normalize_seds(df, meta)   # same pattern
+
+
+_SCHEMA_NORMALIZERS = {
+    "Petroleum":    _normalize_petroleum,
+    "Coal":         _normalize_coal,
+    "SEDS":         _normalize_seds,
+    "Electricity":  _normalize_electricity,
+}
 
 
 @st.cache_data(ttl=600, show_spinner=False)
@@ -267,24 +641,36 @@ def load_dataset(dataset_key: str) -> pd.DataFrame:
 
     df = pd.concat(frames, ignore_index=True)
 
-    # Normalize state column → always called 'state' for the map layer
+    # ── Schema-specific normalization ──────────────────────────────────────
+    category = meta.get("category", "")
+    normalizer = _SCHEMA_NORMALIZERS.get(category)
+    if normalizer:
+        df = normalizer(df, meta)
+
+    # ── Unify state column → always 'state' for the map layer ─────────────
     state_col = meta["state_col"]
-    if state_col in df.columns and state_col != "state":
-        df = df.rename(columns={state_col: "state"})
-
-    # Parse time columns
-    if meta["time_granularity"] == "monthly" and "period" in df.columns:
-        df["period"] = pd.to_datetime(df["period"])
-        df["year"] = df["period"].dt.year
-        df["month"] = df["period"].dt.month
-    elif meta["time_granularity"] == "annual" and "year" in df.columns:
-        df["year"] = df["year"].astype(int)
-
-    # Normalize state names → canonical full names (e.g. "USA-NM" → "New Mexico").
-    # This is the single source of truth: every dataset emits consistent state names
-    # so that UI lookups (df[df["state"] == selected_state]) always work.
-    if "state" in df.columns:
+    if state_col and state_col in df.columns:
+        if state_col != "state":
+            df = df.rename(columns={state_col: "state"})
+        # Generic normalize pass for any remaining non-normalized values
         df["state"] = df["state"].astype(str).str.strip().apply(normalize_eia_state)
+
+    # ── Parse time columns ─────────────────────────────────────────────────
+    if meta["time_granularity"] == "weekly" and "period" in df.columns:
+        df["period"] = pd.to_datetime(df["period"], errors="coerce")
+        df = df[df["period"].notna()].copy()
+        iso = df["period"].dt.isocalendar()
+        df["year"] = iso.year.astype("Int64").astype(int)
+        df["week"] = iso.week.astype("Int64").astype(int)
+    elif meta["time_granularity"] == "monthly" and "period" in df.columns:
+        df["period"] = pd.to_datetime(df["period"], errors="coerce")
+        df = df[df["period"].notna()].copy()
+        df["year"]  = df["period"].dt.year.astype(int)
+        df["month"] = df["period"].dt.month.astype(int)
+    elif meta["time_granularity"] == "annual" and "year" in df.columns:
+        df["year"] = pd.to_numeric(df["year"], errors="coerce")
+        df = df[df["year"].notna()].copy()
+        df["year"] = df["year"].astype(int)
 
     return df
 
@@ -292,14 +678,20 @@ def load_dataset(dataset_key: str) -> pd.DataFrame:
 def get_years(df: pd.DataFrame) -> list[int]:
     """Return sorted list of unique years present in the DataFrame."""
     if "year" in df.columns:
-        return sorted(df["year"].dropna().unique().tolist())
+        return sorted(int(y) for y in df["year"].dropna().unique())
     return []
 
 
 def get_months(df: pd.DataFrame) -> list[int]:
     """Return sorted list of unique months (1-12) present in the DataFrame."""
     if "month" in df.columns:
-        return sorted(df["month"].dropna().unique().tolist())
+        return sorted(int(m) for m in df["month"].dropna().unique())
+    return []
+
+
+def get_weeks(df: pd.DataFrame) -> list[int]:
+    if "week" in df.columns:
+        return sorted(int(w) for w in df["week"].dropna().unique())
     return []
 
 
@@ -308,6 +700,7 @@ def filter_df(
     dataset_key: str,
     year: int,
     month: int | None = None,
+    week: int | None = None,
 ) -> pd.DataFrame:
     """
     Filter the dataset to a specific year (and optionally month).
@@ -319,16 +712,19 @@ def filter_df(
 
     if meta["time_granularity"] == "monthly" and month is not None:
         out = out[out["month"] == month]
-
-    # If the dataset has a breakdown column, we need to aggregate for the map
-    # (one row per state), but keep the raw filtered frame too — callers that
-    # need the breakdown detail will use the unfiltered frame themselves.
-    breakdown_col = meta.get("breakdown_col")
-    if breakdown_col and breakdown_col in out.columns:
-        value_col = meta["value_col"]
-        out = (
-            out.groupby("state", as_index=False)[value_col]
-            .sum()
-        )
+    elif meta["time_granularity"] == "weekly" and week is not None:
+        out = out[out["week"] == week]
 
     return out
+
+
+def agg_for_map(df: pd.DataFrame, dataset_key: str, metric_col: str) -> pd.DataFrame:
+    """
+    Aggregate a filtered DataFrame to one row per state for choropleth rendering.
+    Only called by app.py for state-level datasets; no-map datasets skip this.
+    """
+    if "state" not in df.columns or not metric_col or metric_col not in df.columns:
+        return df
+    if not pd.api.types.is_numeric_dtype(df[metric_col]):
+        return df
+    return df.groupby("state", as_index=False)[metric_col].sum()
