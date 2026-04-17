@@ -4,7 +4,7 @@ An interactive U.S. energy data visualization dashboard built with Streamlit + P
 
 ## Features
 
-- **Choropleth US map** — hover any state for quick stats; click to open a drill-down detail panel
+- **US map** — hover any state for quick stats; click to open a drill-down detail panel
 - **Time filters** — year slider (+ month slider for monthly datasets)
 - **Metric selector** — switch between primary and secondary metrics within a dataset
 - **State detail panel** — metric snapshot, time-series chart, breakdown by origin country or crude grade

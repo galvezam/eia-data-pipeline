@@ -339,7 +339,7 @@ if not _can_map:
     # ── No-map datasets (Coal, Total Energy, Petroleum PADD aggregate) ────────
     if no_map:
         st.markdown(
-            '<div class="no-map-box">🗺️ Choropleth map not available for this dataset — '
+            '<div class="no-map-box">🗺️ Map not available for this dataset — '
             'location dimension is not US state-level. See charts below.</div>',
             unsafe_allow_html=True,
         )
