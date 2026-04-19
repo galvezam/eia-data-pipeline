@@ -21,7 +21,7 @@ from airflow import DAG
 from airflow.decorators import task
 from airflow.models import Variable
 
-# ── Dataset registry ───────────────────────────────────────────────────────────
+# Dataset registry
 # Mirrors total_ingest.ipynb DATASETS dict.  start/end here are the
 # *historical* full-load defaults; incremental mode overrides them at runtime.
 DATASETS = {
@@ -75,7 +75,7 @@ DATASETS = {
         "max_page_workers": 3,
         "max_date_workers": 3,
         "date_partition": True,
-        "incremental_frequency": "2 months",
+        "incremental_frequency": "1 month",
     },
     "steo": {
         "url": "https://api.eia.gov/v2/steo/data/",
@@ -88,7 +88,7 @@ DATASETS = {
         "max_page_workers": 3,
         "max_date_workers": 3,
         "date_partition": True,
-        "incremental_frequency": "2 months",
+        "incremental_frequency": "1 month",
     },
     "coal": {
         "url": "https://api.eia.gov/v2/coal/exports-imports-quantity-price/data/",
@@ -212,7 +212,7 @@ DATASETS = {
     },
 }
 
-# ── Default args ───────────────────────────────────────────────────────────────
+# Default args
 default_args = {
     "owner": "eia-pipeline",
     "retries": 3,
@@ -238,7 +238,7 @@ def _resolve_date_range(dataset_name: str, config: dict, logical_date: datetime)
     from datetime import date
     from dateutil.relativedelta import relativedelta
 
-    # -- Variable overrides (manual backfills / one-off runs) ------------------
+    # Variable overrides (manual backfills / one-off runs)
     start_override = Variable.get("eia_start_override", default_var=None)
     end_override   = Variable.get("eia_end_override",   default_var=None)
     incremental    = Variable.get("eia_incremental_mode", default_var="true") == "true"
@@ -246,7 +246,7 @@ def _resolve_date_range(dataset_name: str, config: dict, logical_date: datetime)
     if start_override and end_override:
         return start_override, end_override
 
-    # -- Derive end from logical_date when not overridden ----------------------
+    # Derive end from logical_date when not overridden
     freq = config["frequency"]
     if freq == "annual":
         run_end = str(logical_date.year)
@@ -258,7 +258,7 @@ def _resolve_date_range(dataset_name: str, config: dict, logical_date: datetime)
     if end_override:
         run_end = end_override
 
-    # -- Incremental: find latest already-stored period ------------------------
+    # Incremental: find latest already-stored period
     run_start = config["start"]
 
     if incremental and run_start is not None:
@@ -311,7 +311,7 @@ def _run_ingest(dataset_name: str, config: dict, start: str, end: str, increment
     cfg = {**config, "start": start, "end": end}
     return core.stream_data(dataset_name, cfg, incremental=incremental)
 
-# ── DAG definition ─────────────────────────────────────────────────────────────
+# DAG definition
 with DAG(
     dag_id="eia_ingest",
     default_args=default_args,
@@ -344,9 +344,9 @@ with DAG(
         results = {name: ti.xcom_pull(task_ids=f"ingest_{name}") for name in DATASETS}
         ok  = {k: v for k, v in results.items() if v}
         err = {k: v for k, v in results.items() if not v}
-        print(f"✓ completed ({len(ok)}): {list(ok)}")
+        print(f"completed ({len(ok)}): {list(ok)}")
         if err:
-            print(f"✗ missing  ({len(err)}): {list(err)}")
+            print(f"missing  ({len(err)}): {list(err)}")
 
     start_task = ingest_start()
     end_task   = ingest_end()
@@ -382,7 +382,7 @@ with DAG(
 
             s3_key = _run_ingest(name, cfg, start=run_start, end=run_end, incremental=incremental)
             bucket = os.environ.get("EIA_BUCKET", os.environ.get("BUCKET_NAME", ""))
-            print(f"✓ {name} → s3://{bucket}/{s3_key}")
+            print(f"{name}: s3://{bucket}/{s3_key}")
             return s3_key
 
         start_task >> ingest_task() >> end_task

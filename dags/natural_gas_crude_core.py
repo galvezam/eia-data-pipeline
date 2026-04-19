@@ -72,7 +72,7 @@ def run(
     RAW     = f"{S3_BASE}/raw"
     OUT     = f"{S3_BASE}/processed"
 
-    # ── Locate latest raw CSVs for this date range ─────────────────────────
+    # Locate latest raw CSVs for this date range
     def latest_s3_csv(prefix):
         """Return the most recently modified CSV key under prefix."""
         import boto3
@@ -91,7 +91,7 @@ def run(
     print(f"ng_trade      : {NG_TRADE_PATH}")
     print(f"crude_imports : {CRUDE_PATH}")
 
-    # ── S3 output paths ────────────────────────────────────────────────────
+    # S3 output paths
     S3_NG_PRODUCTION   = f"{OUT}/natural_gas_production/"
     S3_NG_INTL_TRADE   = f"{OUT}/natural_gas_trade_international/"
     S3_NG_INTERSTATE   = f"{OUT}/natural_gas_trade_interstate/"
@@ -99,7 +99,7 @@ def run(
     S3_CRUDE_STATE     = f"{OUT}/crude_oil_imports_by_state/"
     S3_CRUDE_GRADE     = f"{OUT}/crude_oil_imports_grade_breakdown/"
 
-    # ── Load ───────────────────────────────────────────────────────────────
+    # Load
     def read_csv(path):
         return (
             spark.read
@@ -114,7 +114,7 @@ def run(
     raw_trade = read_csv(NG_TRADE_PATH)
     raw_crude = read_csv(CRUDE_PATH)
 
-    # ── Clean: Natural Gas Production ─────────────────────────────────────
+    # Clean: Natural Gas Production
     ng_clean = (
         raw_ng
         .filter(F.col("value").isNotNull())
@@ -127,7 +127,7 @@ def run(
         .dropDuplicates()
     )
 
-    # ── Clean: Natural Gas Trade ───────────────────────────────────────────
+    # Clean: Natural Gas Trade
     PROCESS_LABELS = {
         "EEI": "Exports (Intl)", "IMI": "Imports (Intl)", "IMB": "Net Intl Movements",
         "MID": "Interstate Deliveries", "MIN": "Net Interstate Receipts", "MIE": "Net Intl + Interstate",
@@ -147,7 +147,7 @@ def run(
         .dropDuplicates()
     )
 
-    # ── Clean: Crude Oil Imports ───────────────────────────────────────────
+    # Clean: Crude Oil Imports
     crude_clean = (
         raw_crude
         .filter(F.col("quantity").isNotNull())
@@ -162,7 +162,7 @@ def run(
         .dropDuplicates()
     )
 
-    # ── Analyse: NG State Production ──────────────────────────────────────
+    # Analyse: NG State Production
     us_ng_total = ng_clean.groupBy("period").agg(F.sum("production_mmcf").alias("us_total_mmcf"))
     ng_state_production = (
         ng_clean.join(us_ng_total, on="period", how="left")
@@ -171,7 +171,7 @@ def run(
         .orderBy("period", F.col("production_mmcf").desc())
     )
 
-    # ── Analyse: NG International Trade ───────────────────────────────────
+    # Analyse: NG International Trade
     intl_processes = ["EEI", "IMI", "IMB"]
     ng_intl_trade_wide = (
         trade_clean.filter(F.col("process").isin(intl_processes))
@@ -185,7 +185,7 @@ def run(
         .orderBy("year", "state_name")
     )
 
-    # ── Analyse: NG Interstate Movements ──────────────────────────────────
+    # Analyse: NG Interstate Movements
     interstate_processes = ["MID", "MIN"]
     ng_interstate_wide = (
         trade_clean.filter(F.col("process").isin(interstate_processes))
@@ -198,14 +198,14 @@ def run(
         .orderBy("year", "state_name")
     )
 
-    # ── Analyse: Crude by Origin ───────────────────────────────────────────
+    # Analyse: Crude by Origin
     crude_by_origin = (
         crude_clean.groupBy("period", "refinery_state", "origin_country")
         .agg(F.sum("quantity_thousand_bbl").alias("total_thousand_bbl"))
         .orderBy("period", "refinery_state", F.col("total_thousand_bbl").desc())
     )
 
-    # ── Analyse: Crude by State ────────────────────────────────────────────
+    # Analyse: Crude by State
     us_crude_total = crude_clean.groupBy("period").agg(F.sum("quantity_thousand_bbl").alias("us_total_thousand_bbl"))
     crude_by_state = (
         crude_clean.groupBy("period", "refinery_state")
@@ -215,7 +215,7 @@ def run(
         .orderBy("period", F.col("total_thousand_bbl").desc())
     )
 
-    # ── Analyse: Crude Grade Breakdown ────────────────────────────────────
+    # Analyse: Crude Grade Breakdown
     state_month_totals = crude_clean.groupBy("period", "refinery_state").agg(F.sum("quantity_thousand_bbl").alias("state_total_thousand_bbl"))
     crude_grade_breakdown = (
         crude_clean.groupBy("period", "refinery_state", "crude_grade")
@@ -225,11 +225,11 @@ def run(
         .orderBy("period", "refinery_state", F.col("grade_quantity_thousand_bbl").desc())
     )
 
-    # ── Write Parquet to S3 ────────────────────────────────────────────────
+    # Write Parquet to S3
     def write_parquet(df, path, label):
         print(f"Writing {label} → {path}")
         df.write.mode("overwrite").option("compression", "snappy").parquet(path)
-        print(f"  ✓ Done")
+        print(f"Done")
 
     write_parquet(ng_state_production,   S3_NG_PRODUCTION,   "Natural Gas State Production")
     write_parquet(ng_intl_trade_wide,    S3_NG_INTL_TRADE,   "Natural Gas International Trade")
@@ -239,4 +239,4 @@ def run(
     write_parquet(crude_grade_breakdown, S3_CRUDE_GRADE,     "Crude Imports Grade Breakdown")
 
     spark.stop()
-    print("✓ natural_gas_crude processing complete")
+    print("natural_gas_crude processing complete")

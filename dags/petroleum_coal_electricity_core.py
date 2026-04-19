@@ -68,7 +68,7 @@ def run(
 
     OUT = f"s3a://{bucket_name}/processed"
 
-    # ── Locate latest raw CSV for each dataset ─────────────────────────────
+    # Locate latest raw CSV for each dataset
     def latest_s3_csv(prefix):
         s3 = boto3.client("s3")
         resp = s3.list_objects_v2(Bucket=bucket_name, Prefix=prefix)
@@ -100,7 +100,7 @@ def run(
     ]:
         print(f"{label:<25}: {path}")
 
-    # ── S3 output paths ────────────────────────────────────────────────────
+    # S3 output paths
     S3_PETROLEUM_PRODUCTION  = f"{OUT}/petroleum_production/"
     S3_PETROLEUM_MOVEMENTS   = f"{OUT}/petroleum_movements/"
     S3_COAL_TRADE            = f"{OUT}/coal_trade/"
@@ -113,7 +113,7 @@ def run(
     S3_SEDS_STATE_PCT        = f"{OUT}/seds_state_pct_us/"
     S3_SEDS_FUEL_PIVOT       = f"{OUT}/seds_fuel_pivot/"
 
-    # ── Load ───────────────────────────────────────────────────────────────
+    # Load
     def read_csv(path):
         return (
             spark.read
@@ -134,7 +134,7 @@ def run(
     raw_total_energy    = read_csv(TOTAL_ENERGY_PATH)
     raw_seds            = read_csv(SEDS_PATH)
 
-    # ── Clean: Petroleum Production ───────────────────────────────────────
+    # Clean: Petroleum Production
     petroleum_clean = (
         raw_petroleum
         .filter(F.col("value").isNotNull())
@@ -156,7 +156,7 @@ def run(
         .orderBy("period", "duoarea", "product_id")
     )
 
-    # ── Clean: Petroleum Movements ────────────────────────────────────────
+    # Clean: Petroleum Movements
     PETRO_MOVEMENT_LABELS = {
         "EEX": "Exports", "EIM": "Imports", "ENT": "Net Imports",
         "STK": "Stock Change", "VUA": "Supply Adjustment", "YPA": "Net Production",
@@ -184,7 +184,7 @@ def run(
         .orderBy("period", "duoarea", "product_id")
     )
 
-    # ── Clean: Coal ───────────────────────────────────────────────────────
+    # Clean: Coal
     coal_clean = (
         raw_coal
         .filter(F.col("quantity").isNotNull() | F.col("price").isNotNull())
@@ -224,7 +224,7 @@ def run(
         .orderBy("year", "export_import_type", F.col("total_short_tons").desc())
     )
 
-    # ── Clean: Electricity ────────────────────────────────────────────────
+    # Clean: Electricity
     FUEL_TYPE_LABELS = {
         "COL": "Coal", "NG": "Natural Gas", "NUC": "Nuclear",
         "HYC": "Conventional Hydroelectric", "WND": "Wind", "SUN": "Solar",
@@ -261,7 +261,7 @@ def run(
         .orderBy("period", "state_name", "fuel_type_id")
     )
 
-    # ── Clean: Electricity State Rankings ────────────────────────────────
+    # Clean: Electricity State Rankings
     RANKING_COLS = [
         "average-retail-price-rank", "carbon-dioxide-rank",
         "net-generation-rank", "nitrogen-oxide-rank", "sulfer-dioxide-rank",
@@ -279,7 +279,7 @@ def run(
         .dropDuplicates().orderBy("year", "state_id")
     )
 
-    # ── Clean: Electricity Net Metering ──────────────────────────────────
+    # Clean: Electricity Net Metering
     elec_net_meter_clean = (
         raw_elec_net_meter
         .filter(F.col("capacity").isNotNull() | F.col("customers").isNotNull())
@@ -293,7 +293,7 @@ def run(
         .dropDuplicates().orderBy("year", "state_id")
     )
 
-    # ── Clean: Electricity Generating Capacity ────────────────────────────
+    # Clean: Electricity Generating Capacity
     elec_capacity_clean = (
         raw_elec_capacity
         .filter(F.col("capability").isNotNull())
@@ -318,7 +318,7 @@ def run(
         .orderBy("year", "state_id", "energy_source")
     )
 
-    # ── Clean: Total Energy ───────────────────────────────────────────────
+    # Clean: Total Energy
     total_energy_clean = (
         raw_total_energy
         .filter(F.col("value").isNotNull())
@@ -330,7 +330,7 @@ def run(
         .dropDuplicates().orderBy("period", "series_code")
     )
 
-    # ── Clean: SEDS ───────────────────────────────────────────────────────
+    # Clean: SEDS
     SEDS_FUEL_PREFIXES = {
         "CO": "Coal", "PA": "Petroleum", "NG": "Natural Gas", "ES": "Electricity",
         "NU": "Nuclear", "RE": "Renewables", "TE": "Total Energy", "GE": "Geothermal",
@@ -392,7 +392,7 @@ def run(
                     f"{prefix.lower()}_pct", F.round(F.col(f"`{prefix}`") / F.col("TE") * 100, 2)
                 )
 
-    # ── Petroleum Movements Wide ──────────────────────────────────────────
+    # Petroleum Movements Wide
     MOVEMENT_PROCESSES = ["EEX", "EIM", "ENT"]
     petro_import_export = (
         petro_movements_clean.filter(F.col("process_id").isin(MOVEMENT_PROCESSES))
@@ -409,11 +409,11 @@ def run(
         .orderBy("period", "duoarea", "product_id")
     )
 
-    # ── Write Parquet to S3 ────────────────────────────────────────────────
+    # Write Parquet to S3
     def write_parquet(df, path, label):
-        print(f"Writing {label} → {path}")
+        print(f"Writing {label}: {path}")
         df.write.mode("overwrite").option("compression", "snappy").parquet(path)
-        print(f"  ✓ Done")
+        print(f"Done")
 
     write_parquet(petroleum_clean,       S3_PETROLEUM_PRODUCTION,          "Petroleum Production")
     write_parquet(petro_movements_clean, S3_PETROLEUM_MOVEMENTS,           "Petroleum Movements")
@@ -430,4 +430,4 @@ def run(
     write_parquet(petro_movements_wide,  S3_PETROLEUM_MOVEMENTS + "wide/", "Petroleum Movements Wide")
 
     spark.stop()
-    print("✓ petroleum_coal_electricity processing complete")
+    print("petroleum_coal_electricity processing complete")

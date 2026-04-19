@@ -35,7 +35,7 @@ def stream_data(dataset_name: str, config: dict, incremental: bool = False) -> s
 
     s3 = boto3.client("s3")
 
-    # ── Resolve start/end ──────────────────────────────────────────────────────
+    # Resolve start/end
     run_start = config["start"]
     run_end   = config.get("end") or date.today().strftime(
         "%Y" if config["frequency"] == "annual" else
@@ -59,7 +59,7 @@ def stream_data(dataset_name: str, config: dict, incremental: bool = False) -> s
         except Exception:
             pass  # No existing data → full ingest
 
-    # ── Build S3 key ───────────────────────────────────────────────────────────
+    # Build S3 key
     start_slug = _date_slug(run_start) if run_start else "all"
     end_slug   = _date_slug(run_end)   if run_end   else "all"
     date_range = f"{start_slug}_to_{end_slug}"
@@ -70,7 +70,7 @@ def stream_data(dataset_name: str, config: dict, incremental: bool = False) -> s
     else:
         s3_key = f"raw/{dataset_name}/{config['frequency']}/{dataset_name}_{date_range}.csv"
 
-    # ── Partition generator ────────────────────────────────────────────────────
+    # Partition generator
     def generate_partitions():
         if run_start is None:
             return [(None, None)]
@@ -84,7 +84,7 @@ def stream_data(dataset_name: str, config: dict, incremental: bool = False) -> s
             curr += relativedelta(months=1)
         return parts
 
-    # ── Page fetcher ───────────────────────────────────────────────────────────
+    # Page fetcher
     def fetch_page(offset, p_start, p_end):
         params = {
             "api_key": API_KEY,
@@ -114,7 +114,7 @@ def stream_data(dataset_name: str, config: dict, incremental: bool = False) -> s
             raise Exception(f"API {r.status_code}: {r.text[:200]}")
         raise Exception("Max retries exceeded")
 
-    # ── Streaming buffer + S3 upload ──────────────────────────────────────────
+    # Streaming buffer + S3 upload
     # Uses multipart upload for large data (parts must be >= 5MB each).
     # Falls back to a single put_object if total data is small.
     PART_SIZE = 5 * 1024 * 1024  # 5 MB minimum for S3 multipart parts
@@ -162,7 +162,7 @@ def stream_data(dataset_name: str, config: dict, incremental: bool = False) -> s
         if buffer.tell() > PART_SIZE:
             flush()
 
-    # ── Stream pages directly to S3 — never accumulate all records in RAM ────
+    # Stream pages directly to S3 — never accumulate all records in RAM
     def stream_partition(p_start, p_end):
         first = fetch_page(0, p_start, p_end)
         total = int(first.get("total", 0))
@@ -181,7 +181,7 @@ def stream_data(dataset_name: str, config: dict, incremental: bool = False) -> s
         else:
             stream_partition(run_start, run_end)
 
-        # Final flush — force=True sends whatever remains regardless of size
+        # Final flush: force=True sends whatever remains regardless of size
         flush(force=True)
 
         if multipart and parts:
@@ -202,7 +202,7 @@ def stream_data(dataset_name: str, config: dict, incremental: bool = False) -> s
             s3.abort_multipart_upload(Bucket=BUCKET, Key=s3_key, UploadId=multipart["UploadId"])
         raise
 
-    print(f"✓ {dataset_name} → s3://{BUCKET}/{s3_key}")
+    print(f"{dataset_name}: s3://{BUCKET}/{s3_key}")
     return s3_key
 
 

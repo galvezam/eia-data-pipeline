@@ -28,7 +28,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-# ── Custom CSS ─────────────────────────────────────────────────────────────────
+# Custom CSS
 st.markdown(
     """
     <style>
@@ -204,6 +204,10 @@ with st.sidebar:
     )
     selected_key = dataset_options[selected_label]
     meta = DATASETS[selected_key]
+    prev_dataset_key = st.session_state.get("_active_dataset_key")
+    if prev_dataset_key != selected_key:
+        st.session_state["selected_state"] = None
+    st.session_state["_active_dataset_key"] = selected_key
 
     st.markdown("---")
 
@@ -231,29 +235,31 @@ with st.sidebar:
         "Year",
         options=sorted(years, reverse=True),
         index=0,
-        key="year_select",
+        key=f"year_select_{selected_key}",
     )
 
     selected_month = None
     selected_week  = None
+    df_year = df_full[df_full["year"] == selected_year] if "year" in df_full.columns else df_full
 
     if meta["time_granularity"] == "monthly":
-        months = get_months(df_full)
+        months = get_months(df_year)
         month_labels = {calendar.month_abbr[m]: m for m in sorted(months, reverse=True)}
-        selected_month = month_labels[st.selectbox(
-            "Month",
-            options=list(month_labels.keys()),
-            index=0,
-            key="month_select",
-        )]
+        if month_labels:
+            selected_month = month_labels[st.selectbox(
+                "Month",
+                options=list(month_labels.keys()),
+                index=0,
+                key=f"month_select_{selected_key}",
+            )]
     elif meta["time_granularity"] == "weekly":
-        weeks = get_weeks(df_full)
+        weeks = get_weeks(df_year)
         if weeks:
             selected_week = st.selectbox(
                 "Week",
                 options=sorted(weeks, reverse=True),
                 index=0,
-                key="week_select",
+                key=f"week_select_{selected_key}",
             )
 
     st.markdown("---")
@@ -283,7 +289,7 @@ with st.sidebar:
         selected_metric_label = st.selectbox(
             "Map Metric",
             options=list(metric_options.keys()),
-            key="metric_select",
+            key=f"metric_select_{selected_key}",
         )
         selected_metric_col = metric_options[selected_metric_label]
     else:
@@ -302,7 +308,7 @@ with st.sidebar:
         st.session_state["_clear_requested"] = True
 
 
-# ── Main header ────────────────────────────────────────────────────────────────
+# Main header
 period_label = _period_str(meta, selected_year, selected_month, selected_week)
 badge_cls    = CATEGORY_BADGE.get(selected_category, "badge-blue")
 no_map       = meta.get("no_map", False)
@@ -315,7 +321,7 @@ st.markdown(
 )
 st.markdown("")
 
-# ── Filter to selected period ──────────────────────────────────────────────────
+# Filter to selected period 
 df_map = filter_df(df_full, selected_key, selected_year, selected_month, selected_week)
 
 color_scale = CATEGORY_COLOR_SCALES.get(selected_category, "Viridis")
@@ -332,14 +338,14 @@ _has_metric   = bool(selected_metric_col and selected_metric_col in df_map.colum
 _has_state    = "state" in df_map.columns and df_map["state"].notna().any()
 _can_map      = _has_metric and _has_state and not no_map
 
-# ── Map or no-map layout ───────────────────────────────────────────────────────
+# Map or no-map layout
 _state_active = bool(st.session_state.get("selected_state"))
 
 if not _can_map:
-    # ── No-map datasets (Coal, Total Energy, Petroleum PADD aggregate) ────────
+    # No-map datasets (Coal, Total Energy, Petroleum PADD aggregate)
     if no_map:
         st.markdown(
-            '<div class="no-map-box">🗺️ Map not available for this dataset — '
+            '<div class="no-map-box">🗺️ Choropleth map not available for this dataset — '
             'location dimension is not US state-level. See charts below.</div>',
             unsafe_allow_html=True,
         )

@@ -229,7 +229,7 @@ DATASETS: dict[str, dict] = {
         },
     },
 
-    # ── Crude Oil ──────────────────────────────────────────────────────────────
+    # Crude Oil 
     "crude_by_state": {
         "label": "Crude Oil — Imports by State",
         "s3_prefix": "processed/crude_oil_imports_by_state/",
@@ -560,7 +560,7 @@ def _list_parquet_keys(s3_client, prefix: str) -> list[str]:
     return keys
 
 
-# ── Per-schema post-load normalizers ──────────────────────────────────────────
+# Per-schema post-load normalizers
 def _normalize_petroleum(df: pd.DataFrame, meta: dict) -> pd.DataFrame:
     """
     Petroleum datasets use duoarea codes (NUS, R10-R50) as area identifiers.
@@ -641,13 +641,13 @@ def load_dataset(dataset_key: str) -> pd.DataFrame:
 
     df = pd.concat(frames, ignore_index=True)
 
-    # ── Schema-specific normalization ──────────────────────────────────────
+    # Schema-specific normalization
     category = meta.get("category", "")
     normalizer = _SCHEMA_NORMALIZERS.get(category)
     if normalizer:
         df = normalizer(df, meta)
 
-    # ── Unify state column → always 'state' for the map layer ─────────────
+    # Unify state column → always 'state' for the map layer
     state_col = meta["state_col"]
     if state_col and state_col in df.columns:
         if state_col != "state":
@@ -655,7 +655,7 @@ def load_dataset(dataset_key: str) -> pd.DataFrame:
         # Generic normalize pass for any remaining non-normalized values
         df["state"] = df["state"].astype(str).str.strip().apply(normalize_eia_state)
 
-    # ── Parse time columns ─────────────────────────────────────────────────
+    # Parse time columns
     if meta["time_granularity"] == "weekly" and "period" in df.columns:
         df["period"] = pd.to_datetime(df["period"], errors="coerce")
         df = df[df["period"].notna()].copy()
