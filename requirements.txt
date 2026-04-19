@@ -1,0 +1,12 @@
+# airflow dependencies
+papermill==2.5.0
+boto3
+pyarrow
+pyspark==3.3.2
+
+# dashboard dependencies
+streamlit>=1.32
+plotly>=5.20
+pandas>=2.0
+boto3>=1.34
+pyarrow>=14.0
