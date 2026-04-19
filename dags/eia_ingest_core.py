@@ -1,7 +1,6 @@
 # dags/eia_ingest_core.py
 """
 Extracted logic from total_ingest.ipynb.
-Called directly by eia_ingest_dag — no notebook needed.
 """
 
 import io

@@ -1,7 +1,6 @@
 # dags/natural_gas_crude_core.py
 """
 Extracted logic from natural_gas_crude_processing.ipynb.
-Called directly by eia_processing_dag — no Papermill needed.
 """
 
 import os

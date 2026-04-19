@@ -1,7 +1,6 @@
 # dags/petroleum_coal_electricity_core.py
 """
 Extracted logic from petroleum_coal_electricity_total.ipynb.
-Called directly by eia_processing_dag — no Papermill needed.
 """
 
 

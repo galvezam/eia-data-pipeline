@@ -1,7 +1,7 @@
 # dags/eia_processing_dag.py
 """
 Processing DAG — calls natural_gas_crude_core.py and
-petroleum_coal_electricity_core.py directly (no Papermill / notebooks).
+petroleum_coal_electricity_core.py directly
 
 Date parameter priority (same as eia_ingest_dag):
   1. Manual trigger params  (start_date / end_date in Trigger UI)
