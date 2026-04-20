@@ -640,6 +640,7 @@ def load_dataset(dataset_key: str) -> pd.DataFrame:
         frames.append(pq.read_table(buf).to_pandas())
 
     df = pd.concat(frames, ignore_index=True)
+    df = df.drop_duplicates()
 
     # Schema-specific normalization
     category = meta.get("category", "")

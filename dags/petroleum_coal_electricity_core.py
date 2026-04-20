@@ -68,23 +68,39 @@ def run(
     OUT = f"s3a://{bucket_name}/processed"
 
     # Locate latest raw CSV for each dataset
-    def latest_s3_csv(prefix):
-        s3 = boto3.client("s3")
-        resp = s3.list_objects_v2(Bucket=bucket_name, Prefix=prefix)
-        objects = resp.get("Contents", [])
-        if not objects:
-            raise FileNotFoundError(f"No CSVs at s3://{bucket_name}/{prefix}")
-        return "s3a://" + bucket_name + "/" + sorted(objects, key=lambda o: o["LastModified"])[-1]["Key"]
+    # def latest_s3_csv(prefix):
+    #     s3 = boto3.client("s3")
+    #     resp = s3.list_objects_v2(Bucket=bucket_name, Prefix=prefix)
+    #     objects = resp.get("Contents", [])
+    #     if not objects:
+    #         raise FileNotFoundError(f"No CSVs at s3://{bucket_name}/{prefix}")
+    #     return "s3a://" + bucket_name + "/" + sorted(objects, key=lambda o: o["LastModified"])[-1]["Key"]
 
-    PETROLEUM_PATH           = latest_s3_csv("raw/petroleum/weekly/")
-    PETROLEUM_MOVEMENTS_PATH = latest_s3_csv("raw/petroleum_movements/weekly/")
-    COAL_PATH                = latest_s3_csv("raw/coal/annual/")
-    ELECTRICITY_PATH         = latest_s3_csv("raw/electricity/monthly/")
-    ELEC_RANKINGS_PATH       = latest_s3_csv("raw/electricity_state_rankings/annual/")
-    ELEC_NET_METERING_PATH   = latest_s3_csv("raw/electricity_net_metering/annual/")
-    ELEC_CAPACITY_PATH       = latest_s3_csv("raw/electricity_generating_capacity/annual/")
-    TOTAL_ENERGY_PATH        = latest_s3_csv("raw/total_energy/monthly/")
-    SEDS_PATH                = latest_s3_csv("raw/seds/annual/")
+    def all_s3_csvs(prefix):
+        """Return a list of all non-incremental CSV paths under prefix (paginated)."""
+        import boto3
+        s3 = boto3.client("s3")
+        paginator = s3.get_paginator("list_objects_v2")
+        keys = []
+        for page in paginator.paginate(Bucket=bucket_name, Prefix=prefix):
+            for obj in page.get("Contents", []):
+                key = obj["Key"]
+                if key.endswith(".csv") and "/incremental/" not in key:
+                    keys.append(key)
+        if not keys:
+            raise FileNotFoundError(f"No CSVs at s3://{bucket_name}/{prefix}")
+        # Return a LIST — not a comma-joined string
+        return [f"s3a://{bucket_name}/{k}" for k in keys]
+
+    PETROLEUM_PATH           = all_s3_csvs("raw/petroleum/weekly/")
+    PETROLEUM_MOVEMENTS_PATH = all_s3_csvs("raw/petroleum_movements/weekly/")
+    COAL_PATH                = all_s3_csvs("raw/coal/annual/")
+    ELECTRICITY_PATH         = all_s3_csvs("raw/electricity/monthly/")
+    ELEC_RANKINGS_PATH       = all_s3_csvs("raw/electricity_state_rankings/annual/")
+    ELEC_NET_METERING_PATH   = all_s3_csvs("raw/electricity_net_metering/annual/")
+    ELEC_CAPACITY_PATH       = all_s3_csvs("raw/electricity_generating_capacity/annual/")
+    TOTAL_ENERGY_PATH        = all_s3_csvs("raw/total_energy/monthly/")
+    SEDS_PATH                = all_s3_csvs("raw/seds/annual/")
 
     for label, path in [
         ("petroleum",           PETROLEUM_PATH),

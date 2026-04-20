@@ -72,19 +72,35 @@ def run(
     OUT     = f"{S3_BASE}/processed"
 
     # Locate latest raw CSVs for this date range
-    def latest_s3_csv(prefix):
-        """Return the most recently modified CSV key under prefix."""
+    # def latest_s3_csv(prefix):
+    #     """Return the most recently modified CSV key under prefix."""
+    #     import boto3
+    #     s3 = boto3.client("s3")
+    #     resp = s3.list_objects_v2(Bucket=bucket_name, Prefix=prefix)
+    #     objects = resp.get("Contents", [])
+    #     if not objects:
+    #         raise FileNotFoundError(f"No CSVs found at s3://{bucket_name}/{prefix}")
+    #     return "s3a://" + bucket_name + "/" + sorted(objects, key=lambda o: o["LastModified"])[-1]["Key"]
+    
+    def all_s3_csvs(prefix):
+        """Return a list of all non-incremental CSV paths under prefix (paginated)."""
         import boto3
         s3 = boto3.client("s3")
-        resp = s3.list_objects_v2(Bucket=bucket_name, Prefix=prefix)
-        objects = resp.get("Contents", [])
-        if not objects:
-            raise FileNotFoundError(f"No CSVs found at s3://{bucket_name}/{prefix}")
-        return "s3a://" + bucket_name + "/" + sorted(objects, key=lambda o: o["LastModified"])[-1]["Key"]
+        paginator = s3.get_paginator("list_objects_v2")
+        keys = []
+        for page in paginator.paginate(Bucket=bucket_name, Prefix=prefix):
+            for obj in page.get("Contents", []):
+                key = obj["Key"]
+                if key.endswith(".csv") and "/incremental/" not in key:
+                    keys.append(key)
+        if not keys:
+            raise FileNotFoundError(f"No CSVs at s3://{bucket_name}/{prefix}")
+        # Return a LIST — not a comma-joined string
+        return [f"s3a://{bucket_name}/{k}" for k in keys]
 
-    NAT_GAS_PATH  = latest_s3_csv("raw/natural_gas/monthly/")
-    NG_TRADE_PATH = latest_s3_csv("raw/natural_gas_trade/annual/")
-    CRUDE_PATH    = latest_s3_csv("raw/crude_oil_imports/monthly/")
+    NAT_GAS_PATH  = all_s3_csvs("raw/natural_gas/monthly/")
+    NG_TRADE_PATH = all_s3_csvs("raw/natural_gas_trade/annual/")
+    CRUDE_PATH    = all_s3_csvs("raw/crude_oil_imports/monthly/")
 
     print(f"natural_gas   : {NAT_GAS_PATH}")
     print(f"ng_trade      : {NG_TRADE_PATH}")
@@ -226,7 +242,7 @@ def run(
 
     # Write Parquet to S3
     def write_parquet(df, path, label):
-        print(f"Writing {label} → {path}")
+        print(f"Writing {label}: {path}")
         df.write.mode("overwrite").option("compression", "snappy").parquet(path)
         print(f"Done")
 
