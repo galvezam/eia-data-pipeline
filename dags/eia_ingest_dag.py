@@ -20,6 +20,7 @@ from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.decorators import task
 from airflow.models import Variable
+from airflow.operators.trigger_dagrun import TriggerDagRunOperator
 
 # Dataset registry
 # Mirrors total_ingest.ipynb DATASETS dict.  start/end here are the
@@ -263,7 +264,6 @@ def _resolve_date_range(dataset_name: str, config: dict, logical_date: datetime)
 
     if incremental and run_start is not None:
         BUCKET = os.environ.get("EIA_BUCKET", os.environ.get("BUCKET_NAME", ""))
-        # Filenames now include date range — find latest full-load file by prefix
         try:
             s3 = boto3.client("s3")
             prefix = f"raw/{dataset_name}/{freq}/{dataset_name}_"
@@ -297,7 +297,7 @@ def _resolve_date_range(dataset_name: str, config: dict, logical_date: datetime)
                         dt -= relativedelta(years=amount)
                         run_start = str(dt.year) if freq == "annual" else dt.strftime("%Y-%m")
         except Exception:
-            pass  # No existing data → fall through to full-load start
+            pass  
 
     if start_override:
         run_start = start_override
@@ -316,16 +316,15 @@ with DAG(
     dag_id="eia_ingest",
     default_args=default_args,
     description="Ingest EIA API datasets → S3 raw/  (date-parameterised)",
-    schedule="0 6 * * *",   # daily at 06:00 UTC; logical_date = yesterday
+    schedule="0 6 15 * *",   # run on the 15th of every month at 06:00 UTC, logical_date = yesterday
     start_date=datetime(2024, 1, 1),
     catchup=False,
     max_active_tasks=2,
     tags=["eia", "ingest"],
-    # Expose params so manual triggers can override dates without Variables
     params={
-        "start_date": None,   # e.g. "2024-01-01"  — overrides all datasets
+        "start_date": None,   # e.g. "2024-01-01" 
         "end_date":   None,   # e.g. "2024-03-31"
-        "incremental": None,  # "true" / "false"   — overrides the Variable
+        "incremental": None,  # "true"
     },
 ) as dag:
 
@@ -350,7 +349,18 @@ with DAG(
 
     start_task = ingest_start()
     end_task   = ingest_end()
+    trigger_processing = TriggerDagRunOperator(
+        task_id="trigger_eia_processing",
+        trigger_dag_id="eia_processing",
+        conf={
+            "start_date": "{{ params.start_date if params.start_date else '' }}",
+            "end_date":   "{{ params.end_date if params.end_date else '' }}",
+            "incremental": "{{ params.incremental if params.incremental else '' }}",
+        },
+        wait_for_completion=False,
+    )
 
+    ingest_tasks = []
     for dataset_name, dataset_config in DATASETS.items():
 
         @task(task_id=f"ingest_{dataset_name}")
@@ -385,4 +395,8 @@ with DAG(
             print(f"{name}: s3://{bucket}/{s3_key}")
             return s3_key
 
-        start_task >> ingest_task() >> end_task
+        t = ingest_task()
+        ingest_tasks.append(t)
+        start_task >> t >> end_task
+
+    end_task >> trigger_processing

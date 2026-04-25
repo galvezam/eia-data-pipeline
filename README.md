@@ -1,5 +1,25 @@
 ### EIA Data Pipeline
-Register for an API here: https://www.eia.gov/opendata/
+- Register for an API here: https://www.eia.gov/opendata/
+
+### Dependencies
+- Python environment assumes Airflow, Docker, PySpark, Boto3, and Streamlit are already included in the environment
+- Google Colab is used for running the Ingestion and Processing Jupyter Notebooks manually.
+- Create the virtual enviroment with the necessary dependencies in ```requirements.txt```
+    - ```python -m venv my_env```
+    - ```source my_env/bin/activate```
+    - ```pip install -r requirements.txt```
+
+
+### Airflow & Docker
+- In the terminal, create the Docker image with ```docker-compose build```
+- Then, run ```docker-compose up -d``` to spin up the container
+- Airflow UI is found in ```https://localhost:8080```
+- Username and password are both ```admin```
+- By defualt, both DAGs are paused. Unpause ```eia_ingest``` and ```eia_processing``` on the left hand side
+- Run the airflow dag by triggering the ```eia_ingest``` DAG under Actions on the right hand side
+    - Note: The ingestion layer can take some time (> 5 minutes) for longer date ranges. We recommend not going back farther than a month.
+    - The incremental option is only if you don't want to ingest data with the selected time frame that is already in the S3 bucket. It is automatically set to ```true``` but if you would like to see the data ingested in S3, set it to ```false```
+- All details for running Airflow and Docker can be found [here](./dags/README.md)
 
 ### Ingestion
 - Note that the jupyter notebook currently has ingestion for the year of 2025. We will add more data for previous years to get that amount of data greater than 2GB. We will run a batch job to get data from the previous months for the data that allows it (some data only comes annually), so that we don't overload the API and get rate limited.
@@ -19,3 +39,4 @@ Register for an API here: https://www.eia.gov/opendata/
 ### Dashboard
 - Start the dashboard using ```streamlit run dashboard/app.py```.
 - ```dashboard/data_loader.py``` loads and caches the data from AWS S3.
+- Further details are available [here](./dashboard/README.md)

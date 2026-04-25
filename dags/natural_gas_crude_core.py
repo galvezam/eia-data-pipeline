@@ -9,9 +9,15 @@ import os
 def _build_spark(aws_access_key: str, aws_secret_key: str, aws_region: str):
     from pyspark.sql import SparkSession
     import os
+    
+    existing = SparkSession.getActiveSession()
+    if existing:
+        existing.stop()
 
-    # PySpark 3.5 injects duration strings (e.g. "60s", "30s") into Hadoop
-    # config that hadoop-aws 3.2.2 cannot parse. Clear them before session start.
+    # Small delay to let the JVM fully shut down before restarting
+    import time
+    time.sleep(3)
+
     for key in (
         "PYSPARK_SUBMIT_ARGS",
         "SPARK_HADOOP_FS_S3A_CONNECTION_TIMEOUT",
@@ -71,17 +77,6 @@ def run(
     RAW     = f"{S3_BASE}/raw"
     OUT     = f"{S3_BASE}/processed"
 
-    # Locate latest raw CSVs for this date range
-    # def latest_s3_csv(prefix):
-    #     """Return the most recently modified CSV key under prefix."""
-    #     import boto3
-    #     s3 = boto3.client("s3")
-    #     resp = s3.list_objects_v2(Bucket=bucket_name, Prefix=prefix)
-    #     objects = resp.get("Contents", [])
-    #     if not objects:
-    #         raise FileNotFoundError(f"No CSVs found at s3://{bucket_name}/{prefix}")
-    #     return "s3a://" + bucket_name + "/" + sorted(objects, key=lambda o: o["LastModified"])[-1]["Key"]
-    
     def all_s3_csvs(prefix):
         """Return a list of all non-incremental CSV paths under prefix (paginated)."""
         import boto3
