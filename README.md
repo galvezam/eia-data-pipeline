@@ -24,7 +24,8 @@
 ### Ingestion
 - API Keys and other secrets should be configured in Google Colab Secrets on the left hand side of the Google Colab notebook under the key icon
 - Note that the jupyter notebook currently has ingestion for the year of 2025. We will add more data for previous years to ideally get that amount of data greater than 2GB. We will run a batch job to get data from the previous months for the data that allows it (some data only comes annually), so that we don't overload the API and get rate limited.
-- The target_data should be around 6 GB and can be downloaded at https://www.eia.gov/opendata/v1/bulkfiles.php, although we will use the API in this project.
+- The persistence with getting API rate limited is sporadic so if you are having issues, try running on a smaller time frame
+- The target_data should be around 15 GB and can be downloaded at https://www.eia.gov/opendata/v1/bulkfiles.php, although we will use the API in this project. All of the bulk files can be found under ```target_data/``` in the AWS S3 bucket
 
 #### Running the ingestion layer
 - To manually run the ingestion layer, we suggest using the jupyter notebook in ```ingest/total_ingest.ipynb``` as you can see the data directly.
