@@ -8,6 +8,7 @@
     - ```python -m venv my_env```
     - ```source my_env/bin/activate```
     - ```pip install -r requirements.txt```
+- For access to the API Keys, they are configured in AWS Secrets Manager which can be accessed with a User policy. We have attached a text file containing the sign-in link along with the username and password
 
 
 ### Airflow & Docker
