@@ -13,7 +13,7 @@
 ### Airflow & Docker
 - In the terminal, create the Docker image with ```docker-compose build```
 - Then, run ```docker-compose up -d``` to spin up the container
-- Airflow UI is found in ```https://localhost:8080```
+- Airflow UI is found in ```http://localhost:8080```
 - Username and password are both ```admin```
 - By defualt, both DAGs are paused. Unpause ```eia_ingest``` and ```eia_processing``` on the left hand side
 - Run the airflow dag by triggering the ```eia_ingest``` DAG under Actions on the right hand side
