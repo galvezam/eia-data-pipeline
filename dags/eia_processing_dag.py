@@ -26,11 +26,11 @@ default_args = {
 PROCESSORS = {
     "natural_gas_crude": {
         "module":        "natural_gas_crude_core",
-        "default_start": "2010-01",
+        "default_start": "1975-01",
     },
     "petroleum_coal_electricity": {
         "module":        "petroleum_coal_electricity_core",
-        "default_start": "2000-01",
+        "default_start": "1975-01",
     },
 }
 

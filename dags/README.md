@@ -5,7 +5,7 @@
 - Note: Can delete / end the services in the container using ```docker-compose down -v```
 
 ### Airflow
-- The Airflow UI will run on ```https://localhost://8080```
+- The Airflow UI will run on ```http://localhost://8080```
 - username / password should both be admin (for simplicity)
 - Click the arrow under actions to run each job (will specify dates for when to ingest)
 - If you click to trigger a dag under Actions, then it will automatically unpause the DAG, however if a DAG is paused (such as ```eia_processing```) and another DAG tirggers it (such as ```eia_ingest```), then the calls to ```eia_processing``` will be queued but not run until it is unpaused

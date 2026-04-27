@@ -555,7 +555,12 @@ def _list_parquet_keys(s3_client, prefix: str) -> list[str]:
     for page in paginator.paginate(Bucket=config.BUCKET_NAME, Prefix=prefix):
         for obj in page.get("Contents", []):
             key = obj["Key"]
-            if key.endswith(".parquet") or key.endswith(".snappy.parquet"):
+            # Skip Spark metadata files
+            basename = key.rsplit("/", 1)[-1]
+            if basename.startswith("_") or basename.startswith("."):
+                continue
+            # Match any parquet variant
+            if ".parquet" in key:
                 keys.append(key)
     return keys
 
